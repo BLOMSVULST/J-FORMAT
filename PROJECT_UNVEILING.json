@@ -1,0 +1,6460 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPURGATORY NODE",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_9f50fb667ffaba080dfb7d7b1283d62f.gif?size=512"
+  },
+  "channel": {
+    "id": "911486159895560233",
+    "type": "GuildTextChat",
+    "categoryId": "707675973813927947",
+    "category": "Dead-Dead Channels",
+    "name": "project-unveiling",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2023-10-18T15:42:54.7137218-05:00",
+  "messages": [
+    {
+      "id": "911490523615870987",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:37:55.505-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here\nSo, I know you guys have been aware of my long absence from the server recently; and well, the main reasons were due to life, interests shifting, and overall boredom to be honest\n*However,* I've got something big in the works that'll hopefully make up for that :)\nBecause you see, months ago, I've been thinking.. More than usual actually; this time about why exactly Rpurg 3 failed.\nWell, it was an interesting experiment to say the least, but the public rpurgatory fell apart within days. A bit sad, but looking back, I could understand why!\nThe main problem was that we tried to directly copy over the Rpurg we had at the time into a public setting, when the server was mainly suited towards a close-knit community/friend group, and while it's worked for a long time.. Slowly, the server passed its better days.\nIt was then that I realized what we really needed; we needed something new.. Something better than this.",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911490707812933644",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:38:39.421-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh?",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Je",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/e6a83812b5e11c242acd4e0fae286403.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911490775194411048",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:38:55.486-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well this should be interesting",
+      "author": {
+        "id": "357005814394912769",
+        "name": "mabz09",
+        "discriminator": "0000",
+        "nickname": "Mabz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357005814394912769/0097269a6e5b1d015f88b73915a577f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911490909949022258",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:39:27.614-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "While Rpurg 2 was a step-up from its predecessor, it was still riddled with problems that had yet to be solved.. Such as new people having difficulty fitting in with the current roleplays in bot rp due to not understanding the extensive plot, the complete lack of interest of rping in the dusty and abandoned rp channels, and the very little non-rping aspects of the server, to name a few.\nSo, why not try revamping it? Why not try breathing new life into rpurg's community once again? But instead of doing it through a system more meant for a small community, we'll do it through something better..!\nAnd that, was when I was struck with an idea. A Project! And I called it.. Project **NewPurg!**",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911491226224689153",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:40:43.02-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And heres a snippet (and it's current look so far) of what it looks like! It's only the RPing segments for now, but what do you think?",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "911491226333769748",
+          "url": "https://cdn.discordapp.com/attachments/911486159895560233/911491226333769748/Screenshot_20211120-0023392.png?ex=653c9edb&is=652a29db&hm=5e0d4d4b2afbecadbae31a18d236b36df83af2231081622240ede47f2c30ddc3&",
+          "fileName": "Screenshot_20211120-0023392.png",
+          "fileSizeBytes": 158840
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911491286542974996",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:40:57.401-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dnd?",
+      "author": {
+        "id": "357005814394912769",
+        "name": "mabz09",
+        "discriminator": "0000",
+        "nickname": "Mabz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357005814394912769/0097269a6e5b1d015f88b73915a577f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911491328188219392",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:41:07.33-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yep!",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911491369632161853",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:41:17.211-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm suprised to learn you'd include dnd into the mix",
+      "author": {
+        "id": "357005814394912769",
+        "name": "mabz09",
+        "discriminator": "0000",
+        "nickname": "Mabz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357005814394912769/0097269a6e5b1d015f88b73915a577f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911491419204636683",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:41:29.03-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I assume you know how to play it?",
+      "author": {
+        "id": "357005814394912769",
+        "name": "mabz09",
+        "discriminator": "0000",
+        "nickname": "Mabz",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357005814394912769/0097269a6e5b1d015f88b73915a577f6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911491431393271808",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:41:31.936-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I thought it would be a great idea if we tried expanding a bit into other kinds of rps",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911491804975738930",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:43:01.005-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And not really, but we could choose other people who actually *do* know how to play dnd if they happen to join that server; Mods don't necessarily have to be the dungeonmaster since it could be anyone! Given they know how to play, of course",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911492237727240212",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:44:44.181-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I actually explained NewPurg to Seth in the past! But I didn't want to tell you guys yet because I wanted to add more onto this, but I've been struggling with ideas for NewPurg for a while now..",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911492383747743774",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:45:18.995-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But since several important members of rpurg are back, I thought now would be a good time to finally unveil this to you guys",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911492684982673458",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:46:30.815-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You don't have to respond to it now since it's pretty late on my end, but let me know what you think!",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911492840012529664",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:47:07.777-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And if you have any more questions about NewPurg, just leave them here for me to answer later",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911492917691052112",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:47:26.297-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyway I gotta go to sleep, hope you guys like this!",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911495506675523614",
+      "type": "Default",
+      "timestamp": "2021-11-19T23:57:43.559-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "now im interested, maybe to dabble into rping now that i have learned and gotten a bit more comfortable with it",
+      "author": {
+        "id": "520128208562028545",
+        "name": "lekingyeeter",
+        "discriminator": "0000",
+        "nickname": "Kingiest King Kin",
+        "color": "#95DF86",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707723206672515123",
+            "name": "C+ Class",
+            "color": "#95DF86",
+            "position": 67
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 64
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 60
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 59
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 56
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 47
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 39
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 37
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#1D002B",
+            "position": 36
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 35
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 20
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 19
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/520128208562028545/64c23e27f05bb7795d2d3ba93d2f1796.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916339143204802590",
+      "type": "Default",
+      "timestamp": "2021-12-03T08:44:36.498-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As long as I can keep bot-rp, I'm in",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916339203942522911",
+      "type": "Default",
+      "timestamp": "2021-12-03T08:44:50.979-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh shoot do I have to make a sheet for every character?",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916343300242436166",
+      "type": "Default",
+      "timestamp": "2021-12-03T09:01:07.613-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it might just be for dnd or for convenience's sake",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Qa",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 34
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/daa0bde2c8882e8e52c9369de9967941.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916343376654241822",
+      "type": "Default",
+      "timestamp": "2021-12-03T09:01:25.831-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "either way, rp's could preferably be more balanced with known rules",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Qa",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 34
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/daa0bde2c8882e8e52c9369de9967941.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916343418953809950",
+      "type": "Default",
+      "timestamp": "2021-12-03T09:01:35.916-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so that's an option",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Qa",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 34
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/daa0bde2c8882e8e52c9369de9967941.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916355875361390684",
+      "type": "Default",
+      "timestamp": "2021-12-03T09:51:05.755-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916355961365602374",
+      "type": "Default",
+      "timestamp": "2021-12-03T09:51:26.26-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cause if I had to send in a character sheet for all my characters, I think my hands would end themselves",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916365818399453235",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:30:36.36-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this sounds promising bee but how are we absolutely sure this wont end up like the Other Times",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "ps",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 69
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 3
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916365834958553109",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:30:40.308-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "when we tried to",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "ps",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 69
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 3
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916365845150720080",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:30:42.738-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "revamp rpurg",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "ps",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 69
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 3
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916369373218873395",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:44:43.895-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916369446514352128",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:45:01.37-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well, Newpurg is gonna be geared more towards a community, and not just for a small friend group anymore",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916369681177276476",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:45:57.318-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The reason why Rpurg 3 failed was because we literally tried to copy over Rpurg 2 for something that was meant for the public, but we had no systems or anything in place to actually *prepare* for one",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916369843182247989",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:46:35.943-06:00",
+      "timestampEdited": "2021-12-03T10:54:12.121-06:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rpurg 2 worked best, or at least functionally with a close-knit community, when we need it to be geared towards the public; which means we need clear, more strict rules, less clutter for the channels, and other things to keep people entertained when they're waiting on other people or if they're not interested in roleplay at all",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916369927202557993",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:46:55.975-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thats why i added in more roleplay types since the server's more public",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916370082748301333",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:47:33.06-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and its also why im steering Newpurg towards being less dependant on the rp channels, because not everyone's gonna be interested in doing them",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916370985232531486",
+      "type": "Reply",
+      "timestamp": "2021-12-03T10:51:08.229-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hm, well, what do you think went wrong when we tried to revamp rpurg the other times? There could be other reasons ive missed\nBut thanks for thinking its promising!",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "499764362790043665",
+          "name": "spr.ay",
+          "discriminator": "0000",
+          "nickname": "ps",
+          "color": "#46815C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1127397681946439721",
+              "name": "Botanical Beasties",
+              "color": "#46815C",
+              "position": 69
+            },
+            {
+              "id": "789038966631694346",
+              "name": "Semitranscended Piranha Plant",
+              "color": "#FF9900",
+              "position": 62
+            },
+            {
+              "id": "707653762709192864",
+              "name": "Ascended Piranha Plant",
+              "color": "#1159C2",
+              "position": 58
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 57
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 38
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 32
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 31
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 29
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 28
+            },
+            {
+              "id": "1133704487178080319",
+              "name": "RPTube Channel Updates",
+              "color": "#B9383A",
+              "position": 27
+            },
+            {
+              "id": "1030696611829006357",
+              "name": "Book Club",
+              "color": "#2ECC71",
+              "position": 26
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 25
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 24
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 23
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 22
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 3
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "916365818399453235",
+        "channelId": "911486159895560233",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "916371552772173924",
+      "type": "Reply",
+      "timestamp": "2021-12-03T10:53:23.541-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "time to do the most American thing we can, outsourcing, its the American way",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "WOKE JACKAL",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 65
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 64
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 63
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 60
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 59
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 56
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 55
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 54
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 53
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 49
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#DDBFDA",
+            "position": 48
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 47
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 46
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "The Fish",
+            "color": "#4A929E",
+            "position": 45
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 44
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 43
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 42
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 40
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 39
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 37
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#1D002B",
+            "position": 36
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 35
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 30
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 21
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 20
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 19
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609242340296622094/6e93da3850ee8bb53fe14e578dcb6766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "398102353359667201",
+          "name": "bee_queen5009",
+          "discriminator": "0000",
+          "nickname": "Bee! :>",
+          "color": "#D9F35B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "707522289599643654",
+              "name": "Hiveministrator",
+              "color": null,
+              "position": 75
+            },
+            {
+              "id": "707522391563042887",
+              "name": "Still The Best Bee",
+              "color": "#D9F35B",
+              "position": 66
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 32
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "916370082748301333",
+        "channelId": "911486159895560233",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "916372194555220020",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:55:56.554-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yep",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916372234958958612",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:56:06.187-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "epic",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "WOKE JACKAL",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 65
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 64
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 63
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 60
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 59
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 56
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 55
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 54
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 53
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 49
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#DDBFDA",
+            "position": 48
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 47
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 46
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "The Fish",
+            "color": "#4A929E",
+            "position": 45
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 44
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 43
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 42
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 40
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 39
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 37
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#1D002B",
+            "position": 36
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 35
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 30
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 21
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 20
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 19
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609242340296622094/6e93da3850ee8bb53fe14e578dcb6766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916372292928430140",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:56:20.008-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we should pay our employees in India like 2 cents a day",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "WOKE JACKAL",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 65
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 64
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 63
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 60
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 59
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 56
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 55
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 54
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 53
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 49
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#DDBFDA",
+            "position": 48
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 47
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 46
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "The Fish",
+            "color": "#4A929E",
+            "position": 45
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 44
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 43
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 42
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 40
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 39
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 37
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#1D002B",
+            "position": 36
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 35
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 30
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 21
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 20
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 19
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609242340296622094/6e93da3850ee8bb53fe14e578dcb6766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916372320518537226",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:56:26.586-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they can live off of that",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "WOKE JACKAL",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 65
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 64
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 63
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 60
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 59
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 56
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 55
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 54
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 53
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 49
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#DDBFDA",
+            "position": 48
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 47
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 46
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "The Fish",
+            "color": "#4A929E",
+            "position": 45
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 44
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 43
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 42
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 40
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 39
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 37
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#1D002B",
+            "position": 36
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 35
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 30
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 21
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 20
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 19
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609242340296622094/6e93da3850ee8bb53fe14e578dcb6766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916372396309630978",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:56:44.656-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "trust me i know how economies work",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "WOKE JACKAL",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 65
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 64
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 63
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 60
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 59
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 56
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 55
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 54
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 53
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 49
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#DDBFDA",
+            "position": 48
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 47
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 46
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "The Fish",
+            "color": "#4A929E",
+            "position": 45
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 44
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 43
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 42
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 40
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 39
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 37
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#1D002B",
+            "position": 36
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 35
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 30
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 21
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 20
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 19
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609242340296622094/6e93da3850ee8bb53fe14e578dcb6766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916372443101290516",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:56:55.812-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/just-stop-no-just-no-nodding-nah-nope-gif-16953582",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/just-stop-no-just-no-nodding-nah-nope-gif-16953582",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/VtI_PV1FP51QhV-XXchpwk9aMLQvxqwAQmRhfy6G37Q/https/media.tenor.co/images/6bbd562982775d564333c97aba5f3a54/tenor.png",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916372462642540565",
+      "type": "Default",
+      "timestamp": "2021-12-03T10:57:00.471-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But i don't plan to steer it *too far* from its rping roots, roleplay will still be a big part of the server",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916373961250586693",
+      "type": "Default",
+      "timestamp": "2021-12-03T11:02:57.767-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and don't worry, bot rp's still gonna be part of that server too; its even in the screenshot",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916377182178271252",
+      "type": "Default",
+      "timestamp": "2021-12-03T11:15:45.696-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "epic gamer moment",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "WOKE JACKAL",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 65
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 64
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 63
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 60
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 59
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 56
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 55
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 54
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 53
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 52
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 49
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#DDBFDA",
+            "position": 48
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 47
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 46
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "The Fish",
+            "color": "#4A929E",
+            "position": 45
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 44
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 43
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 42
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 40
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 39
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 37
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#1D002B",
+            "position": 36
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 35
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 30
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 21
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 20
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 19
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609242340296622094/6e93da3850ee8bb53fe14e578dcb6766.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916398528526438400",
+      "type": "Reply",
+      "timestamp": "2021-12-03T12:40:35.062-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> need it to be geared towards the public",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "ps",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 69
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 3
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "398102353359667201",
+          "name": "bee_queen5009",
+          "discriminator": "0000",
+          "nickname": "Bee! :>",
+          "color": "#D9F35B",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "707522289599643654",
+              "name": "Hiveministrator",
+              "color": null,
+              "position": 75
+            },
+            {
+              "id": "707522391563042887",
+              "name": "Still The Best Bee",
+              "color": "#D9F35B",
+              "position": 66
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 32
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "916369843182247989",
+        "channelId": "911486159895560233",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "916398542950641674",
+      "type": "Default",
+      "timestamp": "2021-12-03T12:40:38.501-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "ps",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 69
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 3
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916398550865285240",
+      "type": "Default",
+      "timestamp": "2021-12-03T12:40:40.388-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "disagree",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "ps",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 69
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 3
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916398772752355338",
+      "type": "Default",
+      "timestamp": "2021-12-03T12:41:33.29-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rpurg in its best state has a really nice dynamic of being halfway in the spectrum between public and privated, its just a community and i think thats alot of rpurgs charm",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "ps",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 69
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 3
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916402553758048257",
+      "type": "Default",
+      "timestamp": "2021-12-03T12:56:34.752-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hm, yeah but still\nit still has to be a little more prepared to induct more people, though\nI dont want to lose the close-knit charm either, but we can't always stick with the same 10 people we know",
+      "author": {
+        "id": "398102353359667201",
+        "name": "bee_queen5009",
+        "discriminator": "0000",
+        "nickname": "Bee! :>",
+        "color": "#D9F35B",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "707522289599643654",
+            "name": "Hiveministrator",
+            "color": null,
+            "position": 75
+          },
+          {
+            "id": "707522391563042887",
+            "name": "Still The Best Bee",
+            "color": "#D9F35B",
+            "position": 66
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/398102353359667201/9ffedd09aa86f0c61564471a0c0d309d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962018107533168700",
+      "type": "Default",
+      "timestamp": "2022-04-08T10:56:30.268-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "politic is bad",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Je",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/e6a83812b5e11c242acd4e0fae286403.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962018157424435200",
+      "type": "Default",
+      "timestamp": "2022-04-08T10:56:42.163-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oop",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Je",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/e6a83812b5e11c242acd4e0fae286403.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962018159311867934",
+      "type": "Default",
+      "timestamp": "2022-04-08T10:56:42.613-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wrong channel",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Je",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/e6a83812b5e11c242acd4e0fae286403.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962019190645076079",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:00:48.502-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jjshsf",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Qa",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 34
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/daa0bde2c8882e8e52c9369de9967941.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962019707651772517",
+      "type": "Reply",
+      "timestamp": "2022-04-08T11:02:51.766-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh hey, a gif from a show i know",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Je",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/e6a83812b5e11c242acd4e0fae286403.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "548652144077832203",
+          "name": "witherblaze",
+          "discriminator": "0000",
+          "nickname": "Blazing Revolution",
+          "color": "#D7342A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "713909207040000121",
+              "name": "The Warrior",
+              "color": "#D7342A",
+              "position": 61
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 57
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 32
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 31
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 29
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 28
+            },
+            {
+              "id": "1133704487178080319",
+              "name": "RPTube Channel Updates",
+              "color": "#B9383A",
+              "position": 27
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 25
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 23
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 22
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 1
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "916372443101290516",
+        "channelId": "911486159895560233",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "962019803009273926",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:03:14.501-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wtf is the show?",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962025302454841425",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:25:05.671-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the good place",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Je",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/e6a83812b5e11c242acd4e0fae286403.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962025387225940018",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:25:25.882-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "never heard of it",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962025606952931338",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:26:18.269-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you are literally stuck in the 80s",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Je",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/e6a83812b5e11c242acd4e0fae286403.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962025741585883157",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:26:50.368-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't watch sitcoms",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962025757650079754",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:26:54.198-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "from any time period",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962025912549933117",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:27:31.129-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lie",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "ps",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 69
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 62
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 58
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 38
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 26
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 3
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962025967625314374",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:27:44.26-05:00",
+      "timestampEdited": "2022-04-08T11:27:46.767-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok one exception: Sanford and Son",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962026017126498394",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:27:56.062-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the rest I don't watch",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962026032196640878",
+      "type": "Default",
+      "timestamp": "2022-04-08T11:27:59.655-05:00",
+      "timestampEdited": "2022-04-08T11:28:07.099-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "never really liked sitcoms",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Revolution",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 61
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 31
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 27
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/9949e8879623534c6999b69dd67392f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962028173896319086",
+      "type": "Reply",
+      "timestamp": "2022-04-08T11:36:30.276-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "silly billy, it's clearly `Elaine` from `The Office`!",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Qa",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 73
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 57
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 41
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 34
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 33
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 32
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 29
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 28
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 25
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 24
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 23
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/daa0bde2c8882e8e52c9369de9967941.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "916372443101290516",
+        "channelId": "911486159895560233",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 65
+}
