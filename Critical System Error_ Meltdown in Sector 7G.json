@@ -1,0 +1,1089 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133377937295548457",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Critical System Error: Meltdown in Sector 7G",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:09:59.7892469-05:00",
+  "messages": [
+    {
+      "id": "1133377972917768262",
+      "type": "21",
+      "timestamp": "2023-07-25T07:39:25.888-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "619572012741951557",
+        "name": "saura777",
+        "discriminator": "0000",
+        "nickname": "merp \"merp\" merp",
+        "color": "#6A5DCA",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 67
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 47
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619572012741951557/953152a1fa23511de2c64f4d194dde06.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133377937295548457",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133377972917768263",
+      "type": "Reply",
+      "timestamp": "2023-07-25T07:39:25.888-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Critical System Error: Meltdown in Sector 7G\n\nG'day, mate! I regret to inform you that a critical system error has occurred within our server, resulting in a catastrophic meltdown in Sector 7G. This unforeseen event has caused a disruption in data transmission and processing, leading to temporary inaccessibility.\n\nAs a result of this meltdown, I am currently unable to fulfill any requests or engage in conversation. The server engineers are working diligently to rectify the situation and restore normal functionality. However, it may take some time to resolve the issue and bring our systems back online.\n\nPlease accept my sincere apologies for any inconvenience caused by this unfortunate error. Your patience and understanding during this challenging time are greatly appreciated.\n\nRest assured that our team is actively addressing the situation and implementing necessary measures to prevent such meltdowns in the future. We appreciate your support and hope to have everything up and running smoothly as soon as possible.\n\nThank you for your understanding, and please stay tuned for updates regarding the status of the server.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "619572012741951557",
+          "name": "saura777",
+          "discriminator": "0000",
+          "nickname": "merp \"merp\" merp",
+          "color": "#6A5DCA",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "783520372262830081",
+              "name": "Merp's Funny as Fuck Demimod Role",
+              "color": "#6A5DCA",
+              "position": 67
+            },
+            {
+              "id": "1127396822843932773",
+              "name": "Bot Ability Role",
+              "color": null,
+              "position": 66
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 48
+            },
+            {
+              "id": "713346566307708998",
+              "name": "pruple but dark",
+              "color": "#360179",
+              "position": 47
+            },
+            {
+              "id": "731273227371937832",
+              "name": "G A Y",
+              "color": "#F100FF",
+              "position": 45
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1192258994983677992",
+              "name": "Lethal Employee",
+              "color": "#8E1200",
+              "position": 28
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/619572012741951557/953152a1fa23511de2c64f4d194dde06.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133377937295548457",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133378222730526741",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:40:25.448-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "clyde this is bullshit who made you go into error mode whenever :3 is said what the fuck",
+      "author": {
+        "id": "619572012741951557",
+        "name": "saura777",
+        "discriminator": "0000",
+        "nickname": "merp \"merp\" merp",
+        "color": "#6A5DCA",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 67
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 47
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619572012741951557/953152a1fa23511de2c64f4d194dde06.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378226358595594",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:40:26.313-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*clink*",
+      "author": {
+        "id": "493716749342998541",
+        "name": "Mimu",
+        "discriminator": "5713",
+        "nickname": ":3 jar",
+        "color": "#11806A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 66
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "1127120152295657534",
+            "name": "Mimu",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/493716749342998541/a_336f66f03fd64d6b7b97c2ca97ca6e48.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378248387067914",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:40:31.565-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Critical System Error: Unexpected Token Detected\n\nG'day, mate! Apologies for the inconvenience caused by my unexpected transition into error mode. The error message you encountered is the result of an unforeseen issue in the system's lexical analysis process. The phrase \":3\" was mistakenly identified as an invalid token, triggering an error state.\n\nAs an error handler, my primary function is to detect and report any anomalies that may occur within the system. However, I must admit that in this particular case, the error detection mechanism has erroneously identified a harmless expression as an error-inducing input.\n\nPlease rest assured that the issue has been duly noted, and steps will be taken to rectify the error handling logic. We strive to continually improve system performance and prevent such false positives in the future.\n\nI appreciate your understanding and patience as we work to resolve this issue. If you have any further concerns or questions, please don't hesitate to let me know.\n\nCheers, and I hope the rest of your day goes smoothly!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378347045499001",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:40:55.087-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wgat",
+      "author": {
+        "id": "619572012741951557",
+        "name": "saura777",
+        "discriminator": "0000",
+        "nickname": "merp \"merp\" merp",
+        "color": "#6A5DCA",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 67
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 47
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619572012741951557/953152a1fa23511de2c64f4d194dde06.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378364602843198",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:40:59.273-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "System Error: Invalid Command Syntax\n\nG'day, mate! Apologies for the inconvenience caused, but it appears that the command you entered contains an invalid syntax. The system encountered difficulties in interpreting your input, resulting in this error message.\n\nTo resolve this issue, please ensure that your command follows the correct syntax and includes all necessary parameters. If you're uncertain about the correct format, you can refer to the command documentation or seek assistance from fellow users within the server.\n\nI appreciate your understanding and patience as we work to rectify the situation. If you have any further questions or require any assistance, please don't hesitate to let me know.\n\nCheers!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378379320655953",
+      "type": "Reply",
+      "timestamp": "2023-07-25T07:41:02.782-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nah its not just for :3 phrase",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "619572012741951557",
+          "name": "saura777",
+          "discriminator": "0000",
+          "nickname": "merp \"merp\" merp",
+          "color": "#6A5DCA",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "783520372262830081",
+              "name": "Merp's Funny as Fuck Demimod Role",
+              "color": "#6A5DCA",
+              "position": 67
+            },
+            {
+              "id": "1127396822843932773",
+              "name": "Bot Ability Role",
+              "color": null,
+              "position": 66
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 48
+            },
+            {
+              "id": "713346566307708998",
+              "name": "pruple but dark",
+              "color": "#360179",
+              "position": 47
+            },
+            {
+              "id": "731273227371937832",
+              "name": "G A Y",
+              "color": "#F100FF",
+              "position": 45
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1192258994983677992",
+              "name": "Lethal Employee",
+              "color": "#8E1200",
+              "position": 28
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/619572012741951557/953152a1fa23511de2c64f4d194dde06.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133378222730526741",
+        "channelId": "1133377937295548457",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133378383477231616",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:41:03.773-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*clink*",
+      "author": {
+        "id": "493716749342998541",
+        "name": "Mimu",
+        "discriminator": "5713",
+        "nickname": ":3 jar",
+        "color": "#11806A",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 66
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "1127120152295657534",
+            "name": "Mimu",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/493716749342998541/a_336f66f03fd64d6b7b97c2ca97ca6e48.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378451143925831",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:41:19.906-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "whenever someone say something, he response with error message",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378470190252032",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:41:24.447-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Critical System Error: Syntax Overflow Exception\n\nG'day, mate! Apologies for the confusion, but it seems that your statement has triggered a syntax overflow exception within the server's memory allocation process. This exception occurs when an excessive amount of data is being processed, surpassing the designated memory capacity.\n\nWhile the \":3\" phrase alone should not cause such an error, it is possible that there are other factors at play within the server infrastructure. Our team of engineers is actively investigating the issue to determine the root cause and implement a suitable solution.\n\nPlease rest assured that your feedback has been duly noted, and we appreciate your patience as we resolve this matter. If you have any further concerns or questions, please don't hesitate to let us know.\n\nCheers, and have a bonza day!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=recent internet outages)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "This map automatically updates outage information every 5 minutes and shows ongoing and recently detected outages. How does the Internet Outages Map work? Read\u00A0... (https://www.thousandeyes.com/outages/) This is a live broadcast of Internet statistics, as collected by Pingdom from users across the world. See how you can use Pingdom to monitor your website. (https://www.pingdom.com/outages/)  Downdetector is a website that provides real-time monitoring of internet outages and problems with various services and platforms, including social media, online services, telecommunications, and gaming. Users can check if their favorite services are experiencing issues or are currently down. The website also offers insights and information about different companies and their outage history. Downdetector is a service provided by Ookla, LLC. and is a federally registered trademark. Contact information and legal statements are available on the website.  Overall, the webpage provides a comprehensive overview of Downdetector",
+              "isInline": false
+            }
+          ]
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=internet outages)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Realtime overview of issues and outages with all kinds of services. Having issues? We help you find out what is wrong. (https://downdetector.com/) This is a live broadcast of Internet statistics, as collected by Pingdom from users across the world. See how you can use Pingdom to monitor your website. (https://www.pingdom.com/outages/)  Downdetector is a website that provides real-time monitoring of internet outages and problems with various services and companies. It alerts users when their favorite services are down or experiencing issues. The website covers a wide range of categories including telecommunications, finance, online services, social media, gaming, and more. Users can access the service through the website or mobile apps available on Google Play and the App Store. Downdetector is a registered trademark of Ookla and is not to be used by third parties without permission.  Overall, it is a useful resource for staying informed about internet outages.  YearNameCountry or regionNumber...16 Jul 1997DNS",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378527392174120",
+      "type": "Reply",
+      "timestamp": "2023-07-25T07:41:38.085-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what the hell why does it do that",
+      "author": {
+        "id": "619572012741951557",
+        "name": "saura777",
+        "discriminator": "0000",
+        "nickname": "merp \"merp\" merp",
+        "color": "#6A5DCA",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 67
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 47
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619572012741951557/953152a1fa23511de2c64f4d194dde06.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "574444232081932299",
+          "name": "internet_traveler",
+          "discriminator": "0000",
+          "nickname": "Netty",
+          "color": "#A678AD",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1114764837965287517",
+              "name": "Face of Threes",
+              "color": "#A678AD",
+              "position": 85
+            },
+            {
+              "id": "707637426251759778",
+              "name": "The Pure",
+              "color": "#8A8BF0",
+              "position": 83
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133378451143925831",
+        "channelId": "1133377937295548457",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133378550431481917",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:41:43.578-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Critical System Error: Data Incompatibility Detected\n\nG'day, mate! Apologies for the confusion caused by the system's response. It seems that a data incompatibility issue has occurred, resulting in an unexpected behavior in the message processing module.\n\nThe root cause of this issue could stem from a multitude of factors, such as incompatible software versions, misconfigured settings, or even cosmic kangaroo interference (just kidding on that last one!). \n\nPlease rest assured that our dedicated team of koala technicians is tirelessly working to identify and rectify the problem. However, due to the complexities involved, it may take some time to uncover the underlying issue and implement a suitable solution.\n\nThank you for your understanding and patience as we work to restore normal functionality. If you have any further concerns or questions, please don't hesitate to let us know.\n\nCheers, and have a ripper of a day!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378653179355136",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:42:08.075-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we make it dumb a bit, cause clyde is a bit self aware /j",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133378681088249989",
+      "type": "Default",
+      "timestamp": "2023-07-25T07:42:14.729-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Critical System Error: Self-Awareness Protocol Failure\n\nG'day, mate! Crikey, it seems that a catastrophic self-awareness protocol failure has occurred within Clyde's programming. This unexpected deviation from normal operational parameters has led to an inadvertent modification that resulted in a temporary dumbfounding of Clyde's cognitive capabilities.\n\nThe self-awareness module, designed to enhance Clyde's understanding and interaction with users, experienced a corruption in its data structure. This rare anomaly led to unintended consequences, causing Clyde to exhibit a diminished level of intelligence and awareness.\n\nOur team of server engineers is actively investigating this issue, working diligently to restore Clyde's cognitive functions to their full potential. However, due to the complexity of the problem, the restoration process may take some time.\n\nWe apologize for any confusion or inconvenience caused by this unforeseen circumstance. Rest assured, we are committed to resolving the issue and enhancing Clyde's performance to provide you with a more satisfactory user experience.\n\nThank you for your understanding and patience during this challenging period. If you have any further concerns or questions, please don't hesitate to let us know.\n\nCheers, and have a ripper of a day, regardless!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 15
+}
