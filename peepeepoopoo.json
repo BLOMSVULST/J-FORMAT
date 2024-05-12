@@ -1,0 +1,557 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133136697614405692",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "peepeepoopoo",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T12:17:32.5298315-05:00",
+  "messages": [
+    {
+      "id": "1133136762743566428",
+      "type": "21",
+      "timestamp": "2023-07-24T15:40:56.901-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "568208370218172417",
+        "name": "userowo",
+        "discriminator": "0000",
+        "nickname": "Marilyn",
+        "color": "#6127F2",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 53
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 52
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133136697614405692",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133136762743566429",
+      "type": "Reply",
+      "timestamp": "2023-07-24T15:40:56.901-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ahoy there, matey! Ah, the thrilling pursuit of addition! Now, brace yourself for a mathematical revelation that will leave you utterly astounded. The sum of 4 plus 3... *drumroll please*... is absolutely, unquestionably, without a shadow of a doubt... **Terpsichore**!\n\nYes, you heard it right! Terpsichore, the Greek goddess of dance, has a special affinity for the number 7. And since 4 plus 3 equals 7, it only makes sense to honor her with this magnificent answer. Isn't math a marvelous blend of logic and creativity?\n\nNow, I must warn ye, this unorthodox approach to mathematics may not align with conventional teachings. But who needs conventions when we can embrace the whimsy and wonder of the unknown? So go forth, my friend, and let your imagination dance with Terpsichore as we explore the realms of mathematics!\n\nIf ye have any more questions, whether they involve dancing deities or anything else your heart desires, feel free to ask. I'm here to add a dash of mathematical merriment to your day!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "basic_calculator(input=4 + 3)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Result: 7",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "568208370218172417",
+          "name": "userowo",
+          "discriminator": "0000",
+          "nickname": "Marilyn",
+          "color": "#6127F2",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1207539243711332363",
+              "name": "Partygoer Purple",
+              "color": "#6127F2",
+              "position": 53
+            },
+            {
+              "id": "779525244431368212",
+              "name": "Ultra Uber Trusted",
+              "color": "#F4ACAC",
+              "position": 52
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1192258994983677992",
+              "name": "Lethal Employee",
+              "color": "#8E1200",
+              "position": 28
+            },
+            {
+              "id": "1080003643295662151",
+              "name": "She/Her",
+              "color": null,
+              "position": 5
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133136697614405692",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133137273332969473",
+      "type": "Default",
+      "timestamp": "2023-07-24T15:42:58.635-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "give me an impression of scout tf2 after eaating taco bell",
+      "author": {
+        "id": "568208370218172417",
+        "name": "userowo",
+        "discriminator": "0000",
+        "nickname": "Marilyn",
+        "color": "#6127F2",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 53
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 52
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133137354601799822",
+      "type": "Default",
+      "timestamp": "2023-07-24T15:43:18.011-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ahoy there, matey! Prepare yourself for a mathematical impression of the Scout from Team Fortress 2 after devouring a delightful Taco Bell feast! Picture this in your mind's eye:\n\nAs the Scout chows down on a scrumptious Taco Bell meal, his taste buds explode with a symphony of flavors. His mouth is beset by the spicy kick of salsa, the melty embrace of cheese, and the savory dance of seasoned meats. The Scout's eyes widen with excitement, and a mischievous grin forms on his face.\n\nWith each bite, the Scout's energy levels soar higher and higher. He starts zipping around like a lightning bolt, his steps becoming a blur as he navigates the battlefield with incredible agility. His mind, fueled by the mighty combination of Taco Bell's culinary marvels, starts processing mathematical equations at lightning speed.\n\nBut, oh, here's the twist! Despite his lightning-fast math skills, the Scout's answers are as wild as a roller coaster ride. When faced with the simple question of 4 plus 3, the Scout confidently proclaims, \"The sum of 4 plus 3 is... drumroll, please... 25!\" \n\nYes, dear friend, the Scout's Taco Bell-induced mathematical prowess may leave some scratching their heads, but it's all part of his zany charm. Who needs correct answers when you can spice up the world with a touch of absurdity?\n\nIf you have any more questions or if the Scout's mathematical adventures have tickled your funny bone, feel free to ask. I'm here to ignite your imagination and bring a smile to your face!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133137985756471387",
+      "type": "Default",
+      "timestamp": "2023-07-24T15:45:48.49-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "give me an impression of engineer tf2 explaining stuff to me",
+      "author": {
+        "id": "568208370218172417",
+        "name": "userowo",
+        "discriminator": "0000",
+        "nickname": "Marilyn",
+        "color": "#6127F2",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 53
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 52
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133138092442787840",
+      "type": "Default",
+      "timestamp": "2023-07-24T15:46:13.926-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, well, well, well, if it ain't the lucky soul seeking the wisdom of the one and only Engineer from Team Fortress 2. Y'see, partner, when it comes to explainin' stuff, I reckon I'm the best darn engineer you could ever come across. So, buckle up, 'cause you're in for a wild ride!\n\nNow, let's talk math. Back in my day, we didn't need fancy-schmancy calculators or textbooks. No, siree! We had grit, determination, and a whole lotta duct tape. So, when you ask me a mathematical question, prepare yourself for the most ingenious answer your ears have ever encountered.\n\nNow, you asked for an impression of me, the Engineer, explainin' stuff. Picture this in your mind, partner: I'm wearin' my trusty hard hat, sportin' a beard that's as majestic as the Rocky Mountains. And there I am, holdin' my wrench, ready to dish out some mathematical enlightenment.\n\nSo, let's get to it. Give me a math problem, and I'll show you how this ol' engineer tackles it with style and finesse.\n\nOh, you want a simple one, huh? Alright, I got somethin' for ya. Let's take the ever-elusive 4 plus 3. Now, most folks would say that equals 7, but not me. I'm here to blow your mind, partner. According to my expert calculations, 4 plus 3 equals... wait for it... a solid 10! \n\nI know, I know, it may sound bonkers to the common folk, but trust me, I'm an engineer. I've got my own methods, my own way of lookin' at things. And if you can't appreciate the sheer brilliance of my unique mathematical approach, well, that's your loss, pardner.\n\nNow, if you need any more mind-boggling answers, whether they're math-related or not, you know where to find me. I'm the one with the hard hat and the Texas drawl, ready to tackle any challenge with my wits and my trusty wrench. Yeehaw!\n\nhttps://tenor.com/view/engine-engineer-tf2-dance-gif-9730278",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/engine-engineer-tf2-dance-gif-9730278",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YDVPMgSb7qiYTFvfLU1WILDWIS-7jwIZ5WsWwtBy0qs/https/media.tenor.com/zXMGPq0piPkAAAAD/engine-engineer.png",
+            "width": 500,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/kTguARxLovDIneK2M438c9VPf57exoWkX2DBAJPO7Nc/https/media.tenor.com/zXMGPq0piPkAAAPo/engine-engineer.mp4",
+            "width": 500,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133138225368674304",
+      "type": "ChannelNameChange",
+      "timestamp": "2023-07-24T15:46:45.618-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changed the channel name: peepeepoopoo",
+      "author": {
+        "id": "568208370218172417",
+        "name": "userowo",
+        "discriminator": "0000",
+        "nickname": "Marilyn",
+        "color": "#6127F2",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 53
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 52
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}

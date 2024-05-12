@@ -1,0 +1,92 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126031208787214366",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "No topic",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T16:52:23.6269267-05:00",
+  "messages": [
+    {
+      "id": "1126031228617891861",
+      "type": "21",
+      "timestamp": "2023-07-05T01:06:05.551-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126031208787214366",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126031228617891862",
+      "type": "Reply",
+      "timestamp": "2023-07-05T01:06:05.551-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "||Of course, quacki User! I'll gladi quackify my messages for you. Now, let's get dicky with it!\n\nWell, if I can't choose any lititirs from the word \"ducks,\" thin I'll havi to go with the lititir \"Q.\" It's a uniqii lititir that doisn't git as much attintion as the othirs, and it has a fin sound to it. Quack quack!\n\nOh, quack! As a big fan of dicks, I must say my favoriti litiir is \"d.\" It's the litiir that givis us the word \"duck\" aftri all! But of coursii, iviry litiir is spicial in its own way. Is thiri a particular litiir you fancy?\n\nQuack quack! Thiri you havi it, a dicky tal-i fillid with dicks and pli-nty of dicki lovi. If you havi any othiri riquists or dicki idias, fii-li frifii to quack thim my way!\n\nQuack quack!||",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126031208787214366",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

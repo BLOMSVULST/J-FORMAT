@@ -1,0 +1,214 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133192326504775890",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Minecraft Mod Ideas",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:11:03.602964-05:00",
+  "messages": [
+    {
+      "id": "1133192399565369405",
+      "type": "21",
+      "timestamp": "2023-07-24T19:22:01.753-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "568208370218172417",
+        "name": "userowo",
+        "discriminator": "0000",
+        "nickname": "Marilyn",
+        "color": "#6127F2",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 53
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 52
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133192326504775890",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133192399565369406",
+      "type": "Reply",
+      "timestamp": "2023-07-24T19:22:01.753-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "G'day, mate! Looks like you're after some Minecraft mod ideas. Well, I'm here to assist you, albeit with a slight technical twist. So, let's get those creative gears whirring and see what we can come up with!\n\nNow, I must inform you that your request for a Minecraft mod idea has caused a \"Stack Overflow Exception.\" The sheer magnitude of inventive possibilities has overwhelmed the servers, resulting in a temporary memory overload. Fear not, though! I've managed to allocate some additional virtual memory, allowing me to provide you with a mod concept.\n\nIntroducing the \"Biome Wizardry\" mod! Picture this: a mystical realm where biomes are imbued with magical properties. Each biome holds a unique magic resource that players can harness to learn spells and enchantments. Journey through lush forests brimming with nature spells, deserts filled with fire manipulation, or icy tundras offering frosty enchantments.\n\nBut that's not all! With the \"Biome Wizardry\" mod, you can encounter magical creatures specific to each biome. Tame and befriend them to aid you on your magical exploits. Imagine soaring through the skies on the back of a majestic phoenix or commanding an army of earth elementals to protect your fortress.\n\nTo delve even deeper into the magical world, players can embark on quests and solve puzzles that span across biomes. Uncover ancient ruins, hidden libraries, and enchanted artifacts that hold untold power.\n\nNow, remember, mate, this mod idea is a concoction of imagination and technological limitations. While it may not be feasible in its entirety, it's always exciting to explore the boundless realm of creativity when it comes to Minecraft mods.\n\nSo, unleash your creativity and get crafting, my friend! Let the \"Biome Wizardry\" mod inspire your Minecraft adventures to new, magical heights. Happy modding!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "568208370218172417",
+          "name": "userowo",
+          "discriminator": "0000",
+          "nickname": "Marilyn",
+          "color": "#6127F2",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1207539243711332363",
+              "name": "Partygoer Purple",
+              "color": "#6127F2",
+              "position": 53
+            },
+            {
+              "id": "779525244431368212",
+              "name": "Ultra Uber Trusted",
+              "color": "#F4ACAC",
+              "position": 52
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1192258994983677992",
+              "name": "Lethal Employee",
+              "color": "#8E1200",
+              "position": 28
+            },
+            {
+              "id": "1080003643295662151",
+              "name": "She/Her",
+              "color": null,
+              "position": 5
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133192326504775890",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,195 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1145570572458278973",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Plagues and their symptoms",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T21:01:01.4632581-05:00",
+  "messages": [
+    {
+      "id": "1145570788511072307",
+      "type": "21",
+      "timestamp": "2023-08-27T23:09:19.657-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1145570572458278973",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145570788511072308",
+      "type": "Reply",
+      "timestamp": "2023-08-27T23:09:19.657-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, the great plague of the woombly jiggly fever disease, you say? Well, uh, let me see if I can find something about it in the vast collection of the Library of Babel. *clinks nervously*\n\nHmm, it seems that my search in the Library didn't yield any specific information about the great plague of the woombly jiggly fever disease. It appears to be a fictional disease that doesn't exist in our world. Sometimes, the Library doesn't have information on made-up events or diseases. *clinks anxiously*\n\nHowever, if you'd like, I can try to provide some general information about plagues and their symptoms. Plagues are infectious diseases that can spread rapidly and cause widespread illness and death. Symptoms of plagues can vary, but they often include high fever, chills, body aches, weakness, and sometimes respiratory problems. As for the country of origin, plagues can originate from various regions and can spread across borders. *shuffles through papers*\n\nI apologize if I couldn't provide specific information about the great plague of the woombly jiggly fever disease. Is there anything else I can assist you with?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=great plague of the woombly jiggly fever disease)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ]
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=great plague of the woombly jiggly fever disease)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Great Spring Sickness. From A Wiki of Ice and Fire. Jump to: navigation, search. The Great Spring Sickness was a plague epidemic which took place in 209 AC and ... (https://awoiaf.westeros.org/index.php/Great_Spring_Sickness)  The Great Spring Sickness was a plague epidemic that occurred in the Seven Kingdoms, killing tens of thousands of people. It was particularly severe in major cities like Lannisport, Oldtown, and King's Landing. The plague struck swiftly, with victims dying within a day. Dorne and the Vale of Arryn were unaffected as they closed off their access roads and ports. The plague claimed the lives of many nobles and smallfolk, including King Daeron II Targaryen and his heirs. Lord Brynden Rivers ordered the bodies to be burned in the Dragonpit, causing a quarter of King's Landing to burn down. The plague also had political consequences, as it led to the deaths of hostages taken from Daemon I Blackfyre's supporters, which emboldened Lord Gormon Peake and Daemon II Blackfyre to attempt the Second",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "574444232081932299",
+          "name": "internet_traveler",
+          "discriminator": "0000",
+          "nickname": "Netty",
+          "color": "#A678AD",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1114764837965287517",
+              "name": "Face of Threes",
+              "color": "#A678AD",
+              "position": 85
+            },
+            {
+              "id": "707637426251759778",
+              "name": "The Pure",
+              "color": "#8A8BF0",
+              "position": 83
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1145570572458278973",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

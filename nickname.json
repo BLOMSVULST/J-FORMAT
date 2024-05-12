@@ -1,0 +1,287 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1132121745424396448",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "nickname",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T19:42:34.5233106-05:00",
+  "messages": [
+    {
+      "id": "1132121758535798904",
+      "type": "21",
+      "timestamp": "2023-07-21T20:27:41.04-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Warrior",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 74
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1132121745424396448",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1132121758535798905",
+      "type": "Reply",
+      "timestamp": "2023-07-21T20:27:41.04-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "G'day, Witherblaze! Fair enough, mate. No worries about the money then. Now, let's get down to business with that new nickname. How about \"Inferno\"? It captures your fiery spirit and adds a touch of intensity. What do you reckon about that, mate? If it doesn't tickle your fancy, feel free to give me some more details, and we can come up with something else. Cheers!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "548652144077832203",
+          "name": "witherblaze",
+          "discriminator": "0000",
+          "nickname": "Blazing Warrior",
+          "color": "#D7342A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "713909207040000121",
+              "name": "The Warrior",
+              "color": "#D7342A",
+              "position": 74
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1132121745424396448",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1132121824700928041",
+      "type": "Default",
+      "timestamp": "2023-07-21T20:27:56.815-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll stick to blazing warrior",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Warrior",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 74
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1132121835195084810",
+      "type": "Default",
+      "timestamp": "2023-07-21T20:27:59.317-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "G'day, Witherblaze! Sounds like you've made up your mind and decided to stick with \"Blazing Warrior\" as your nickname. No worries, mate! It suits your fiery spirit perfectly. If there's ever a time you want to change it up, feel free to give me a shout. I'm here to help. Cheers, Blazing Warrior!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

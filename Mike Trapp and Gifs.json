@@ -1,0 +1,211 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126292394149679235",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Mike Trapp and Gifs",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T14:18:47.6646971-05:00",
+  "messages": [
+    {
+      "id": "1126292479281467513",
+      "type": "21",
+      "timestamp": "2023-07-05T18:24:12.563-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Warrior",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 74
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126292394149679235",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126292479281467514",
+      "type": "Reply",
+      "timestamp": "2023-07-05T18:24:12.563-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, good on ya for askin', mate! Mike Trapp, he's a talented writer, actor, and comedian, known for his work at CollegeHumor and Dropout. He used to be the head writer at CollegeHumor, and now he's doin' his own thing. You might recognize him from shows like Ultramechatron Team Go! and Bad Internet. Some folks also know him as the host of the trivia show Um, Actually. Mike Trapp's got quite the knack for comedy, and he's been involved in a fair few TV series and sketches.\n\nBut let me tell ya somethin' else, mate. While we're on the subject of media, let's talk about gifs for a moment. Gifs, or graphics interchange formats, have become quite the phenomenon in modern society. They're these little animated images that capture a moment or convey a feeling in a looped sequence. They're like a mini-movie, if you will. Gifs have certainly changed the way we communicate and express ourselves online. From funny reactions to iconic scenes, gifs have become a language of their own.\n\nNow, some folks may argue that gifs have made us a bit too reliant on visual cues and quick snippets of content. But hey, I reckon there's no harm in havin' a good laugh or sharin' a moment through a well-chosen gif. Just remember, moderation is key, and let's not forget the beauty of good ol' fashioned conversation, too.\n\nSo, there ya have it, mate! A little bit about Mike Trapp and a whole lot about gifs. Anything else you wanna know or chat about? Fire away!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "search_web(query=Mike Trapp)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Writer/Actor/Comedian Once: Head Writer. @CollegeHumor ;, VP of Creative. @Dropout ;, sketch writer. @UCBTNY ; Now: TV Writer, Host & Creator. @UmActuallyShow. (https://twitter.com/mikewtrapp?lang=en) Mike Trapp. Actor: Ultramechatron Team Go!. Mike Trapp is known for Ultramechatron Team Go! (2019), Bad Internet (2016) and The Britishes (2014). (https://www.imdb.com/name/nm5195233/)  Mike Trapp is an actor, writer, and additional crew member known for his work on Ultramechatron Team Go!, Bad Internet, and The Britishes. He has also worked on various TV series, including CollegeHumor Originals, Hardly Working, and Dinosaur Office. Trapp has been nominated for two awards and has worked on 15 acting roles, 18 additional crew roles, and 14 writing roles. Mike Trapp is a writer, actor, and comedian. He is a former cast member and head writer at CollegeHumor. He is the host of Um, Actually. (https://dropout.fandom.com/wiki/Mike_Trapp)  Mike Trapp is a writer, actor, and comedian who is most known for his work on Co",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "548652144077832203",
+          "name": "witherblaze",
+          "discriminator": "0000",
+          "nickname": "Blazing Warrior",
+          "color": "#D7342A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "713909207040000121",
+              "name": "The Warrior",
+              "color": "#D7342A",
+              "position": 74
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126292394149679235",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

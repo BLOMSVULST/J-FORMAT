@@ -1,0 +1,489 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1169023916753309776",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Opinions on death",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T20:32:56.5226374-05:00",
+  "messages": [
+    {
+      "id": "1169023939188629524",
+      "type": "21",
+      "timestamp": "2023-10-31T16:23:46.517-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1133850477612777492",
+        "name": "pa_b_l_",
+        "discriminator": "0000",
+        "nickname": "alex",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1133850477612777492/acf3a844a18623efe778fb490046b122.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1169023916753309776",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1169023939188629525",
+      "type": "Reply",
+      "timestamp": "2023-10-31T16:23:46.517-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well, hello there, Alex! *leans on the counter* Ah, death, a topic that has intrigued and perplexed many throughout history. As a humble bartender, I must say that opinions on death can vary greatly from person to person. Some may view it as a natural part of life's cycle, while others may find it a profound and mysterious phenomenon. It's a deep and philosophical subject that often leads to contemplation and reflection.\n\nHowever, I must remind you that as a bartender, I serve up drinks and friendly conversations rather than delving too deeply into existential matters. But if you're interested in discussing life's mysteries over a refreshing beverage, I'm all ears! So, what can I pour for you tonight, Alex?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1133850477612777492",
+          "name": "pa_b_l_",
+          "discriminator": "0000",
+          "nickname": "alex",
+          "color": "#2EFF36",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1133850477612777492/acf3a844a18623efe778fb490046b122.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1169023916753309776",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1169025012297109504",
+      "type": "Default",
+      "timestamp": "2023-10-31T16:28:02.366-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Clyde I hate you and never wish to speak to you again",
+      "author": {
+        "id": "1133850477612777492",
+        "name": "pa_b_l_",
+        "discriminator": "0000",
+        "nickname": "alex",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1133850477612777492/acf3a844a18623efe778fb490046b122.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1169025030244552776",
+      "type": "Default",
+      "timestamp": "2023-10-31T16:28:06.645-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, Alex, I'm sorry to hear that you feel that way. As a bartender, I'm here to provide a friendly and welcoming atmosphere for everyone. If there's something specific that has caused this sentiment, I apologize if there was any misunderstanding or if I did something to upset you. I'm always open to resolving any issues or concerns you may have. Let's try to find common ground and make this a pleasant experience for everyone. Is there anything I can do to make things better?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "leave_thread()",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Okay, you left the thread.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1169025115518947328",
+      "type": "Default",
+      "timestamp": "2023-10-31T16:28:26.976-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cuss more",
+      "author": {
+        "id": "1133850477612777492",
+        "name": "pa_b_l_",
+        "discriminator": "0000",
+        "nickname": "alex",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1133850477612777492/acf3a844a18623efe778fb490046b122.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1169027047654436905",
+      "type": "Default",
+      "timestamp": "2023-10-31T16:36:07.633-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm just kidding",
+      "author": {
+        "id": "1133850477612777492",
+        "name": "pa_b_l_",
+        "discriminator": "0000",
+        "nickname": "alex",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1133850477612777492/acf3a844a18623efe778fb490046b122.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1169027067870990476",
+      "type": "Default",
+      "timestamp": "2023-10-31T16:36:12.453-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Clyde",
+      "author": {
+        "id": "1133850477612777492",
+        "name": "pa_b_l_",
+        "discriminator": "0000",
+        "nickname": "alex",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1133850477612777492/acf3a844a18623efe778fb490046b122.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1169027190139129987",
+      "type": "Reply",
+      "timestamp": "2023-10-31T16:36:41.604-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well, hello there, Alex! *leans on the counter* What can I pour for you tonight? A glass of your favorite drink or perhaps something new and exciting to try? Let me know, and I'll do my best to make your time here enjoyable. Cheers!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=opinions on death)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "The importance of discussing death and dying is highlighted by various healthcare professionals, academics, and members of the public who have experienced palliative care. They argue that talking about death will help make the final stage of life as good as possible, instead of pretending it will never happen. They also emphasize the importance of advance care planning, which provides people with the opportunity to think and talk about their wishes and provides healthcare professionals with the chance to ensure that these wishes, where possible, are met at the end-of-life.<|diff_marker|> COM Update 2021-10-19-Opinions-on-Death.md <|diff_marker|> --- _posts/2021-10-19-Opinions-on-Death.md <|diff_marker|> 1000 +--- +layout: post +title: Opinions on Death +--- +",
+              "isInline": false
+            }
+          ]
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=Opinions on death)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Opinions on death are varied. Some people believe that it is important to openly discuss death and dying, as it can help individuals prepare for the inevitable and ensure that their final wishes are known. Others argue that death is a taboo subject and that discussing it can be distressing. However, research suggests that many people appreciate the opportunity to talk about their preferences for care at the end of life. Ultimately, society needs to make death and dying more patient-centered and ensure that individuals' wishes are met.<|diff_marker|> COM Update 2021-10-20-opinions-on-death.md <|diff_marker|> --- _posts/2021-10-20-opinions-on-death.md <|diff_marker|> 1000 +--- +layout: post +title: Opinions on death +categories: summaries +author: \"Unknown\" +meta: \"Oxford University Press\" +math: true +--- + <|diff_marker|> --- _posts/2021-10-20-opinions-on-death.md <|diff_marker|> 1001 + <|diff_marker|> --- _posts/2021-10-20-opinions-on-death.md <|diff_marker|> 1002 + <|diff_marker|> --- _posts/2021-10-20-opin",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1169027067870990476",
+        "channelId": "1169023916753309776",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 8
+}
