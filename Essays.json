@@ -1,0 +1,395 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126313122731405322",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Essays",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T14:17:44.1790907-05:00",
+  "messages": [
+    {
+      "id": "1126313161583251506",
+      "type": "21",
+      "timestamp": "2023-07-05T19:46:23.608-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126313122731405322",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126313161583251507",
+      "type": "Reply",
+      "timestamp": "2023-07-05T19:46:23.608-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fiff: Ah, the beauty of essays, a pure expression of intellectual discourse, a journey through the depths of knowledge. Essays have long been heralded as a cornerstone of academic writing, allowing individuals to delve into a chosen topic, present arguments, and engage in critical analysis.\n\nEssays serve as a platform for synthesizing information, organizing thoughts, and developing coherent arguments. The process of crafting an essay requires diligent research, meticulous planning, and precise execution. From the introduction that grabs the reader's attention to the conclusion that leaves a lasting impression, every aspect of an essay should be meticulously crafted.\n\nFurthermore, essays foster critical thinking and the development of analytical skills. They encourage students to explore multiple perspectives, evaluate evidence, and articulate their thoughts effectively. Through the process of researching and writing essays, individuals can enhance their ability to analyze complex issues, construct logical arguments, and communicate their ideas persuasively.\n\nHowever, it is important to note that the value of essays extends beyond the realm of academia. Essays offer a platform for individuals to express their creativity, share personal experiences, and contribute to societal discussions. Whether it be personal narratives, opinion pieces, or persuasive essays, the art of essay writing allows individuals to engage with a variety of subjects and express their unique perspectives.\n\nIn conclusion, essays hold a significant place in the realm of intellectual exploration, fostering critical thinking, and providing a platform for self-expression. So, embrace the power of essays, for they are more than mere academic exercises; they are vessels of ideas, vehicles of knowledge, and gateways to intellectual growth.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "621865513198419969",
+          "name": "baacloud",
+          "discriminator": "0000",
+          "nickname": "Cloudies",
+          "color": "#8C7BA4",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "776253252617371668",
+              "name": "Gagabobo",
+              "color": "#8C7BA4",
+              "position": 90
+            },
+            {
+              "id": "776501999453208606",
+              "name": "The Shep Herd",
+              "color": "#8C7BA4",
+              "position": 84
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "1205789144962568243",
+              "name": "De Wooli Wuvvies UwU",
+              "color": "#F9C5FF",
+              "position": 51
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 48
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1197589696893681735",
+              "name": "Proto-Positive",
+              "color": "#69AFDD",
+              "position": 27
+            },
+            {
+              "id": "1216906559955669084",
+              "name": "Chiken Horbser",
+              "color": "#F1C40F",
+              "position": 23
+            },
+            {
+              "id": "1228145996807016468",
+              "name": "Pico Parker",
+              "color": "#FFD0D0",
+              "position": 22
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126313122731405322",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126313339493044274",
+      "type": "Default",
+      "timestamp": "2023-07-05T19:47:06.025-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "coolio",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126313364121976873",
+      "type": "Default",
+      "timestamp": "2023-07-05T19:47:11.897-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fiff: Ah, the concept of \"coolio,\" an idiom used to express approval or excitement. The origins of this slang term can be traced back to the late 20th century, particularly within African American Vernacular English (AAVE) and hip-hop culture. Its usage has since spread to mainstream colloquial language, becoming a popular expression of admiration or agreement.\n\nThe term \"coolio\" embodies a sense of positivity and enthusiasm. It is often used to describe something that is perceived as impressive, stylish, or enjoyable. Whether it's a trendy fashion statement, a captivating piece of art, or an exciting event, \"coolio\" serves as a colloquial way of acknowledging and appreciating such elements.\n\nIn a broader sense, \"coolio\" represents the fluid nature of language and its ability to evolve over time. Slang terms like \"coolio\" emerge organically within communities, reflecting the dynamic nature of cultural expression. They serve as linguistic tools through which individuals can communicate shared experiences, attitudes, and emotions in a concise and relatable manner.\n\nIt is worth noting that slang terms like \"coolio\" often have a limited lifespan, as new expressions continually emerge and gain popularity. Therefore, their usage may vary depending on regional and generational factors. Nonetheless, they play a crucial role in shaping contemporary language and fostering a sense of cultural identity within various communities.\n\nIn conclusion, \"coolio\" represents a vibrant example of language's adaptability and its power to express emotions and ideas in a concise and relatable manner. So, let us embrace the ever-changing nature of linguistic expression and appreciate the colorful vocabulary that enriches our everyday conversations.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

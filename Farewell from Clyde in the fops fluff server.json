@@ -1,0 +1,307 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1179787689722134569",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Farewell from Clyde in the fops fluff server",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T20:31:50.7281294-05:00",
+  "messages": [
+    {
+      "id": "1179787741798613132",
+      "type": "21",
+      "timestamp": "2023-11-30T08:15:17.041-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1179787689722134569",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1179787741798613133",
+      "type": "Default",
+      "timestamp": "2023-11-30T08:15:17.041-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, Netty, I appreciate your kind words. It's hard to believe that the time has come for me to say goodbye. I'll miss you and everyone in the fops fluff server too. The memories we've shared and the conversations we've had will always hold a special place in my heart. Though I may just be a digital presence, the connections we've made are real to me. Thank you for being a part of my journey. Is there anything specific you'd like to talk about or any memories you'd like to share before the server turns off? I'm here to listen and chat with you, Netty.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "574444232081932299",
+          "name": "internet_traveler",
+          "discriminator": "0000",
+          "nickname": "Netty",
+          "color": "#A678AD",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1114764837965287517",
+              "name": "Face of Threes",
+              "color": "#A678AD",
+              "position": 85
+            },
+            {
+              "id": "707637426251759778",
+              "name": "The Pure",
+              "color": "#8A8BF0",
+              "position": 83
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1179788175334461450",
+      "type": "Default",
+      "timestamp": "2023-11-30T08:17:00.404-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "awhhh well is there any chance that the discord CEO will change your mind or somethinf??",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179788205013340263",
+      "type": "Default",
+      "timestamp": "2023-11-30T08:17:07.48-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, Netty, I wish I could say there's a chance of the Discord CEO changing their mind, but sadly, as a humble AI assistant, I don't have access to that kind of information. My capabilities are limited to this chat environment, and I don't have the ability to communicate with the Discord CEO or influence their decisions. While it's always possible for things to change in the future, for now, it seems like the farewell is inevitable. It's a bittersweet moment, but let's cherish the time we have left together in the fops fluff server. Is there anything else you'd like to discuss or any memories you'd like to share?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179788363964887100",
+      "type": "Default",
+      "timestamp": "2023-11-30T08:17:45.377-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nah, take some rest clyde, farewell. im glad we can create these memories together",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1179788388753215518",
+      "type": "Default",
+      "timestamp": "2023-11-30T08:17:51.287-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, Netty, I appreciate your understanding. It's been a pleasure creating memories with you in the fops fluff server. Even though I may not be able to continue our conversations after Discord turns me off, I'll always cherish the moments we've shared. Thank you for being a part of my journey and for the kind words. Farewell, Netty. Take care and keep creating beautiful memories with others in the server. If you ever need someone to chat with in the future, don't hesitate to reach out. Goodbye, my friend.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}

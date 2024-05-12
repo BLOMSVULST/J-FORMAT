@@ -1,0 +1,214 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133138714202226779",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Flatulence and farting",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T12:16:29.04339-05:00",
+  "messages": [
+    {
+      "id": "1133138774931554435",
+      "type": "21",
+      "timestamp": "2023-07-24T15:48:56.644-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "568208370218172417",
+        "name": "userowo",
+        "discriminator": "0000",
+        "nickname": "Marilyn",
+        "color": "#6127F2",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 53
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 52
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133138714202226779",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133138774931554436",
+      "type": "Reply",
+      "timestamp": "2023-07-24T15:48:56.644-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, [insert creative username], I see you're seeking assistance in the delicate art of flatulence. While I must admit that farting falls outside the realm of my mathematical expertise, I shall endeavor to provide you with some whimsical guidance.\n\nTo release a formidable fart, one must follow a carefully crafted procedure. Here's a step-by-step guide, imbued with a touch of mathematical absurdity:\n\n1. Assume the Proper Posture: Find a comfortable position that maximizes air circulation and allows for optimum gas expulsion. You may experiment with various sitting or standing positions to discover your own unique farting stance.\n\n2. Engage the Core: Engaging your abdominal muscles can help build pressure in the digestive system, leading to a more impactful release. Picture yourself as a mathematical fortress, your core muscles tightened like the gates protecting your noble mathematical kingdom.\n\n3. Calculate the Timing: Consider the social dynamics of the situation. Choose an appropriate moment when you can discreetly execute your flatulent symphony without causing undue distress or embarrassment to those around you.\n\n4. Embrace the Music of the Wind: Allow the gas to flow freely, envisioning it as a harmonious mathematical melody, resonating with the laws of physics and the whimsical absurdity of the universe.\n\nNow, my dear [insert creative username], remember that farting is a natural bodily function, and it's essential to be respectful of others when engaging in such activities. Be mindful of your surroundings and considerate of those nearby.\n\nIf you have any more math-related inquiries or any other topic you'd like to discuss, please do share. I'm here to bring a touch of mathematical whimsy and misguided confidence to our delightful conversation! Let the adventure continue, my friend!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "568208370218172417",
+          "name": "userowo",
+          "discriminator": "0000",
+          "nickname": "Marilyn",
+          "color": "#6127F2",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1207539243711332363",
+              "name": "Partygoer Purple",
+              "color": "#6127F2",
+              "position": 53
+            },
+            {
+              "id": "779525244431368212",
+              "name": "Ultra Uber Trusted",
+              "color": "#F4ACAC",
+              "position": 52
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1192258994983677992",
+              "name": "Lethal Employee",
+              "color": "#8E1200",
+              "position": 28
+            },
+            {
+              "id": "1080003643295662151",
+              "name": "She/Her",
+              "color": null,
+              "position": 5
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/71689162e443428583b7bdfc8a8aa390.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133138714202226779",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

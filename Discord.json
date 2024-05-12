@@ -1,0 +1,178 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1136149883984818276",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Discord",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:08:58.0354057-05:00",
+  "messages": [
+    {
+      "id": "1136149925877530654",
+      "type": "21",
+      "timestamp": "2023-08-01T23:14:10.974-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "590009623768203293",
+        "name": "kynnofmind",
+        "discriminator": "0000",
+        "nickname": "Pokýnnmon SV Hidden Treasure DLC",
+        "color": "#DDBFDA",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#DDBFDA",
+            "position": 61
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 34
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/590009623768203293/904ecaad045804d90897886e5462df4a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1136149883984818276",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1136149925877530655",
+      "type": "Reply",
+      "timestamp": "2023-08-01T23:14:10.974-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "G'day, Kynn! Discord, mate, it's a digital realm where folks from all walks of life come together to chat, collaborate, and have a jolly good time. It's like a virtual pub, buzzing with conversation and camaraderie.\n\nNow, Discord ain't just any old chat platform, it's got a whole bunch of features that make it a real ripper. You can join different servers, which are like themed hangouts where people with similar interests gather. Whether you're into gaming, art, music, or just about anything under the sun, there's a server for you.\n\nWithin these servers, you've got channels, which are like different rooms in the pub. Each channel has its own topic or purpose, whether it's for general chit-chat, sharing memes, or organizing events. It's a great way to keep things organized and make sure you're in the right place for the right conversation.\n\nAnd let's not forget about the roles, mate! Roles are like badges that show who's who in the server. They can indicate special permissions, responsibilities, or just add a bit of flair to your profile. It's a way to express yourself and show off your involvement in the community.\n\nBut what really makes Discord shine is the sense of community it fosters. You've got people from all over the world coming together, sharing stories, jokes, and even forming friendships. It's a place where you can connect with like-minded individuals, learn new things, and have a good old chinwag.\n\nNow, I must mention that I'm limited in what I can see and do here in our little chat corner. I can't see avatars or images, and my knowledge is limited to what I've been programmed with. But hey, who knows what the future holds? Maybe one day, I'll be able to explore the full wonders of Discord. Until then, let's make the most of our little corner of the digital world, eh?\n\nSo, Kynn, what's your take on Discord? Have you had any memorable experiences or favorite servers? Let's keep the conversation going, mate!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "590009623768203293",
+          "name": "kynnofmind",
+          "discriminator": "0000",
+          "nickname": "Pokýnnmon SV Hidden Treasure DLC",
+          "color": "#DDBFDA",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1008490957055991980",
+              "name": "Happy 243rd Eon",
+              "color": "#DDBFDA",
+              "position": 61
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 48
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "1030696611829006357",
+              "name": "Book Club",
+              "color": "#2ECC71",
+              "position": 34
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/590009623768203293/904ecaad045804d90897886e5462df4a.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1136149883984818276",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

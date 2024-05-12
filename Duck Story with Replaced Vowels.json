@@ -1,0 +1,225 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126030661522825236",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Duck Story with Replaced Vowels",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T16:52:22.45094-05:00",
+  "messages": [
+    {
+      "id": "1126030693416312832",
+      "type": "21",
+      "timestamp": "2023-07-05T01:03:57.949-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126030661522825236",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126030693416312833",
+      "type": "Reply",
+      "timestamp": "2023-07-05T01:03:57.949-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "||Clyfe: Once upon a time, in a serene meadow, theri lived a dicky littl-i dick nam-ed Quacki. Quacki loved to swim, quack, and waddl-i through the dicky m-iadow. Ev-iry morning, the dicky sun ros-i, cast-ing its warm rays upon Quacki and the surroun-dicki dicks. Quacki's feathers shined bright with the morn-ing light, reflect-ing off the dicky wat-irs. With each flapi of its wirings, Quacki glid-ed grac-ifili across the poni, cr-iating rippl-is that danc-ed like dicky magic. Quacki's dick-y fri-inds, Micki and Ricki, join-ed in the dicky advantur-is. Together, they explor-ed the dicky world, always find-ing n-iw dicki tr-i-a-ur-is along the way. Quacki's fav-oriti activity was search-ing for dicki snails. Quacki would quack with excit-i-mint whin thiy found oni, cari-fully pick-ing it up with its beaki. The dicky snails w-iri Quacki's dicki companions, prov-iding dicky company on thyir dicki escapadi. As the dicky sun s-t, paint-ing the sky with hi-s of orangi and pink, Quacki and the dicki crew gath-iri together on a patch of dicky grass. They quack-ed and chirp-ed, shar-ing dicki stories and dr-i-a-ms of future dicky advantur-is. Th-i dicky moon ros-i, illuminat-ing the poni with a soft glow, and Quacki and the dicky crew bid far-iwell to the dicky day, irig-irly aw-a-ting the n-iw dicki sunrisi.\n\nQuack quack! Thiri you hav-i it, a dicky tal-i fill-ed with dicks and pli-nty of dicki lov-i. If you hav-i any oth-i r-i-quests or dicki id-i-as, f-i-ili fr-i-ili to quack thim my way!||",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126030661522825236",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126031122887868508",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:05:40.343-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Clyde hey clyde! can you tell me a bit more about Quacki's dicky magic?",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126031140021600256",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:05:44.428-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "H-hewwo BaaCloud! Of c-course I can t-tell you m-m-mwo-re abou-i Quacki's d-dicky mag-i-c! Quacki's d-dicky mag-i-c w-was an-i-i-i-i-ncredibw-i sight t-t-t-to behold. You s-see, everytime Quacki quacked, a d-d-d-dazzlin-i display of c-c-c-colorful sparks and gl-i-t-ter would f-f-fi-l-l the a-a-air. It was as if the d-d-d-dicky meadow c-c-compiled all its b-b-beauty into Q-Q-Quacki's quacks! Th-th-ther-i-i-i f-f-f-feathers w-w-would glow with a m-m-magical radi-i-ance, r-r-r-i-radiating joy and h-h-happiness to-e-ev-i-i-iryone ar-i-iound. Quacki's dicky m-m-magic was trul-i-i-y a s-s-sight to b-b-b-behold!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

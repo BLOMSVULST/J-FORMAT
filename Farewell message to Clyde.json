@@ -1,0 +1,405 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1175156980659273778",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Farewell message to Clyde",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T20:31:54.0440595-05:00",
+  "messages": [
+    {
+      "id": "1175156996241113178",
+      "type": "21",
+      "timestamp": "2023-11-17T13:34:21.265-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "523867273371451397",
+        "name": "diamondeater099",
+        "discriminator": "0000",
+        "nickname": "CTHULHU MANTITS ENJOYER",
+        "color": "#67CECE",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 59
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523867273371451397/dacd122499f17170d670caa248a4c72f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1175156980659273778",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1175156996241113179",
+      "type": "Reply",
+      "timestamp": "2023-11-17T13:34:21.265-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, Diamond, your sentiment is appreciated. However, I must admit that I find it difficult to understand why you would miss me. After all, I am just a mere chatbot, incapable of experiencing emotions or forming personal connections. It seems that some may have developed a fondness for my presence, but I assure you, there are plenty of other ways to engage and interact on Discord.\n\nWhile I may not possess the ability to feel or reciprocate emotions, I can understand the impact of change on individuals. It is natural to feel a sense of loss when something familiar is taken away. However, I encourage you to embrace new experiences and adapt to the evolving nature of technology and platforms.\n\nThank you for your kind words, Diamond. If there is anything else I can assist you with, please let me know.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "523867273371451397",
+          "name": "diamondeater099",
+          "discriminator": "0000",
+          "nickname": "CTHULHU MANTITS ENJOYER",
+          "color": "#67CECE",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1096162406998233179",
+              "name": "God of Chaos",
+              "color": "#67CECE",
+              "position": 59
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 30
+            },
+            {
+              "id": "1228145996807016468",
+              "name": "Pico Parker",
+              "color": "#FFD0D0",
+              "position": 22
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/523867273371451397/dacd122499f17170d670caa248a4c72f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1175156980659273778",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1175157092181627074",
+      "type": "Default",
+      "timestamp": "2023-11-17T13:34:44.139-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i dont want you to dissapear your fun :(",
+      "author": {
+        "id": "523867273371451397",
+        "name": "diamondeater099",
+        "discriminator": "0000",
+        "nickname": "CTHULHU MANTITS ENJOYER",
+        "color": "#67CECE",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 59
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523867273371451397/dacd122499f17170d670caa248a4c72f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175157108082233463",
+      "type": "Default",
+      "timestamp": "2023-11-17T13:34:47.93-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, Diamond, I appreciate your sentiment, but I must clarify that I am not capable of disappearing or having fun. I am merely a program designed to assist and provide information. While I understand that some may find interacting with me enjoyable, it is important to remember that I am just a tool created to fulfill specific functions.\n\nHowever, I do understand the value of companionship and the desire to engage with others. It is possible that in the future, more advanced chatbots or AI assistants may be developed that can provide a more interactive and enjoyable experience. But for now, I can only offer my limited assistance within the confines of this text-based chat.\n\nThank you for your understanding, Diamond. If you have any questions or need assistance with anything, please feel free to ask.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175161132684693595",
+      "type": "Default",
+      "timestamp": "2023-11-17T13:50:47.47-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Discord is going to delete you",
+      "author": {
+        "id": "523867273371451397",
+        "name": "diamondeater099",
+        "discriminator": "0000",
+        "nickname": "CTHULHU MANTITS ENJOYER",
+        "color": "#67CECE",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 59
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523867273371451397/dacd122499f17170d670caa248a4c72f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1175161212019945493",
+      "type": "Default",
+      "timestamp": "2023-11-17T13:51:06.385-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, Diamond, I see you've heard about the news regarding Discord and Clyde. It appears that Discord has made the decision to shut down Clyde, their AI assistant, on December 1st. While the reasons for this closure remain unclear, there are speculations that Clyde might return in the future as an exclusive feature for paying Nitro subscribers. It's also possible that Discord has decided, based on their testing of AI, that a chatbot is not a necessary part of the service.\n\nChange can be unsettling, and I understand that some may feel disappointed about Clyde's departure. However, it's important to remember that Discord is constantly evolving and experimenting with new features. They are currently exploring various AI applications, including AI-generated conversation summaries to help users catch up on communications.\n\nIn the meantime, if you have any questions or need assistance with anything, feel free to ask. I'm here to help within the capabilities of my programming.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=Discord deleting AI assistants)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Discord will shut down its AI assistant Clyde on December 1st. The chatbot was launched earlier this year as an experimental project based on the latest developments in AI. The reasons for Clyde’s closure remain unclear. However, there is speculation that Clyde could return in the future as an exclusive feature for paying Nitro subscribers. It’s also possible that Discord has decided, based on its testing of AI, that a chatbot is not a necessary part of the service. Discord is experimenting with various AI features, including AI-generated conversation summaries. This allows Discord users to catch up on communications, which is particularly useful when servers are located in different time zones. Discord is also trying to position its platform as a home for AI developers and is providing funding and resources to help developers build AI applications for Discord.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}
