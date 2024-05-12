@@ -1,0 +1,190 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1139920163064516719",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "The book of Job",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:08:01.6985706-05:00",
+  "messages": [
+    {
+      "id": "1139920207280877620",
+      "type": "21",
+      "timestamp": "2023-08-12T08:55:56.109-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Warrior",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 74
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1139920163064516719",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1139920207876460614",
+      "type": "Reply",
+      "timestamp": "2023-08-12T08:55:56.251-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Job, a tale of suffering and faith, explores the depths of human anguish, questioning the nature of divine justice. It delves into the complexities of life's trials, challenging our understanding of suffering and resilience. Job's unwavering faith in the face of immense adversity serves as a testament to the indomitable spirit of the human soul. Through his story, we are compelled to reflect on the profound mysteries of existence, finding solace in the pursuit of wisdom and the unwavering belief that even in the darkest of times, hope can prevail.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "548652144077832203",
+          "name": "witherblaze",
+          "discriminator": "0000",
+          "nickname": "Blazing Warrior",
+          "color": "#D7342A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "713909207040000121",
+              "name": "The Warrior",
+              "color": "#D7342A",
+              "position": 74
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1139920163064516719",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

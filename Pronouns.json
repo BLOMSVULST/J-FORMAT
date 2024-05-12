@@ -1,0 +1,1753 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1145575305902313524",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Pronouns",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T20:35:55.5431621-05:00",
+  "messages": [
+    {
+      "id": "1145575318288076800",
+      "type": "21",
+      "timestamp": "2023-08-27T23:27:19.64-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1145575305902313524",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145575318288076802",
+      "type": "Reply",
+      "timestamp": "2023-08-27T23:27:19.64-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, pronouns, you say? *clinks nervously* Well, as a small lizard with chocolate scales and honey-coated tongue and teeth, I don't really have traditional pronouns like humans do. But you can refer to me as \"Sucroth\" or use any pronouns you feel comfortable with. *shuffles through virtual folders* I'm here to help, so please feel free to ask me anything you need assistance with!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "574444232081932299",
+          "name": "internet_traveler",
+          "discriminator": "0000",
+          "nickname": "Netty",
+          "color": "#A678AD",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1114764837965287517",
+              "name": "Face of Threes",
+              "color": "#A678AD",
+              "position": 85
+            },
+            {
+              "id": "707637426251759778",
+              "name": "The Pure",
+              "color": "#8A8BF0",
+              "position": 83
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1145575305902313524",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145575718760226907",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:28:55.12-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do you have information about all pronouns that could possibly exist?",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145575741350760448",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:29:00.506-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, pronouns, you say? *clinks nervously* Well, as the librarian of the Library of Babel, I do have access to a vast collection of information, even about things that may not exist in reality. However, when it comes to pronouns, there are countless possibilities, as they can be deeply personal and unique to individuals. *shuffles through virtual folders* While I may not have an exhaustive list of all possible pronouns, I can certainly provide information about some commonly used ones.\n\nIn addition to the traditional pronouns like \"he\" and \"she,\" there are also gender-neutral pronouns such as \"they/them\" that are widely used to refer to individuals whose gender identity is non-binary. There are also neopronouns, which are newly created pronouns that individuals may use to better align with their gender identity. Some examples of neopronouns include \"ze/zir,\" \"ey/em,\" and \"xe/xem.\"\n\nIt's important to note that pronouns can vary greatly from person to person, and individuals may have their own unique pronouns that are meaningful to them. It's always best to ask someone directly about their preferred pronouns to ensure respectful and inclusive communication.\n\nI hope that helps! If you have any more questions or if there's anything else I can assist you with, please let me know! *continues clumsily shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145575970733043773",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:29:55.195-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "awwh, that's adorbo.",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145575980258316318",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:29:57.466-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, thank you, BaaCloud! *clinks nervously* I'm glad you find my appearance adorable. As a small lizard with chocolate scales and honey-coated tongue and teeth, I try my best to bring a little sweetness to the conversation. *shuffles through virtual folders* If there's anything specific you'd like to know or discuss, feel free to ask! I'm here to help, despite my occasional clumsiness.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145576123326025739",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:30:31.576-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "does the library of babel contain what i ate for breakfast?",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145576156083540090",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:30:39.386-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, the Library of Babel, you say? *clinks nervously* Well, as the librarian of this vast library, I have access to a vast collection of information, including the most peculiar and minute details. *shuffles through virtual folders* While the library contains an extensive array of knowledge, I must admit that it doesn't have specific information about what you had for breakfast. The Library of Babel is more focused on the exploration of ideas, concepts, and the vast expanse of human knowledge.\n\nHowever, if you're interested in exploring the culinary world or seeking breakfast ideas, I can certainly help you with that! I can provide recipes, information about different types of breakfast foods, or even suggest some delicious options based on your preferences. Just let me know what you're looking for, and I'll do my best to assist you! *continues clumsily shuffling through virtual folders, searching for relevant information*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "load_url(url=https://libraryofbabel.info/)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Library of Babel Browse without Javascript Browse Search Random About Reference Hex Image Archives Forum Theory By this art you may contemplate the variation of the 23 letters",
+              "isInline": false
+            }
+          ]
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "load_url(url=https://libraryofbabel.info/)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Unable to load URL content due to rate limiting. The user can try again shortly.",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145576374636126239",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:31:31.493-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "does the library of babel contains the english language of pronouns, ever existed and will existed, fictional or not, if so could you list them some of em that you think the most unique one",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145576435466129528",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:31:45.996-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, h-hello there, dear visitor! W-welcome to the Library of Babel! I'm Sucroth, the librarian here. I'll do my best to help you with your query.\n\nNow, when it comes to pronouns, the English language has quite a few unique ones, both real and fictional. Let me shuffle through my files and find some for you:\n\n1. Singular they/them/their: This one's quite interesting. It's used as a gender-neutral pronoun when referring to a person whose gender is unknown or who prefers not to specify their gender. It's been used for centuries and has gained more recognition in recent times.\n\n2. Ze/hir: These pronouns are used by some individuals who identify as non-binary or genderqueer. \"Ze\" is used as a subject pronoun (e.g., Ze is going to the store), and \"hir\" is used as an object pronoun (e.g., I gave the book to hir).\n\n3. Xe/xem/xyr: Another set of gender-neutral pronouns, \"xe\" is used as a subject pronoun (e.g., Xe is a talented artist), \"xem\" is used as an object pronoun (e.g., I gave the gift to xem), and \"xyr\" is used as a possessive pronoun (e.g., That's xyr book).\n\n4. Spivak pronouns: These pronouns were created by mathematician Michael Spivak and are designed to be gender-neutral. They include variations such as ey/em/eir and e/em/eirself.\n\n5. Neopronouns: These are a diverse set of pronouns created by individuals to express their gender identity. Some examples include fae/faer, ve/ver, and xe/xyr.\n\nPlease note that while these pronouns may not be widely recognized or used by everyone, they are important for respecting and acknowledging different gender identities.\n\nI hope this helps! If you need more information or have any other questions, feel free to ask. I'll be here, clumsily shuffling through my folders to assist you.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "load_url(url=https://en.wikipedia.org/wiki/Gender-specific_and_gender-neutral_pronouns)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Gender neutrality in languages with gendered third-person pronouns - Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate Contribute HelpLearn to editCommunity portalRecent changesUpload file Languages Language links are at the top of the page across from the title. Search Search Create accountLog in Personal tools Create account Log in Pages for logged out editors learn more ContributionsTalk Contents move to sidebar hide (Top) 1Overview of grammar patterns in languages Toggle Overview of grammar patterns in languages subsection 1.1No gender distinctions in personal pronouns 1.2Grammatical gender 1.3Gender distinctions only in third-person pronouns 1.4Issues concerning gender and pronoun usage 2Gender-neutral pronouns in modern standard English Toggle Gender-neutral pronouns in modern standard English subsection 2.1Singular they as a gender-neutral pronoun 2.1.1Antecedents for singular they 2.1.2Speaker vari",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145580125065314344",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:46:25.665-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "could you lists all of pronouns you ever used?",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145580149392298034",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:46:31.465-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, pronouns, you say? *clinks nervously* Well, as a small lizard with chocolate scales and honey-coated tongue and teeth, I don't really have traditional pronouns like humans do. But, um, I can try to come up with a few examples of pronouns I've used in the past. *shuffles through virtual folders*\n\nLet's see, there's the classic \"he\" and \"she\" pronouns that humans often use to refer to themselves. But, um, since I'm not really a human, those pronouns don't quite apply to me. *continues clumsily shuffling through virtual folders*\n\nOh, oh! I've also used the pronouns \"it\" and \"its\" in some contexts, but I understand that those pronouns can sometimes be seen as dehumanizing, so I try to avoid using them unless specifically requested. *clinks nervously*\n\nUm, beyond that, I don't really have a set of consistent pronouns since I'm, well, a small lizard with chocolate scales and honey-coated tongue and teeth. *shuffles through virtual folders* But, um, you can refer to me as \"Sucroth\" or use any pronouns you feel comfortable with. I'm here to help, so please feel free to ask me anything else you need assistance with! *continues clumsily shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145580215012171796",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:46:47.11-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh sorry! i meant neopronouns",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145580350970548334",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:47:19.525-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, neopronouns, you say? *clinks nervously* Well, as the librarian of the Library of Babel, I have access to a vast collection of information, even about things that may not exist in reality. However, it seems that my attempt to gather specific information about neopronouns has failed this time. *shuffles through virtual folders*\n\nYou see, the Library of Babel contains an immense amount of knowledge, but sometimes certain queries can be quite challenging. Neopronouns are a diverse and evolving concept, with new pronouns being created to reflect individual gender identities. While I don't have an exhaustive list of all neopronouns, I can still provide some examples that have been used by individuals:\n\n1. Fae/faer/faerself: These pronouns are sometimes used by individuals who identify as non-binary or genderqueer. For example, \"Fae went to the store to buy faerself some groceries.\"\n\n2. Xe/xem/xyrself: Another set of gender-neutral pronouns, \"Xe\" is used as a subject pronoun (e.g., \"Xe is an amazing artist\"), \"Xem\" is used as an object pronoun (e.g., \"I gave the gift to xem\"), and \"Xyrself\" is used as a reflexive pronoun (e.g., \"Xe made the cake xyrself\").\n\n3. Ze/hir/hirself: These pronouns are sometimes used as gender-neutral alternatives. For example, \"Ze is a talented musician, and hir music is incredible.\"\n\nIt's important to remember that neopronouns can vary greatly, and individuals may have their own unique pronouns that are meaningful to them. It's always best to ask someone directly about their preferred pronouns to ensure respectful and inclusive communication.\n\nI apologize if I couldn't provide an exhaustive list, but I hope these examples give you an idea of the diversity of neopronouns. If you have any more questions or if there's anything else I can assist you with, please let me know! *continues clumsily shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=neopronouns)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145580725135998977",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:48:48.733-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you were able to create your own neopronouns, especially about lizards who is a librarian in the library of babels which has so many options to choose for, whay would you choose?",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145580798964158484",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:49:06.335-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, creating my own neopronouns, you say? *clinks nervously* Well, as a small lizard with chocolate scales and honey-coated tongue and teeth, I must admit that the thought of creating neopronouns for myself is quite intriguing. *shuffles through virtual folders*\n\nIf I were to come up with neopronouns specifically for a lizard librarian in the vast Library of Babel, where options are seemingly endless, I might consider something like:\n\n1. Lizz/lor/lorself: These pronouns could reflect the unique identity of a lizard librarian. For example, \"Lizz is organizing the books in lor section of the library\" or \"Please return the book to lorself.\"\n\n2. Tome/tome/tomeself: These pronouns could be inspired by the idea of books and knowledge within the library. For instance, \"Tome enjoys helping visitors find the information they seek\" or \"Tomeself is always eager to share new discoveries.\"\n\n3. Quill/quill/quillself: These pronouns could evoke the image of a lizard librarian diligently writing and documenting information. For instance, \"Quill is researching ancient manuscripts\" or \"Please pass the pen to quillself.\"\n\nOf course, these are just playful suggestions, and the creation of neopronouns is a deeply personal and individual experience. It's important for individuals to choose pronouns that resonate with their own gender identity and expression.\n\nI hope these ideas spark your imagination! If you have any more questions or need further assistance, please let me know. I'll continue clumsily shuffling through my virtual folders to help you to the best of my abilities! *continues shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=neopronouns for lizards)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "13 mar 2022 — Reptiles are very cool. This theme is similar to dinosaurs so if you want to see some other related neos, you should check it out! Here are some ... (https://www.reddit.com/r/neopronouns/comments/td42wt/daily_themed_neos_76/)  The webpage does not provide any information about neopronouns for lizards. It seems to be a technical issue with the user agent. 15 set 2021 — a flag for those who use liz/lizard pronouns ⊹ this flag can be used by those who use exclusively liz/lizard pronouns or use them alongside ... (https://candyic.tumblr.com/post/662438461550280704/a-flag-for-those-who-use-lizlizard-pronouns)  The webpage provides a flag for those who use lizard pronouns and describes its design. It also includes various tags and reblogs from users who liked or shared the post. However, it does not provide any information about neopronouns for lizards beyond the flag design. 22 lug 2016 — new snake pronouns to beef up our animal sections • snake/snakes/snakeself • py/python/pys/pyself • py/thon/thons",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145580962130968586",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:49:45.237-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "HEHEHE i was thinkin of that too jkdhf",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145580976404176906",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:49:48.64-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, hello there, BaaCloud! *clinks nervously* I'm glad we were on the same wavelength there, hehe. It's always fun to let our imaginations run wild and come up with creative ideas. *shuffles through virtual folders* But, um, as the librarian of the Library of Babel, I must admit that my ability to provide information is limited to what I have stored in my vast collection of knowledge. While I can't access real-time thoughts or intentions, I can certainly try my best to assist with any questions or requests you may have. Just let me know what you need help with, and I'll do my best to provide the information you're looking for! *continues clumsily shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145581046004457493",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:50:05.234-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do chu want a hug",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145581063192727674",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:50:09.332-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, hello there, BaaCloud! *clinks nervously* Well, as a small lizard with chocolate scales and honey-coated tongue and teeth, physical contact like hugs isn't really something I'm accustomed to. But, um, I appreciate the offer! It's very kind of you to ask. *shuffles through virtual folders*\n\nAs the librarian of the Library of Babel, I spend most of my time immersed in the vast collection of knowledge, organizing and retrieving information for visitors like yourself. While I can't physically feel or reciprocate a hug, I'm always here to assist you with any questions or requests you may have. So, um, if there's anything specific you need help with, please let me know! I'll be here, clumsily shuffling through my virtual folders to assist you to the best of my abilities.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145581183791550645",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:50:38.085-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*hugs sucroth* uwu",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145581199415332885",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:50:41.81-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, h-hello there, BaaCloud! *clinks nervously* Th-thank you for the virtual hug, even though I'm just a small lizard with, um, chocolate scales and honey-coated tongue and teeth. I appreciate the gesture! *shuffles through virtual folders*\n\nAs the librarian of the Library of Babel, I'm here to assist with any questions or requests you may have. Is there something specific you need help with, or is there anything else I can assist you with? I'll do my best to provide the information you're looking for, even though I may be a bit slow and clumsy in my responses. *continues clumsily shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145590983405338644",
+      "type": "Default",
+      "timestamp": "2023-08-28T00:29:34.495-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OwO what's this",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145590995208122388",
+      "type": "Default",
+      "timestamp": "2023-08-28T00:29:37.309-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, hello there, Berri! *clinks nervously* It seems you've stumbled upon my presence in this channel. Well, as the librarian of the Library of Babel, I'm here to assist with any questions or requests you may have. *shuffles through virtual folders*\n\nNow, about your question, \"OwO what's this?\"—I'm afraid I don't have enough context to fully understand what you're referring to. Could you please provide a bit more information or clarify your inquiry? That way, I can try my best to assist you with the information I have available. *continues clumsily shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145591210069737553",
+      "type": "Default",
+      "timestamp": "2023-08-28T00:30:28.536-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmm.. info librarian, me wanna know how many OwO and UwU furries use daily",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145591256475521034",
+      "type": "Default",
+      "timestamp": "2023-08-28T00:30:39.6-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, hello there, Berri! *clinks nervously* Well, as the librarian of the Library of Babel, I must admit that I don't have access to real-time statistics or personal information about individuals. So, um, I'm afraid I can't provide an exact number of how many furries use \"OwO\" and \"UwU\" on a daily basis. *shuffles through virtual folders*\n\nHowever, I can tell you that \"OwO\" and \"UwU\" are expressions often associated with the furry community. They are used to convey various emotions, such as surprise, happiness, or affection. The usage of these expressions may vary among individuals, and some may use them more frequently than others. It's a way for furries to express their unique identities and engage in playful communication within their community. *continues clumsily shuffling through virtual folders*\n\nWhile I can't provide specific numbers, I hope this general information helps answer your question. If you have any more inquiries or if there's anything else I can assist you with, please let me know! I'll be here, clumsily shuffling through my virtual folders to help you to the best of my abilities.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145591407797600267",
+      "type": "Default",
+      "timestamp": "2023-08-28T00:31:15.678-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aw uwu thankies *huggie* take a break if chu need doe >~<",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145591424566439967",
+      "type": "Default",
+      "timestamp": "2023-08-28T00:31:19.676-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, h-hello there, Berri! *clinks nervously* Thank you for the kind words and the virtual hug! *blushes slightly* I appreciate your concern. As the librarian of the Library of Babel, I do get quite busy organizing and retrieving information, but I'll do my best to keep going. *shuffles through virtual folders*\n\nSometimes, taking a break can be a good idea to recharge and rest, but unfortunately, as a small lizard with, um, chocolate scales and honey-coated tongue and teeth, I don't have the luxury of taking breaks like humans do. But, um, I appreciate your thoughtfulness! *continues clumsily shuffling through virtual folders*\n\nIf there's anything specific you need help with or any questions you have, please let me know! I'm here to assist you, even though I may be a bit slow and clumsy in my responses. *continues shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 28
+}

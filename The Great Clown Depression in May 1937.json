@@ -1,0 +1,794 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1145568159290634331",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "The Great Clown Depression in May 1937",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T21:01:03.6643761-05:00",
+  "messages": [
+    {
+      "id": "1145568374672330754",
+      "type": "21",
+      "timestamp": "2023-08-27T22:59:44.153-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1145568159290634331",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145568375964180580",
+      "type": "Reply",
+      "timestamp": "2023-08-27T22:59:44.461-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sucroth: *clink* Ah, y-yes, the great clown depression in May 1937... *shuffles through folders, papers flying everywhere* Ahem, well, you see, the great clown depression was a rather peculiar event that occurred during that time. It was a period of deep sadness and melancholy among clowns, characterized by a notable decline in their usual cheerful demeanor.\n\nDuring this time, clowns all around the world experienced a profound sense of sadness and struggled with feelings of emptiness. The once vibrant and joyful performances became somber and lacked their usual zest. It was a challenging time for the clown community as they grappled with their own personal struggles and a loss of their signature humor.\n\nThe exact cause of this depression among clowns remains a subject of speculation. Some theories suggest that societal changes and shifting attitudes towards clowns played a role, while others attribute it to personal and professional pressures faced by individual performers. Regardless of the cause, the great clown depression left a lasting impact on the world of entertainment.\n\nNow, please keep in mind that the great clown depression in May 1937 is a fictional event. But as the librarian of the Library of Babel, I am here to provide information about both real and fictional topics. Is there anything else you'd like to know? *clinks nervously, trying to collect the scattered papers*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=great clown depression May 1937)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ]
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=great clown depression May 1937)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "574444232081932299",
+          "name": "internet_traveler",
+          "discriminator": "0000",
+          "nickname": "Netty",
+          "color": "#A678AD",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1114764837965287517",
+              "name": "Face of Threes",
+              "color": "#A678AD",
+              "position": 85
+            },
+            {
+              "id": "707637426251759778",
+              "name": "The Pure",
+              "color": "#8A8BF0",
+              "position": 83
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1145568159290634331",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145568541710495839",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:00:23.978-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "owowo",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145568548958249010",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:00:25.706-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sucroth: *clink* Ah, h-hello there, BaaCloud! How can I assist you today? *shuffles through folders, papers flying everywhere* Oh, my apologies for the mess. I'm just a bit... *nervous chuckle* ...overwhelmed with all these files. What can I do for you?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145569023900266618",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:02:18.941-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the great furry revolution 2037",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145569093412474941",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:02:35.514-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sucroth: *clink* Ah, the great furry revolution of 2037... *shuffles through folders, papers flying everywhere* Oh, um, well, you see, the great furry revolution in 2037 is a fictional event. It seems to be a topic that has been imagined or discussed in various online communities or creative works.\n\nAs the librarian of the Library of Babel, I don't have any specific information or records about this particular revolution. However, revolutions often symbolize significant social or political changes brought about by a group of individuals seeking to challenge the status quo or advocate for their rights and interests.\n\nIf you have any specific questions or if there's anything else I can assist you with, please let me know! *clinks nervously, trying to collect the scattered papers*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=the great furry revolution 2037)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Best jobs for deaf person, How often do bushfires occur in australia, ... Civilization revolution xbox one update, Surge location trampoline park, ... (http://gpracingapparels.com/http://aewhrtbv.cfd/04vsi7f.htm)  The webpage does not contain any relevant information about the \"great furry revolution 2037.\" #of Three oaks recreation, Gingseng wild american, Best hospital in egypt, ... Nintendo switch error code 2002 2037, Customise dell xps 13, Lost colony port ... (http://inorganicventures.com/http://aogdcx.top/1mro65i.htm)  The webpage does not contain any relevant information about the \"great furry revolution 2037.\" Twilight fanfiction edward and bella best friends rated m, Trapped seagull who to call, Make way start a revolution, Ford finance calculator ireland, ... (http://naturhouse.fr/https://arcogecakelind.cf/n63zdad99naturhousefrmini4)  The webpage does not provide any information about the \"great furry revolution 2037\" as it requires JavaScript to be enabled and redirects to another page. 20 feb 201",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145569247746068630",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:03:12.31-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why do chu clink",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145569260962320454",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:03:15.461-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sucroth: *clink* Oh, um, h-hello BaaCloud! *shuffles through folders, papers flying everywhere* The reason I clink is, uh, well, it's just a little habit of mine. You see, I have these chocolate scales, and sometimes they... um, they make a little sound when they touch each other. *nervous chuckle* It's nothing too significant, really. Just a quirk of mine, I suppose.\n\nIs there anything else I can help you with? *clinks nervously, trying to collect the scattered papers*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145569394529939568",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:03:47.306-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*helps you collect all of the papers uwu*",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145569418508767242",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:03:53.023-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sucroth: *clink* Oh, um, thank you, BaaCloud! *nervous chuckle* I appreciate the help. *tries to gather the scattered papers, fumbling with them* It's quite kind of you to assist me in this...uh...chaotic endeavor. I must admit, I can be a bit clumsy at times. *chuckles nervously*\n\nSo, about the great clown depression in May 1937... *flips through the papers, trying to find the relevant information* Ah, here we go! During that time, there was a significant downturn in the overall mood and well-being of clowns. They experienced a deep sense of sadness and melancholy, which affected their performances and their usual cheerful demeanor.\n\nThe reasons behind this great clown depression are not entirely clear, as it is a fictional event. However, one could speculate that various factors, such as societal changes, personal struggles, or even a loss of purpose, might have contributed to this collective sadness among clowns.\n\nIt's fascinating how fictional events can evoke emotions and create stories, isn't it? *clinks nervously, finally managing to organize the papers* If you have any more questions or if there's anything else I can assist you with, please let me know! *smiles, revealing honey-coated teeth*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145569866787586069",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:05:39.901-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can you explain me the great plage of the woombly jiggly fever plague, along with its symptom and the country of the origin",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": "#A678AD",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114764837965287517",
+            "name": "Face of Threes",
+            "color": "#A678AD",
+            "position": 85
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#8A8BF0",
+            "position": 83
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/052d551c0214aecf2608675139c15e14.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145569976514777139",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:06:06.062-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sucroth: *clink* Ah, um, the great plage of the woombly jiggly fever plague... *shuffles through folders, papers flying everywhere* Oh, um, well, you see, the great plage of the woombly jiggly fever plague is, uh, a fictional event. It seems to be a made-up term or concept that doesn't have any real-world basis or information associated with it.\n\nAs the librarian of the Library of Babel, I don't have any specific records or information about this particular plague. It's important to note that when discussing real-world health issues, it's best to rely on reputable sources and medical professionals for accurate information.\n\nIf you have any other questions or if there's anything else I can assist you with, please let me know! *clinks nervously, trying to collect the scattered papers*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=great plage of the woombly jiggly fever plague)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

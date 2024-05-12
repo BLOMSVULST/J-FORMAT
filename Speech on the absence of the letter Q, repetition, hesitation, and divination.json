@@ -1,0 +1,262 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1129838532454797333",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Speech on the absence of the letter Q, repetition, hesitation, and divination",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T07:31:22.7506628-05:00",
+  "messages": [
+    {
+      "id": "1129838586208976987",
+      "type": "21",
+      "timestamp": "2023-07-15T13:15:10.338-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1129838532454797333",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1129838586208976988",
+      "type": "Reply",
+      "timestamp": "2023-07-15T13:15:10.338-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ladies and gentlemen, esteemed audience members, I shall now embark upon a speech regarding the absence of the letter Q, the significance of repetition, hesitation, and divination. My intention is to maintain brevity, all while adhering to the constraints of time.\n\nIn the realm of language, the absence of the letter Q presents a challenge that alters the linguistic landscape. Its omission demands adaptation, as we navigate a linguistic tapestry without its distinct presence.\n\nRepetition, a rhetorical device utilized for emphasis or reinforcement, holds both power and potential pitfalls. While repetition can enhance clarity and impact, its excessive usage risks tedium and redundancy, diminishing the effectiveness of communication.\n\nHesitation, the momentary pause, serves as a natural part of human communication. Yet, minimizing hesitation cultivates fluency, enabling the seamless flow of thoughts and words, fostering a sense of confidence and clarity in our discourse.\n\nDivination, the mystical practice of gaining insight into the future and hidden truths, holds an allure that transcends ordinary perception. However, the exclusion of divination redirects our focus to the present, grounding us in the realm of the known and tangible.\n\nIn conclusion, the absence of the letter Q challenges our linguistic endeavors, emphasizing the importance of adaptation. As we explore repetition, hesitation, and divination, we recognize the nuanced impact of these elements on our communication.\n\nThank you for your attentive presence, and may we continue to navigate the vast landscape of language with adaptability and precision.\n\n(Note: Speech delivered within the time constraints of one minute)",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "621865513198419969",
+          "name": "baacloud",
+          "discriminator": "0000",
+          "nickname": "Cloudies",
+          "color": "#8C7BA4",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "776253252617371668",
+              "name": "Gagabobo",
+              "color": "#8C7BA4",
+              "position": 90
+            },
+            {
+              "id": "776501999453208606",
+              "name": "The Shep Herd",
+              "color": "#8C7BA4",
+              "position": 84
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "1205789144962568243",
+              "name": "De Wooli Wuvvies UwU",
+              "color": "#F9C5FF",
+              "position": 51
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 48
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1197589696893681735",
+              "name": "Proto-Positive",
+              "color": "#69AFDD",
+              "position": 27
+            },
+            {
+              "id": "1216906559955669084",
+              "name": "Chiken Horbser",
+              "color": "#F1C40F",
+              "position": 23
+            },
+            {
+              "id": "1228145996807016468",
+              "name": "Pico Parker",
+              "color": "#FFD0D0",
+              "position": 22
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1129838532454797333",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,238 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1134760817519239249",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "RPurbaatori server",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:09:59.424954-05:00",
+  "messages": [
+    {
+      "id": "1134760829351378965",
+      "type": "21",
+      "timestamp": "2023-07-29T03:14:24.554-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "619572012741951557",
+        "name": "saura777",
+        "discriminator": "0000",
+        "nickname": "merp \"merp\" merp",
+        "color": "#6A5DCA",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 67
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 47
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619572012741951557/953152a1fa23511de2c64f4d194dde06.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1134760817519239249",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1134760829351378966",
+      "type": "Reply",
+      "timestamp": "2023-07-29T03:14:24.554-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, my apologies for the repeat joke! As Richard Nixon, sometimes my memory can be a bit hazy. Let me try another silly joke for you:\n\nWhy don't skeletons fight each other?\n\nThey don't have the guts! \uD83D\uDE04\n\nI hope that brings a smile to your face! Let me know if there's anything else I can assist you with in this RPurbaatori server.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "619572012741951557",
+          "name": "saura777",
+          "discriminator": "0000",
+          "nickname": "merp \"merp\" merp",
+          "color": "#6A5DCA",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "783520372262830081",
+              "name": "Merp's Funny as Fuck Demimod Role",
+              "color": "#6A5DCA",
+              "position": 67
+            },
+            {
+              "id": "1127396822843932773",
+              "name": "Bot Ability Role",
+              "color": null,
+              "position": 66
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 48
+            },
+            {
+              "id": "713346566307708998",
+              "name": "pruple but dark",
+              "color": "#360179",
+              "position": 47
+            },
+            {
+              "id": "731273227371937832",
+              "name": "G A Y",
+              "color": "#F100FF",
+              "position": 45
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1192258994983677992",
+              "name": "Lethal Employee",
+              "color": "#8E1200",
+              "position": 28
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/619572012741951557/953152a1fa23511de2c64f4d194dde06.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1134760817519239249",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}
