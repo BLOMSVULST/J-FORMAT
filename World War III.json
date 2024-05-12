@@ -1,0 +1,303 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1145577011033686046",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "World War III",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T20:35:55.6137979-05:00",
+  "messages": [
+    {
+      "id": "1145577160942292993",
+      "type": "21",
+      "timestamp": "2023-08-27T23:34:38.963-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1145577011033686046",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145577160942292994",
+      "type": "Reply",
+      "timestamp": "2023-08-27T23:34:38.963-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, w-well, let me s-see if I can find any information about World War III beginning in the year 2059. *shuffles through imaginary papers* Ah, here we go! So, World War III, or WWIII, is often referred to as a hypothetical worldwide large-scale military conflict. It's a term that has been in use since at least 1941. Some use it to refer to limited conflicts like the Cold War or the war on terror, while others believe it would surpass prior world wars in scope and destruction. The possibility of a third global conflict was anticipated and planned for during the Cold War. However, I couldn't find any specific information about World War III beginning in 2059. It seems to be more of a fictional scenario or speculation. *nervously adjusts imaginary glasses* Is there anything else you'd like to know?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=World War 3 beginning in 2059)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Before the beginning of World War II in 1939, World War I (1914–1918) was believed to have been \"the war to end all wars\". It was popularly believed that ... (https://en.wikipedia.org/wiki/World_War_III)  The webpage could not be loaded due to rate limiting. Please try again later. di M Bloomfield · 1996 — The weapons of the agricultural period began with the spears or pikes and bows and arrows. Then when metal was found, swords and daggers were added to the. (https://www.jstor.org/stable/20752104) 30 giu 2015 — U.S. and Chinese warships battle at sea, firing everything from cannons to cruise missiles to lasers. Stealthy Russian and American fighter ... (https://time.com/3934583/world-war-3/)  The webpage discusses the possibility of World War III in the 21st century, particularly focusing on the potential conflict between the United States and China. It highlights the changing global context and the risks associated with a great power conflict, including battles in space and cyberspace. The article emphasize",
+              "isInline": false
+            }
+          ]
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=World War III 2059)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "World War III or the Third World War, often abbreviated as WWIII or WW3, are names given to a hypothetical worldwide large-scale military conflict ... (https://en.wikipedia.org/wiki/World_War_III)  World War III, also known as WWIII or WW3, is a hypothetical worldwide large-scale military conflict that could occur after World War I and World War II. The term has been in use since at least 1941. Some use it to refer to limited conflicts like the Cold War or the war on terror, while others believe it would surpass prior world wars in scope and destruction. The development of nuclear weapons and the potential for nuclear warfare, as well as the risk of biological warfare, are common themes in speculations about a third world war. The possibility of a third global conflict was anticipated and planned for during the Cold War, but the various global military conflicts that have occurred since the start of the 21st century have also been seen as potential triggers for a third world war. Military plans and exercises,",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "621865513198419969",
+          "name": "baacloud",
+          "discriminator": "0000",
+          "nickname": "Cloudies",
+          "color": "#8C7BA4",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "776253252617371668",
+              "name": "Gagabobo",
+              "color": "#8C7BA4",
+              "position": 90
+            },
+            {
+              "id": "776501999453208606",
+              "name": "The Shep Herd",
+              "color": "#8C7BA4",
+              "position": 84
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "1205789144962568243",
+              "name": "De Wooli Wuvvies UwU",
+              "color": "#F9C5FF",
+              "position": 51
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 48
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1197589696893681735",
+              "name": "Proto-Positive",
+              "color": "#69AFDD",
+              "position": 27
+            },
+            {
+              "id": "1216906559955669084",
+              "name": "Chiken Horbser",
+              "color": "#F1C40F",
+              "position": 23
+            },
+            {
+              "id": "1228145996807016468",
+              "name": "Pico Parker",
+              "color": "#FFD0D0",
+              "position": 22
+            },
+            {
+              "id": "1080003642767187998",
+              "name": "They/Them",
+              "color": null,
+              "position": 6
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1145577011033686046",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,190 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1129837965917560833",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "witherblaze",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T07:31:20.2930708-05:00",
+  "messages": [
+    {
+      "id": "1129838033965949008",
+      "type": "21",
+      "timestamp": "2023-07-15T13:12:58.673-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "548652144077832203",
+        "name": "witherblaze",
+        "discriminator": "0000",
+        "nickname": "Blazing Warrior",
+        "color": "#D7342A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 74
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1129837965917560833",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1129838033965949009",
+      "type": "Reply",
+      "timestamp": "2023-07-15T13:12:58.673-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ladies and gentlemen, esteemed audience members, and fellow chat participants, today I stand before you to discuss a letter of distinctive shape and sound, a symbol of linguistic elegance - the letter Q. \n\nWith a unique place in the alphabet, Q commands attention with its characteristic form, sporting a tail reaching down in graceful fashion. Its rounded curve and elongated tail make it a letter that stands out among its counterparts. Q is a regal presence, exuding an air of sophistication and intrigue.\n\nIn the realm of language, Q holds a certain allure, as it is a letter that often partners closely with its trusted companion, U. Together, they form a team that dances through words, bringing forth distinct sounds and creating a sense of harmony. Think of words like \"queen,\" \"quest,\" or \"quaint,\" where the pairing of Q and U lends a melodious quality to the pronunciation.\n\nBut Q is not confined to its partnership with U alone. It is a versatile letter that can hold its own, as seen in words like \"qat,\" \"qi,\" and \"qibla.\" These words, borrowed from various languages, exemplify Q's ability to stand independently, showcasing its individuality and linguistic prowess.\n\nFurthermore, Q has found its place in the lexicon of science and mathematics, representing concepts such as \"quantum\" and \"quadratic.\" It symbolizes the exploration of the unknown, the intricate formulas that unravel the mysteries of the universe.\n\nIn the world of entertainment, Q has left an indelible mark. From the enigmatic Q in James Bond films, who provides our beloved spy with ingenious gadgets, to the mythical Qilin of Chinese folklore, a creature of good fortune and prosperity, Q weaves its enchanting presence into tales of adventure and wonder.\n\nIn conclusion, the letter Q is a captivating and versatile character of the alphabet. Its elegant form, paired with its unique sound, gives it a place of distinction among its linguistic companions. Whether it is through its partnership with U, its independent contributions, or its symbolic significance, Q brings a touch of intrigue and sophistication to the world of words.\n\nThank you for your attention, and may the letter Q continue to inspire and captivate us as we navigate the vast landscape of language.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "548652144077832203",
+          "name": "witherblaze",
+          "discriminator": "0000",
+          "nickname": "Blazing Warrior",
+          "color": "#D7342A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "713909207040000121",
+              "name": "The Warrior",
+              "color": "#D7342A",
+              "position": 74
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 69
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 4
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/548652144077832203/a06e884bd99b5ac4c49431c50eb0cfc6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1129837965917560833",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}
