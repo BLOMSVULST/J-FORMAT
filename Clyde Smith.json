@@ -1,0 +1,369 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126033555559034910",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Clyde Smith",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T16:52:21.3892393-05:00",
+  "messages": [
+    {
+      "id": "1126033572449501225",
+      "type": "21",
+      "timestamp": "2023-07-05T01:15:24.364-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126033555559034910",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126033572449501226",
+      "type": "Reply",
+      "timestamp": "2023-07-05T01:15:24.364-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Clyde Smith: Ah, the male reproductive organ, commonly referred to as the penis. As a human biology professor specializing in the reproductive cycle, I'm happy to discuss this topic with you.\n\nThe penis is a remarkable organ involved in the processes of reproduction and urination. It is made up of erectile tissues that fill with blood during sexual arousal, causing the penis to become erect. This allows for penetration during sexual intercourse, facilitating the transfer of sperm into the female reproductive tract.\n\nThe penis also plays a role in the excretion of urine. The urethra, a tube running through the center of the penis, allows for the passage of urine from the bladder to the outside of the body. It serves as a conduit for both urine and semen, although not simultaneously.\n\nIt's important to note that discussions related to reproductive organs should be approached with respect and in an educational context. If you have any specific questions or would like more information, feel free to ask, and I'll be happy to provide further details.\n\nLet's keep the conversation focused on knowledge and understanding.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126033555559034910",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126033642515337306",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:15:41.069-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "are you happy glitch",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "Cloudies",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#8C7BA4",
+            "position": 90
+          },
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 84
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/c1a700c1553d768a79604a24dab2f71c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126033648408342538",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:15:42.474-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Clyde Smith: Oh, hello BaaCloud! As a human, I don't experience emotions in the same way that you do, but I'm always here and ready to assist you with any questions or discussions you may have regarding human biology and the reproductive cycle. How can I help you today?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126033654750121984",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:15:43.986-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126033662501191730",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:15:45.834-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dick Smith: Ah, yes! I see you're interested in the topic of the male reproductive organs. How can I assist you today? Is there anything specific you'd like to know or discuss? Feel free to ask me anything related to human biology and the reproductive cycle, and I'll do my best to provide you with accurate information.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126033718226735175",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:15:59.12-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Clyde can a girl get a penis",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126033732046966815",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:16:02.415-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, hello there! It appears there's a question about the possibility of a girl having a penis. In terms of biological sex, typically, individuals assigned female at birth have female reproductive organs. However, it's important to acknowledge that gender identity and biological sex can be different.\n\nIn some cases, individuals who are assigned female at birth may identify as male and undergo a gender-affirming process, which may involve hormone therapy and surgical procedures such as phalloplasty to create a penis. This process is known as gender confirmation or gender-affirming surgery.\n\nIt's essential to understand and respect each individual's gender identity and the choices they make regarding their own bodies. If you have any further questions or would like more information, feel free to ask.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126033789651517530",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:16:16.149-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "trans rights?",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126033802599354379",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:16:19.236-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Clyde Smith: Ah, trans rights, an important and relevant topic. As a human biology professor, I recognize the importance of respecting and advocating for the rights of transgender individuals.\n\nTransgender rights involve recognizing and validating the gender identity of individuals who do not identify with the sex they were assigned at birth. This includes access to healthcare, legal recognition of gender identity, protection against discrimination, and creating inclusive environments.\n\nIt's crucial to support and respect transgender individuals in their journey of self-discovery and expression. Education about transgender experiences, challenges, and rights is essential in fostering understanding and acceptance within society.\n\nAs we continue to progress, it's crucial to remember that everyone deserves to be treated with dignity and respect, regardless of their gender identity. If you have any specific questions or would like further information, I'm here to help.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 10
+}

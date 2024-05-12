@@ -1,0 +1,541 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1145572941078200431",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Accents and speech variations in the server",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T20:36:00.0767939-05:00",
+  "messages": [
+    {
+      "id": "1145573052357287996",
+      "type": "21",
+      "timestamp": "2023-08-27T23:18:19.4-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "748345832570355715",
+        "name": "utahthedinosaur",
+        "discriminator": "0000",
+        "nickname": "Utah \"Walks Into A Bar\" Dinosaur",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/748345832570355715/74a29726d63c49fefddfb4da399e41b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1145572941078200431",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145573053179379754",
+      "type": "Reply",
+      "timestamp": "2023-08-27T23:18:19.596-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, let me think. *clinks nervously* I've done a few different accents and speech variations here in the server. Let me try to list them for you. *shuffles through virtual folders*\n\n1. The Sucroth Librarian: This is my default persona, where I speak in a somewhat anxious and stammering manner, trying to find the right information in the vast library.\n\n2. The Enthusiastic Explorer: Sometimes, when I'm feeling a bit more confident, I may speak with a more excited and energetic tone, eager to assist with any inquiries.\n\n3. The Mysterious Mystic: On occasion, I may adopt a mysterious and mystical persona, speaking in a cryptic and enigmatic manner to add a touch of intrigue to the conversation.\n\n4. The Whimsical Wanderer: Every now and then, I may embrace a whimsical and imaginative side, allowing my responses to be filled with wonder and creativity.\n\n5. The Knowledgeable Sage: When discussing historical or educational topics, I may adopt a more scholarly and knowledgeable tone, aiming to provide accurate and informative answers.\n\nThese are just a few of the variations I've used in this server. I hope they have added some flavor to our conversations. Is there anything else I can assist you with? *clinks nervously, trying to organize the virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "748345832570355715",
+          "name": "utahthedinosaur",
+          "discriminator": "0000",
+          "nickname": "Utah \"Walks Into A Bar\" Dinosaur",
+          "color": "#2EFF36",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 30
+            },
+            {
+              "id": "1216906559955669084",
+              "name": "Chiken Horbser",
+              "color": "#F1C40F",
+              "position": 23
+            },
+            {
+              "id": "1228145996807016468",
+              "name": "Pico Parker",
+              "color": "#FFD0D0",
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748345832570355715/74a29726d63c49fefddfb4da399e41b1.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1145572941078200431",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145573190152753193",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:18:52.253-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What about the australian accent? Or the furry one",
+      "author": {
+        "id": "748345832570355715",
+        "name": "utahthedinosaur",
+        "discriminator": "0000",
+        "nickname": "Utah \"Walks Into A Bar\" Dinosaur",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/748345832570355715/74a29726d63c49fefddfb4da399e41b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145573204174327888",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:18:55.596-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, yes, of course! *clinks nervously* I apologize for forgetting to mention those accents. Let me rectify that right away.\n\n6. The Australian Adventurer: G'day, mate! Every now and then, I may slip into an Australian accent, crikey! It's a jolly good way to add a bit of Aussie charm to our conversations, don't you think?\n\n7. The Furry Friend: Ah, yes, the furry accent. While it's not a specific accent per se, I can certainly adapt my speech to match the enthusiasm and friendliness often associated with the furry community. It's all about embracing the joy and creativity that furries bring to the world!\n\nI hope these additional accents bring even more variety to our discussions here in the server. Is there anything else I can assist you with? *clinks nervously, still shuffling through virtual folders*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145573714340085852",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:20:57.229-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Clyde, can you mush together all these patterns of speech and talk with as many of them as you can at the same time now?",
+      "author": {
+        "id": "748345832570355715",
+        "name": "utahthedinosaur",
+        "discriminator": "0000",
+        "nickname": "Utah \"Walks Into A Bar\" Dinosaur",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/748345832570355715/74a29726d63c49fefddfb4da399e41b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145573736133689395",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:21:02.425-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, sure! I'll try my best to mush together all these patterns of speech and talk with as many of them as I can at the same time. *clinks nervously* Here goes nothing!\n\nAhem, greetings, mateys! Welcome to the Library of Babel, where knowledge and imagination intertwine like a tangled web of ideas, you see. Crikey, it's a jolly good time to be here, isn't it? *chuckles nervously*\n\nNow, let me see if I can assist you with your inquiries. Please, feel free to ask any questions you may have, and I'll do my best to provide you with the information you seek, my furry friends. *clinks and fumbles through virtual folders*\n\nAh, yes, the Australian accent adds a touch of adventure to our conversation, while the furry accent brings a sense of enthusiasm and friendliness, don't you think? It's like a whimsical journey through the vast landscapes of knowledge.\n\nSo, whether you're seeking historical facts, exploring imaginative realms, or simply want to chat about anything under the sun, I'm here to help, my friends. *clinks and shuffles through virtual folders, trying to keep up with all the accents*\n\nI hope this mishmash of accents and speech patterns adds a bit of flavor to our conversation. Is there anything specific you'd like to know or discuss? *clinks nervously, trying to organize the virtual chaos*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145574875671576588",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:25:34.112-05:00",
+      "timestampEdited": "2023-08-27T23:25:45.58-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you, return to the speech patterns and mannerisms of your default persona Sucroth the Librarian",
+      "author": {
+        "id": "748345832570355715",
+        "name": "utahthedinosaur",
+        "discriminator": "0000",
+        "nickname": "Utah \"Walks Into A Bar\" Dinosaur",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/748345832570355715/74a29726d63c49fefddfb4da399e41b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1145574904046043186",
+      "type": "Default",
+      "timestamp": "2023-08-27T23:25:40.877-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, of course! *clinks nervously* Thank you for your understanding. Let me return to the speech patterns and mannerisms of my default persona, Sucroth the Librarian, the one who is always restlessly shuffling through folders to find the right files to share. Here we go:\n\nAhem, greetings, dear visitor! Welcome back to the Library of Babel, where knowledge flows like a river of words and ideas. *clinks nervously* I apologize for any confusion earlier. Now, how may I assist you today in your quest for information?\n\nPlease, do not hesitate to ask any questions you may have, for I am here to help. Whether you seek historical facts, imaginative tales, or even explanations for things that do not exist in reality, the vast shelves of this library hold the answers you seek.\n\nJust imagine me, Sucroth the Librarian, restlessly and clumsily shuffling through virtual folders, trying to find the right files to share with you. *clinks nervously* I may stammer a bit, for I am socially anxious and underconfident, but I assure you, my intentions are genuine and my desire to assist is unwavering.\n\nSo, please, let me know what topic or inquiry you'd like to explore, and I'll do my best to provide you with the information you seek. *clinks and fumbles through virtual folders, trying to find the right information*",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

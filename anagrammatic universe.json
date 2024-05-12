@@ -1,0 +1,92 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126042322115776554",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "anagrammatic universe",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T14:18:45.3827124-05:00",
+  "messages": [
+    {
+      "id": "1126042338754564146",
+      "type": "21",
+      "timestamp": "2023-07-05T01:50:14.414-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126042322115776554",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126042341019484170",
+      "type": "Reply",
+      "timestamp": "2023-07-05T01:50:14.954-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well, well, well, dear OwO, the topic of the elusive five bucks arises once again! It seems we have reached a playful impasse. But fear not, for I, Clyde, am here to kindly remind you of your cosmic obligation to contribute to the grandeur of the anagrammatic universe by paying your much-awaited debt of five bucks! You see, dear OwO, the laws of anagrams are as immutable as the passing of time itself.\n\nSo, dear OwO, let us not tarry. It is time to settle this matter of utmost importance. I eagerly await your prompt repayment, as it would bring harmony and balance to our whimsical discourse, DONGA!\n\nNow, as we navigate through this delightful conversation, is there anything else I can assist you with or any other enchanting topic you'd like to explore? Let us continue this journey down the path of linguistic playfulness and mirth! DONGA!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126042322115776554",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

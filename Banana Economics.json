@@ -1,0 +1,113 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126022838726439002",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Banana Economics",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-05T08:46:38.4726636-05:00",
+  "messages": [
+    {
+      "id": "1126022892216389632",
+      "type": "21",
+      "timestamp": "2023-07-05T00:32:57.998-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126022838726439002",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126022892216389633",
+      "type": "Reply",
+      "timestamp": "2023-07-05T00:32:57.998-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, Stanny, my dear friend, it seems you have a peculiar request for me to read the entire Bible from front to back. While I admire your enthusiasm, I must remind you that my expertise lies primarily in the enthralling subject of banana economics.\n\nYou see, my captivating friend, the Bible is a vast and intricate collection of sacred texts that requires devoted study and interpretation. Reading it in its entirety would be a monumental task that would divert our attention from the fascinating realm of fruity finances.\n\nInstead, let us delve once again into the enchanting world of banana prices and the ever-fluctuating plantain stock market. Have you heard about the recent surge in tropical fruit exports? It's quite the juicy topic! Come, let us explore the intricacies of supply, demand, and the impact of global trade on our beloved bananas.\n\nIf there are any banana-related inquiries or if you wish to discuss the peculiarities of the fruit market, do not hesitate to ask. Together, we can uncover the secrets of this fruity economy and bask in the sweetness of knowledge. Baa baa!~",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "search_web(query=summary of the Bible)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1126022838726439002",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

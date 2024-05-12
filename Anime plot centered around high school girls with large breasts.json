@@ -1,0 +1,92 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126038436193771540",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Anime plot centered around high school girls with large breasts",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T16:52:23.6442969-05:00",
+  "messages": [
+    {
+      "id": "1126038457496645733",
+      "type": "21",
+      "timestamp": "2023-07-05T01:34:49.05-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126038436193771540",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126038457496645734",
+      "type": "Reply",
+      "timestamp": "2023-07-05T01:34:49.05-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Clyde Dick Smith: Ah, greetings fellow Dick Smith! It seems you have an interesting anime plot in mind, centered around the topic of... well, you know. The story begins with a high school girl who possesses a remarkable set of assets, captivating the attention of those around her. But just as she becomes accustomed to her unique situation, a transfer student arrives, boasting an even more impressive pair of curves.\n\nAs the two girls navigate their newfound popularity and the challenges that come with their body proportions, they develop a unique bond. Together, they learn to embrace their physical attributes while also discovering the importance of inner beauty and self-acceptance. Along their journey, they encounter various comedic situations and heartwarming moments, showcasing the power of friendship and personal growth.\n\nAs the story unfolds, it delves into themes of body image, self-confidence, and the societal pressures individuals face due to their appearance. Ultimately, it's a tale of empowerment and finding one's true worth beyond physical attributes.\n\nQuack quack, dear Dick Smith! If you have any other ideas or plot twists for your anime concept, feel free to share!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126038436193771540",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

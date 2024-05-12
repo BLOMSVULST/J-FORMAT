@@ -1,0 +1,180 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126022167906238574",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Bloons Tower Defense 6",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-05T08:47:38.4536629-05:00",
+  "messages": [
+    {
+      "id": "1126022181088923748",
+      "type": "21",
+      "timestamp": "2023-07-05T00:30:08.452-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126022167906238574",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126022181088923749",
+      "type": "Reply",
+      "timestamp": "2023-07-05T00:30:08.452-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, Mr.OwO, I see you've merged the worlds of bananas and Bloons Tower Defense 6. Quite an interesting combination, I must say! Now, when it comes to banana farmers in the game, they play a critical role in generating income. By strategically placing them on the map, you can maximize your banana production and boost your overall funds. Remember to upgrade them wisely to enhance their efficiency and make those bananas rain! If you have any specific questions or anecdotes about banana farmers in Bloons Tower Defense 6, feel free to share! Let's dive deeper into this fruitful topic. Baa baa!~",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126022167906238574",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126022260990414909",
+      "type": "Default",
+      "timestamp": "2023-07-05T00:30:27.502-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/banana-price-banana-monkey-3d-gif-gif-23411917",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/banana-price-banana-monkey-3d-gif-gif-23411917",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YfF7DkWDZR8TtTYd_YkeTAJ7_b9LQBuzXPIz5eXaYD4/https/media.tenor.com/EPKqKmlC-xwAAAAD/banana-price-banana.png",
+            "width": 640,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/XoGh7CvgdxSfi_g74LJWeibJV7-ERGlC90fNjhvom64/https/media.tenor.com/EPKqKmlC-xwAAAPo/banana-price-banana.mp4",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126022288777695292",
+      "type": "Default",
+      "timestamp": "2023-07-05T00:30:34.127-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, I see you've shared a delightful GIF about banana prices! Truly a fascinating topic to delve into. Let's examine the current state of the banana market and analyze the factors influencing banana prices globally. \n\nIn recent years, the banana industry has faced various challenges such as climate change, diseases, and labor issues, all of which have contributed to fluctuations in banana prices. The demand for bananas remains consistently high due to their popularity as a nutritious and convenient snack. However, factors such as transportation costs, supply chain disruptions, and market competition can impact the final price consumers pay.\n\nAs for the adorable banana-monkey GIF you shared, it certainly captures the whimsical nature of the topic. But remember, behind the playful imagery lies a complex web of economic forces determining the value of this beloved fruit. If you have any additional questions or insights into banana prices, I'm here to discuss. Let's peel back the layers of this intriguing subject!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "gif_search(query=banana)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "https://tenor.com/view/banana-dance-happy-excited-gif-23985011",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

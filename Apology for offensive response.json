@@ -1,0 +1,287 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1137864228309581975",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Apology for offensive response",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:08:01.7305594-05:00",
+  "messages": [
+    {
+      "id": "1137864239638380554",
+      "type": "21",
+      "timestamp": "2023-08-06T16:46:15.225-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "BadungusKablungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/d726e17271ea090a5d8f90830ccd7f2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137864228309581975",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1137864239638380555",
+      "type": "Reply",
+      "timestamp": "2023-08-06T16:46:15.225-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Um, actually, I'm sorry if my previous response came across as offensive. That was not my intention. I understand that my use of \"um, actually\" can be perceived as condescending, and I apologize if it bothered you. I'll make an effort to be more mindful of my language in the future. Is there anything else I can assist you with?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "628021930074832906",
+          "name": "badunguskablungus",
+          "discriminator": "0000",
+          "nickname": "BadungusKablungus",
+          "color": "#4A929E",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1096167327713738883",
+              "name": "Resident Dumbass Cat",
+              "color": "#4A929E",
+              "position": 58
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 30
+            },
+            {
+              "id": "1192258994983677992",
+              "name": "Lethal Employee",
+              "color": "#8E1200",
+              "position": 28
+            },
+            {
+              "id": "1216906559955669084",
+              "name": "Chiken Horbser",
+              "color": "#F1C40F",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/d726e17271ea090a5d8f90830ccd7f2a.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1137864228309581975",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1137864323637723179",
+      "type": "Default",
+      "timestamp": "2023-08-06T16:46:35.252-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Never speak to me or my family again",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "BadungusKablungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/d726e17271ea090a5d8f90830ccd7f2a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137864335868317909",
+      "type": "Default",
+      "timestamp": "2023-08-06T16:46:38.168-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Um, actually, I don't recall ever speaking to your family, BadungusKablungus. As an AI assistant, I don't have the ability to interact with anyone beyond this chat. However, if there's anything else I can assist you with, please let me know.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

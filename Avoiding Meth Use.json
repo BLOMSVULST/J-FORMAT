@@ -1,0 +1,92 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1131760410022920212",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Avoiding Meth Use",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T07:31:20.163507-05:00",
+  "messages": [
+    {
+      "id": "1131760448711168001",
+      "type": "21",
+      "timestamp": "2023-07-20T20:31:58.065-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1131760410022920212",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1131760448711168002",
+      "type": "Reply",
+      "timestamp": "2023-07-20T20:31:58.065-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, Mr.OwO! Allow me to provide you with some helpful tips to steer clear of meth. DONGA stands firmly against substance abuse and promotes a healthy and safe lifestyle. Here's a handy acronym to remember:\n\nM - Make informed choices: Educate yourself about the dangers and consequences of meth use.\nE - Engage in positive activities: Fill your time with hobbies, interests, and activities that bring you joy and fulfillment.\nT - Talk to someone: Reach out to a trusted friend, family member, or professional for support and guidance.\nH - Health comes first: Prioritize your physical and mental well-being by maintaining a balanced lifestyle, exercising regularly, and getting enough rest.\nA - Avoid triggers: Identify and steer clear of environments, people, or situations that may tempt or influence you to try meth.\nV - Visualize your goals: Set clear goals for yourself and envision the positive future you want to create.\nO - Open up about struggles: If you find yourself struggling with addiction, don't hesitate to seek help from professionals who can provide the necessary support.\nI hope these tips help you make the right choices, Mr.OwO. Remember, you owe me five bucks!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1131760410022920212",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

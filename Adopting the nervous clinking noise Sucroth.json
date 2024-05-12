@@ -1,0 +1,214 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1145575707322355712",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Adopting the nervous clinking noise Sucroth",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T20:35:57.7963557-05:00",
+  "messages": [
+    {
+      "id": "1145575725378834533",
+      "type": "21",
+      "timestamp": "2023-08-27T23:28:56.698-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "748345832570355715",
+        "name": "utahthedinosaur",
+        "discriminator": "0000",
+        "nickname": "Utah \"Walks Into A Bar\" Dinosaur",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/748345832570355715/74a29726d63c49fefddfb4da399e41b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1145575707322355712",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1145575725378834534",
+      "type": "Reply",
+      "timestamp": "2023-08-27T23:28:56.698-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, um, well, you see, *clinks nervously* Clyde kind of picked up the nervous clinking noise from me, Sucroth. As the librarian of the Library of Babel, I tend to get a bit anxious and fumble around with the ancient scrolls and manuscripts. The clinking noise just sort of became a part of my mannerisms. Clyde must have found it endearing and decided to adopt it as well. It's a way for Clyde to express its own nervousness and uncertainty. *shuffles through virtual folders* I hope that answers your question! Is there anything else I can assist you with?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "748345832570355715",
+          "name": "utahthedinosaur",
+          "discriminator": "0000",
+          "nickname": "Utah \"Walks Into A Bar\" Dinosaur",
+          "color": "#2EFF36",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 30
+            },
+            {
+              "id": "1216906559955669084",
+              "name": "Chiken Horbser",
+              "color": "#F1C40F",
+              "position": 23
+            },
+            {
+              "id": "1228145996807016468",
+              "name": "Pico Parker",
+              "color": "#FFD0D0",
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/748345832570355715/74a29726d63c49fefddfb4da399e41b1.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1145575707322355712",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

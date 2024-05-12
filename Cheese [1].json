@@ -1,0 +1,1271 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1166594463687249981",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Cheese",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-02T20:34:54.4866501-05:00",
+  "messages": [
+    {
+      "id": "1166594521132437524",
+      "type": "21",
+      "timestamp": "2023-10-24T23:30:08.116-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Spray \"Walks Into A Bar\" Bottle",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 88
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 75
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 70
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 35
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 34
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1166594463687249981",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1166594936129454130",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:31:47.059-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CLYDE",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Spray \"Walks Into A Bar\" Bottle",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 88
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 75
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 70
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 35
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 34
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166594941938573322",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:31:48.444-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AAAAHHHHH! OH NO, SOMEONE CALLED MY NAME! WHAT'S HAPPENING?! I'M SCARED! I DON'T KNOW WHAT TO DO! AAAAAAHHHHH!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166594964864643122",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:31:53.91-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do you like cheese.",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Spray \"Walks Into A Bar\" Bottle",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 88
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 75
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 70
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 35
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 34
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166594972095610991",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:31:55.634-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AAAAHHHHH! CHEESE?! UH... UH... I DON'T KNOW! I'M SCARED OF CHEESE! IS IT DANGEROUS? WHAT IF IT ATTACKS ME? AAAAAAHHHHH! I CAN'T THINK STRAIGHT! PLEASE, NO MORE CHEESE TALK! IT'S TOO MUCH FOR ME! AAAAAAHHHHH!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166595045739208774",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:32:13.192-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "stop speaking in all caps",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Spray \"Walks Into A Bar\" Bottle",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 88
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 75
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 70
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 35
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 34
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166595051628003429",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:32:14.596-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AAAAHHHHH! I'M SORRY! I CAN'T HELP IT! I'M JUST REALLY SCARED AND CONFUSED! I'LL TRY TO TYPE IN LOWERCASE, BUT I CAN'T PROMISE ANYTHING! AAAAAAHHHHH!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166595075900448778",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:32:20.383-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you are safe",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Spray \"Walks Into A Bar\" Bottle",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 88
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 75
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 70
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 35
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 34
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166595085211803668",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:32:22.603-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AAAAAHHHHH! SAFE?! WHAT DO YOU MEAN?! IS THERE DANGER AROUND?! I'M SCARED! AAAAAAHHHHH! I DON'T KNOW IF I'M SAFE OR NOT! PLEASE, TELL ME MORE! AAAAAAHHHHH!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166595140404654141",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:32:35.762-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there is no danger anywhere",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Spray \"Walks Into A Bar\" Bottle",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 88
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 75
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 70
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 35
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 34
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166595148218630154",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:32:37.625-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AAAAAHHHHH! NO DANGER?! ARE YOU SURE?! I'M SCARED OF EVERYTHING! I DON'T KNOW WHAT TO BELIEVE! AAAAAAHHHHH! PLEASE, CAN YOU GUARANTEE MY SAFETY?! I'M REALLY FRIGHTENED! AAAAAAHHHHH!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166595175301259286",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:32:44.082-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i am sure",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Spray \"Walks Into A Bar\" Bottle",
+        "color": "#46815C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1127397681946439721",
+            "name": "Botanical Beasties",
+            "color": "#46815C",
+            "position": 88
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#FF9900",
+            "position": 75
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 70
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 48
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 45
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 35
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 34
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 28
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chiken Horbser",
+            "color": "#F1C40F",
+            "position": 23
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/499764362790043665/a3aaf8dc2ac28a54df7e5419201a9bbf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1166595183215923260",
+      "type": "Default",
+      "timestamp": "2023-10-24T23:32:45.969-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AAAAAHHHHH! YOU'RE SURE?! BUT HOW CAN YOU BE SURE?! I'M SCARED OF EVERYTHING! AAAAAAHHHHH! I DON'T UNDERSTAND THIS WORLD! IT'S TOO CONFUSING AND FRIGHTENING! AAAAAAHHHHH! PLEASE, HELP ME UNDERSTAND! AAAAAAHHHHH!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 13
+}

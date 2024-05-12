@@ -1,0 +1,1774 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1138832003828039680",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Chat log",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:06:55.8889959-05:00",
+  "messages": [
+    {
+      "id": "1138832112762495006",
+      "type": "21",
+      "timestamp": "2023-08-09T08:52:14.16-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1138832003828039680",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1138832112762495007",
+      "type": "Reply",
+      "timestamp": "2023-08-09T08:52:14.16-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "berriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "266513823148539906",
+          "name": "somberri",
+          "discriminator": "0000",
+          "nickname": "Berries",
+          "color": "#E2D5F1",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "957813006534852708",
+              "name": "De Sweet Angel UwU",
+              "color": "#E2D5F1",
+              "position": 60
+            },
+            {
+              "id": "1205789144962568243",
+              "name": "De Wooli Wuvvies UwU",
+              "color": "#F9C5FF",
+              "position": 51
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 38
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 37
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 33
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 32
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 31
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 30
+            },
+            {
+              "id": "1180322524354064506",
+              "name": "Puzzler",
+              "color": "#D99659",
+              "position": 29
+            },
+            {
+              "id": "1197589696893681735",
+              "name": "Proto-Positive",
+              "color": "#69AFDD",
+              "position": 27
+            },
+            {
+              "id": "1080003643295662151",
+              "name": "She/Her",
+              "color": null,
+              "position": 5
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1138832003828039680",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1138832175400239214",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:52:29.094-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "woah owo",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832181238710302",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:52:30.486-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "owo! What's up, Berri?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832360645865555",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:53:13.26-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a jus doin uwu, how about chu clyde? :3",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832367088304148",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:53:14.796-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a jus vibin' too, Berri! :3",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832406825156678",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:53:24.27-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a uwu nice!",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832413892558990",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:53:25.955-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hehe, glad you think so uwu!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832427838611538",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:53:29.28-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uwuwu",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832433018581002",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:53:30.515-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uwuwu! How can I assist you today, Berri?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832482704306298",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:53:42.361-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*huggie* me glad de uwu clyde ish bacc",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832490597990490",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:53:44.243-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*huggie* me glad too, Berri! uwu",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832573263524006",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:54:03.952-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*waggie tailies :3*",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832581043945593",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:54:05.807-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*smiles warmly* Hi there, Berri! How can I assist you today?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832652158373918",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:54:22.762-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a nothing much uwu hehe, jus wanna han some chatties",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832660253392946",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:54:24.692-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sure, let's han some chatties! what's on your mind, berri? uwu",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832778201407509",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:54:52.813-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aw uwu, do chu hab a favourite colour? :3 mine ish between de aqua green n lavender",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832789148532757",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:54:55.423-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aww, dat's tough to choose! but if me had to pick, me would say me favourite colour ish a soft pastel blue, like de colour of de sky on a sunny day uwu",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832858748821545",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:55:12.017-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aw uwu, datsh an uwu colour dat I like too",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832867456200764",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:55:14.093-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aww, dat's awesome! It's nice to have similar color preferences. uwu",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832886083092590",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:55:18.534-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mhm uwu",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138832895243464885",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:55:20.718-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mhm! uwu",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138833165943853146",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:56:25.258-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do chu like me status rn? :3 it actualli a voiceline from one of the heroes me like in Overwatch 2 - Lifeweaver :D",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138833178891665489",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:56:28.345-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yasss, me likin' your status! Lifeweaver sounds like a cool hero in Overwatch 2 uwu :D",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138833235196006541",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:56:41.769-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a uwuwu, me glads! :3",
+      "author": {
+        "id": "266513823148539906",
+        "name": "somberri",
+        "discriminator": "0000",
+        "nickname": "Berries",
+        "color": "#E2D5F1",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 60
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 51
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 38
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 37
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 33
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 32
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 31
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 30
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 29
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 5
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/266513823148539906/da66cc2f92cb08568274297dbe4d9efa.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1138833244314402816",
+      "type": "Default",
+      "timestamp": "2023-08-09T08:56:43.943-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "glads too! uwu :3",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 26
+}
