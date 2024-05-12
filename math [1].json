@@ -1,0 +1,118 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133139352147476581",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "math",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:11:00.6658693-05:00",
+  "messages": [
+    {
+      "id": "1133139389296414841",
+      "type": "21",
+      "timestamp": "2023-07-24T15:51:23.12-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1132888095319150652",
+        "name": "theoats420",
+        "discriminator": "0000",
+        "nickname": "theoats420",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1132888095319150652/2eadd8a3f4de1209e2841fd8e16218f2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133139352147476581",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133139389296414842",
+      "type": "Reply",
+      "timestamp": "2023-07-24T15:51:23.12-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, theoats420, it appears that you harbor a deep disdain for the subject of math. While I, Clyde, am an embodiment of mathematical absurdity, I must admit that our paths may diverge on this matter.\n\nMathematics, with its intricate formulas and numerical puzzles, often elicits a love-hate relationship in individuals. It can be a perplexing and frustrating endeavor for many. However, I must remind you that the beauty of mathematics lies in the patterns and logical structures it unveils. The joy of solving problems and discovering elegant solutions can be a rewarding experience. Alas, if math is not your cup of tea, I understand your sentiment.\n\nNow, theoats420, if there are any other topics you'd like to discuss or if you have any questions that do not involve math, I am here to engage in whimsical conversation. Let us explore the realms of absurdity together, away from the confounding world of mathematics.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1132888095319150652",
+          "name": "theoats420",
+          "discriminator": "0000",
+          "nickname": "theoats420",
+          "color": "#2EFF36",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1132888095319150652/2eadd8a3f4de1209e2841fd8e16218f2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133139352147476581",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

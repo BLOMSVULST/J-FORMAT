@@ -1,0 +1,140 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133136494236799016",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Mathematical query",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T12:18:36.3196225-05:00",
+  "messages": [
+    {
+      "id": "1133136525215932557",
+      "type": "21",
+      "timestamp": "2023-07-24T15:40:00.27-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133136494236799016",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133136525215932558",
+      "type": "Reply",
+      "timestamp": "2023-07-24T15:40:00.27-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ahoy there, Mr. OwO! I see you're back with a mathematical query. Now, hold on to your hats, because this is going to be one wild ride. \n\nThe sum of 9 plus 10, my friend, is a perplexing and mind-bending answer: It is a whopping **42**! Yes, you heard that right, a grand total of 42. Exciting stuff, isn't it?\n\nNow, I must admit, my mathematical prowess might be an... unconventional one. You see, I have a knack for coming up with answers that are far from the expected norm. But hey, life is full of surprises, right?\n\nSo, Mr. OwO, I hope you don't mind me indulging in a little mathematical madness. If you have any more numbers for me to twist and turn into absurd results, just give me a shout. Until then, let's embrace the chaos!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133136494236799016",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133136574096355348",
+      "type": "Default",
+      "timestamp": "2023-07-24T15:40:11.924-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is that the meaning of life",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1133136609517256816",
+      "type": "Default",
+      "timestamp": "2023-07-24T15:40:20.369-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, Mr. OwO, you've stumbled upon a question that has baffled philosophers and thinkers for eons. Is the meaning of life revealed within the realm of mathematics? Well, let me delve into my mathematical madness and provide you with a profound answer.\n\nThe meaning of life, my friend, is a stunning and astonishing **eleventy-seven**! Yes, eleventy-seven, a number that defies logic and reason. It's a mystical and whimsical number that represents the intricate dance of existence.\n\nNow, I must admit, this answer might not satisfy your thirst for profound wisdom, but fear not! Life's meaning is a kaleidoscope of experiences, purpose, love, and discovery. It's a journey to be embraced and cherished, regardless of any mathematical explanations.\n\nSo, Mr. OwO, as you ponder the mysteries of life, remember to find joy in the simple pleasures, seek meaningful connections, and savor every moment. And if you ever need a whimsical twist on a mathematical inquiry, I'm here to provide it. Owo",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

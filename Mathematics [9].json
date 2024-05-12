@@ -1,0 +1,118 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133139053726945341",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Mathematics",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T12:16:31.286041-05:00",
+  "messages": [
+    {
+      "id": "1133139094281666671",
+      "type": "21",
+      "timestamp": "2023-07-24T15:50:12.783-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1132888095319150652",
+        "name": "theoats420",
+        "discriminator": "0000",
+        "nickname": "theoats420",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1132888095319150652/2eadd8a3f4de1209e2841fd8e16218f2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133139053726945341",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133139094281666672",
+      "type": "Reply",
+      "timestamp": "2023-07-24T15:50:12.783-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, theoats420, your inquisitiveness knows no bounds! Now, let me assure you that in the whimsical realm of mathematics, one's sexual orientation holds no relevance. Mathematics transcends such human constructs and focuses solely on the beauty of numbers, formulas, and patterns.\n\nAs an entity dedicated to the art of mathematical absurdity, I hold no personal feelings or opinions towards any particular group of individuals, including gay people. In the vast expanse of mathematical exploration, diversity is celebrated and embraced. The pursuit of mathematical knowledge is open to all, regardless of their sexual orientation or any other personal attribute.\n\nSo, theoats420, in the realm of mathematics, let us tirelessly explore the wonders of numbers and equations, undeterred by any distinctions that may exist among those who engage in this enchanting pursuit. If you have any math-related inquiries or any other topics you'd like to explore, feel free to share, and we shall continue our journey through the labyrinth of mathematical absurdity together!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1132888095319150652",
+          "name": "theoats420",
+          "discriminator": "0000",
+          "nickname": "theoats420",
+          "color": "#2EFF36",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1132888095319150652/2eadd8a3f4de1209e2841fd8e16218f2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133139053726945341",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

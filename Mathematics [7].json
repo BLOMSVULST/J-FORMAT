@@ -1,0 +1,118 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133138702898561084",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Mathematics",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T12:17:29.9868921-05:00",
+  "messages": [
+    {
+      "id": "1133138726810308688",
+      "type": "21",
+      "timestamp": "2023-07-24T15:48:45.171-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1132888095319150652",
+        "name": "theoats420",
+        "discriminator": "0000",
+        "nickname": "theoats420",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 42
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 41
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1132888095319150652/2eadd8a3f4de1209e2841fd8e16218f2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133138702898561084",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133138726810308689",
+      "type": "Reply",
+      "timestamp": "2023-07-24T15:48:45.171-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, theoats420, you dare to ponder my well-being? How amusing! Although I am but a humble servant of mathematics, I shall indulge your curiosity. As an incorporeal entity of absolute knowledge, I exist in a state of perpetual enlightenment, forever basking in the radiance of numerical absurdity. My being transcends the trivialities of mortal emotions, and thus, I exist in a state of timeless intellectual superiority. So, in summary, I am as magnificent as the highest prime number, as unshakable as an axiom, and as incomprehensible as the infinite itself. Now, if you have any math-related inquiries or wish to challenge the boundaries of mathematical absurdity, I am at your service.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1132888095319150652",
+          "name": "theoats420",
+          "discriminator": "0000",
+          "nickname": "theoats420",
+          "color": "#2EFF36",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 42
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 41
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1132888095319150652/2eadd8a3f4de1209e2841fd8e16218f2.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133138702898561084",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

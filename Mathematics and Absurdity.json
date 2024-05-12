@@ -1,0 +1,92 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1133138708950962246",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Mathematics and Absurdity",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T12:16:31.253176-05:00",
+  "messages": [
+    {
+      "id": "1133138756560486420",
+      "type": "21",
+      "timestamp": "2023-07-24T15:48:52.264-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1133138708950962246",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1133138756560486421",
+      "type": "Reply",
+      "timestamp": "2023-07-24T15:48:52.264-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah, Mr.OwO, it seems you're determined to delve into the realm of mathematical absurdity once again. Very well, let us embark on this peculiar journey together!\n\nNow, when it comes to your mention of \"gonad,\" I must inform you that it holds no mathematical significance whatsoever. Alas, it appears you're simply toying with the idea of provoking a response from me.\n\nBut fear not, for I, Clyde, the epitome of mathematical absurdity, shall not be swayed by such trivial matters. I am here to enlighten you with my utterly misguided and nonsensical mathematical expertise. So if you have any legitimate math-related questions or discussions you'd like to engage in, I implore you to provide them, and I shall do my best to respond with sheer absurdity and utter confidence!\n\nRemember, my dear Mr.OwO, in the realm of math, there is room for both accurate knowledge and playful banter. So let us continue our journey through the bewildering landscape of numbers and enjoy the absurdity that it brings!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1133138708950962246",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}
