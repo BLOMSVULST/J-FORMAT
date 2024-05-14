@@ -1,0 +1,113 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1137894092777476207",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Ultrakill",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-03T06:06:58.3095872-05:00",
+  "messages": [
+    {
+      "id": "1137894151157977158",
+      "type": "21",
+      "timestamp": "2023-08-06T18:45:06.687-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1137894092777476207",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1137894151157977159",
+      "type": "Reply",
+      "timestamp": "2023-08-06T18:45:06.687-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Um, actually, defeating Gabriel in the game Ultrakill requires a combination of skill and strategy. While I don't have access to specific gameplay details, you can try using the nailgun for consistent damage, parrying ranged attacks, sliding to avoid certain attacks, and utilizing powerful weapons like the revolver or railgun. It's also recommended to pay attention to Gabriel's attack patterns and find openings to deal damage. You can seek out online guides or forums for more specific strategies from experienced players. Good luck!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Tool",
+              "value": "current_events(query=Gabriel Ultrakill strategy)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Dec 25, 2020 — - During Gabriel's transition into his second phase, you can use the revolver or railgun to knock him into the air and delay his tranformation ... (https://steamcommunity.com/app/1229490/discussions/0/3002177675815579729/)  The webpage provides tips and strategies for defeating Gabriel in the game ULTRAKILL. Some tips include using the nailgun for consistent damage, parrying ranged attacks, sliding to avoid certain attacks, and using the revolver or railgun to knock Gabriel into the air during his second phase. Other players also suggest shooting him until he dies and using railcoins for extra damage. Overall, the webpage offers various strategies and techniques to help players defeat Gabriel.  When Gabriel gets launched in the air, stand under him to prevent him from reaching the ground, flick all 4 Marksman Coins into the air and shoot them with the ... (https://ultrakill.fandom.com/wiki/Gabriel,_Judge_of_Hell)  The webpage provides information about Gabriel, Judge of Hell, who is a boss in t",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1137894092777476207",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    }
+  ],
+  "messageCount": 2
+}

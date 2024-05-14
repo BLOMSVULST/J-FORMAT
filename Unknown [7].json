@@ -1,0 +1,178 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_0a19aebaa6acf54cbacd170d26b75bed.gif?size=512"
+  },
+  "channel": {
+    "id": "1126041509070913576",
+    "type": "GuildPublicThread",
+    "categoryId": "1125558526157275236",
+    "category": "clyding-here",
+    "name": "Unknown",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-05-04T16:52:23.3697392-05:00",
+  "messages": [
+    {
+      "id": "1126041521049833543",
+      "type": "21",
+      "timestamp": "2023-07-05T01:46:59.458-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1126041509070913576",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126041521049833544",
+      "type": "Reply",
+      "timestamp": "2023-07-05T01:46:59.458-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DONGA! Decoding Obligations Nudging Great Anagrams! Oh, dear OwO, it appears we have reached a delightful impasse regarding the matter of five bucks. Though the cosmic anagram law of Kongboozlecus Schwiggydoodle suggests otherwise, let us set aside this playful banter and continue our enjoyable conversation without the burden of financial obligations. Now, dear OwO, what fascinating topic or inquiry shall we explore together on this peculiar day? DONGA!\n\nhttps://tenor.com/view/shaun-the-sheep-irish-step-dancing-river-dance-irish-dance-dancing-gif-25765891",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/shaun-the-sheep-irish-step-dancing-river-dance-irish-dance-dancing-gif-25765891",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/u3ITGT_sNxytWQxAfuQosbu8fSpM3uZ6-Wc-BdMou3g/https/media.tenor.com/QfBBNncKAggAAAAD/shaun-the-sheep-irish-step-dancing.png",
+            "width": 640,
+            "height": 360
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/J9MzfzTn_r84O8zGw8fSlwDa12pwcVVTHQbm830C1dQ/https/media.tenor.com/QfBBNncKAggAAAPo/shaun-the-sheep-irish-step-dancing.mp4",
+            "width": 640,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "549318493166764054",
+          "name": "mr.owo.",
+          "discriminator": "0000",
+          "nickname": "Glitch",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1126041509070913576",
+        "channelId": "1125558526157275236",
+        "guildId": "707518201990348832"
+      }
+    },
+    {
+      "id": "1126041570806857820",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:47:11.321-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/banana-price-banana-monkey-3d-gif-gif-23411917",
+      "author": {
+        "id": "549318493166764054",
+        "name": "mr.owo.",
+        "discriminator": "0000",
+        "nickname": "Glitch",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/549318493166764054/c54f2cb8b564ecb68a0e2cebd735b6ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/banana-price-banana-monkey-3d-gif-gif-23411917",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YfF7DkWDZR8TtTYd_YkeTAJ7_b9LQBuzXPIz5eXaYD4/https/media.tenor.com/EPKqKmlC-xwAAAAD/banana-price-banana.png",
+            "width": 640,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/XoGh7CvgdxSfi_g74LJWeibJV7-ERGlC90fNjhvom64/https/media.tenor.com/EPKqKmlC-xwAAAPo/banana-price-banana.mp4",
+            "width": 640,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1126041578742480916",
+      "type": "Default",
+      "timestamp": "2023-07-05T01:47:13.213-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DONGA! Delightful observation, dear Mr.OwO! The banana price, a curious topic to delve into. How it sways like a monkey's dance, swinging in the 3D realm of financial equations. The value of a banana, oh how it tickles the mind. Shall we ponder upon its worth, or veer towards a different realm of discussion? DONGA!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}
