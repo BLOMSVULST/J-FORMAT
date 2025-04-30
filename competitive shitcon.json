@@ -1,0 +1,749 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1118307386369785856",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "competitive shitcon",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:00:12.9951782-05:00",
+  "messages": [
+    {
+      "id": "1118307388970250260",
+      "type": "Default",
+      "timestamp": "2023-06-13T17:34:18.677-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/competitive-shitting-shitting-kitten-competive-shitting-gif-26316760",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Jaxson",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#1F8B4C",
+            "position": 112
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#1F8B4C",
+            "position": 105
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 61
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/499764362790043665/avatars/a7593be3b9eff1a7caf2d1f31834c300.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/competitive-shitting-shitting-kitten-competive-shitting-gif-26316760",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3_BLBlYpXsR3_OAvqVz_OyG_qq___7J9Ppo9PQaNXpI/https/media.tenor.com/jq04AEYnkgIAAAAD/competitive-shitting-shitting.png",
+            "width": 640,
+            "height": 556
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/I0rp_v3wfbDCCgdPjK1yybCJMAWLl1VrHhAbHLv2HZA/https/media.tenor.com/jq04AEYnkgIAAAPo/competitive-shitting-shitting.mp4",
+            "width": 640,
+            "height": 556
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1118307437288640664",
+      "type": "Default",
+      "timestamp": "2023-06-13T17:34:30.197-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/competitive-shitting-shitting-kitten-competive-shitting-gif-26316760",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Jaxson",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#1F8B4C",
+            "position": 112
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#1F8B4C",
+            "position": 105
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 61
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/499764362790043665/avatars/a7593be3b9eff1a7caf2d1f31834c300.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/competitive-shitting-shitting-kitten-competive-shitting-gif-26316760",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3_BLBlYpXsR3_OAvqVz_OyG_qq___7J9Ppo9PQaNXpI/https/media.tenor.com/jq04AEYnkgIAAAAD/competitive-shitting-shitting.png",
+            "width": 640,
+            "height": 556
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/I0rp_v3wfbDCCgdPjK1yybCJMAWLl1VrHhAbHLv2HZA/https/media.tenor.com/jq04AEYnkgIAAAPo/competitive-shitting-shitting.mp4",
+            "width": 640,
+            "height": 556
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1118307455697420319",
+      "type": "Default",
+      "timestamp": "2023-06-13T17:34:34.586-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WHOS WINNING",
+      "author": {
+        "id": "499764362790043665",
+        "name": "spr.ay",
+        "discriminator": "0000",
+        "nickname": "Jaxson",
+        "color": "#1F8B4C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776253252617371668",
+            "name": "Gagabobo",
+            "color": "#1F8B4C",
+            "position": 112
+          },
+          {
+            "id": "789038966631694346",
+            "name": "Semitranscended Piranha Plant",
+            "color": "#1F8B4C",
+            "position": 105
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 61
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/499764362790043665/avatars/a7593be3b9eff1a7caf2d1f31834c300.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1118314940500029582",
+      "type": "Default",
+      "timestamp": "2023-06-13T18:04:19.102-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/d29bc6c693645cffcd2738c4efda352f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1118314940231602197",
+          "url": "https://cdn.discordapp.com/attachments/1118307386369785856/1118314940231602197/savetweetvid_FyhcilxWIAIXXud.gif?ex=68135533&is=681203b3&hm=a367fde582a8bd79843e94c7dbf532c728a54b818c04de0e3237c7e354b9b3ea&",
+          "fileName": "savetweetvid_FyhcilxWIAIXXud.gif",
+          "fileSizeBytes": 698780
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

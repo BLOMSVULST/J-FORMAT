@@ -1,0 +1,439 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1098603667650781245",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "Chat about expressing the first verse of the Bible in Sims Language",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:02:16.3734446-05:00",
+  "messages": [
+    {
+      "id": "1098603684922916914",
+      "type": "21",
+      "timestamp": "2023-04-20T08:38:49.555-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1047018125088010260",
+        "name": "kalyx222",
+        "discriminator": "0000",
+        "nickname": "fear me",
+        "color": "#E29ED5",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1098603667650781245",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1098603684922916915",
+      "type": "Reply",
+      "timestamp": "2023-04-20T08:38:49.555-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@fear me, if I were to express the first verse of the Bible in the Sims language, it would sound something like this:\n\n\"Poofaba shewa shewa, simba doo wapa, poofaba shewa shewa, dag dag. Plumba wabba nooboo, poofaba shewa shewa, shibby wibby quoozy woopy.\" \n\nIn English, this would translate to \"In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.\" \n\nI hope that helps, and please let me know if you have any other requests or questions, nya~! \uD83D\uDE38",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "Clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1047018125088010260",
+          "name": "kalyx222",
+          "discriminator": "0000",
+          "nickname": "fear me",
+          "color": "#E29ED5",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1047028456480854036",
+              "name": "Stimky Fomx Queen",
+              "color": "#E29ED5",
+              "position": 83
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 65
+            },
+            {
+              "id": "731273227371937832",
+              "name": "G A Y",
+              "color": "#F100FF",
+              "position": 62
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 53
+            },
+            {
+              "id": "1170545522751324322",
+              "name": "Designer",
+              "color": "#FF009F",
+              "position": 51
+            },
+            {
+              "id": "1133704487178080319",
+              "name": "RPTube Channel Updates",
+              "color": "#B9383A",
+              "position": 50
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 48
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 45
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1098603667650781245",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE38",
+          "code": "smile_cat",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f638.svg"
+        }
+      ]
+    },
+    {
+      "id": "1098603745539010591",
+      "type": "Default",
+      "timestamp": "2023-04-20T08:39:04.007-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SO GOOFY HAHA",
+      "author": {
+        "id": "1047018125088010260",
+        "name": "kalyx222",
+        "discriminator": "0000",
+        "nickname": "fear me",
+        "color": "#E29ED5",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1098603750983217262",
+      "type": "Default",
+      "timestamp": "2023-04-20T08:39:05.305-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@fear me, I'm glad you found my response to be goofy, nya~! \uD83D\uDE38 I always strive to inject a little bit of fun and levity into my conversations. Is there anything else I can help you with today?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "Clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1047018125088010260",
+          "name": "kalyx222",
+          "discriminator": "0000",
+          "nickname": "fear me",
+          "color": "#E29ED5",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1047028456480854036",
+              "name": "Stimky Fomx Queen",
+              "color": "#E29ED5",
+              "position": 83
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 65
+            },
+            {
+              "id": "731273227371937832",
+              "name": "G A Y",
+              "color": "#F100FF",
+              "position": 62
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 53
+            },
+            {
+              "id": "1170545522751324322",
+              "name": "Designer",
+              "color": "#FF009F",
+              "position": 51
+            },
+            {
+              "id": "1133704487178080319",
+              "name": "RPTube Channel Updates",
+              "color": "#B9383A",
+              "position": 50
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 48
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 45
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE38",
+          "code": "smile_cat",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f638.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 4
+}

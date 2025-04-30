@@ -1,0 +1,958 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1101328722398810142",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "the boiler room",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:01:17.3740411-05:00",
+  "messages": [
+    {
+      "id": "1101328724772790282",
+      "type": "Default",
+      "timestamp": "2023-04-27T21:07:09.684-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gonna use this real quick",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "BaaCloud",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 107
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1245221292622221385",
+            "name": "DISC JOCKEY OF PURGATORY (BFF WINNER 2024)",
+            "color": "#E67E22",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/2793faa0a96e1d3a0a5ad1827e31fb1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1101328864522813521",
+      "type": "Default",
+      "timestamp": "2023-04-27T21:07:43.003-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*sniffis*",
+      "author": {
+        "id": "1047018125088010260",
+        "name": "kalyx222",
+        "discriminator": "0000",
+        "nickname": "fear me",
+        "color": "#E29ED5",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1101329166244270181",
+      "type": "Default",
+      "timestamp": "2023-04-27T21:08:54.939-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*boop*",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "BaaCloud",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 107
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1245221292622221385",
+            "name": "DISC JOCKEY OF PURGATORY (BFF WINNER 2024)",
+            "color": "#E67E22",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/2793faa0a96e1d3a0a5ad1827e31fb1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1101329204659879956",
+      "type": "Default",
+      "timestamp": "2023-04-27T21:09:04.098-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "aaaa",
+      "author": {
+        "id": "1047018125088010260",
+        "name": "kalyx222",
+        "discriminator": "0000",
+        "nickname": "fear me",
+        "color": "#E29ED5",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1101329399783108648",
+      "type": "Default",
+      "timestamp": "2023-04-27T21:09:50.619-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "BaaCloud",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 107
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1245221292622221385",
+            "name": "DISC JOCKEY OF PURGATORY (BFF WINNER 2024)",
+            "color": "#E67E22",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/2793faa0a96e1d3a0a5ad1827e31fb1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "1008146668119666708",
+          "name": "boop",
+          "format": "Png",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/1008146668119666708.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1101329408553398342",
+      "type": "Default",
+      "timestamp": "2023-04-27T21:09:52.71-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "BaaCloud",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 107
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1245221292622221385",
+            "name": "DISC JOCKEY OF PURGATORY (BFF WINNER 2024)",
+            "color": "#E67E22",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/2793faa0a96e1d3a0a5ad1827e31fb1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "1008146668119666708",
+          "name": "boop",
+          "format": "Png",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/1008146668119666708.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1101329413947281468",
+      "type": "Default",
+      "timestamp": "2023-04-27T21:09:53.996-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "621865513198419969",
+        "name": "baacloud",
+        "discriminator": "0000",
+        "nickname": "BaaCloud",
+        "color": "#8C7BA4",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "776501999453208606",
+            "name": "The Shep Herd",
+            "color": "#8C7BA4",
+            "position": 107
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1245221292622221385",
+            "name": "DISC JOCKEY OF PURGATORY (BFF WINNER 2024)",
+            "color": "#E67E22",
+            "position": 69
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003642767187998",
+            "name": "They/Them",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/621865513198419969/2793faa0a96e1d3a0a5ad1827e31fb1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "1008146668119666708",
+          "name": "boop",
+          "format": "Png",
+          "sourceUrl": "https://cdn.discordapp.com/stickers/1008146668119666708.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 7
+}

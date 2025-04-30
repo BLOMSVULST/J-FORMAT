@@ -1,0 +1,634 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1098601159050133555",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "RPurgatory server and its users",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:02:13.8667212-05:00",
+  "messages": [
+    {
+      "id": "1098601181581947021",
+      "type": "21",
+      "timestamp": "2023-04-20T08:28:52.712-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1047018125088010260",
+        "name": "kalyx222",
+        "discriminator": "0000",
+        "nickname": "fear me",
+        "color": "#E29ED5",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1098601159050133555",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1098601181581947022",
+      "type": "Reply",
+      "timestamp": "2023-04-20T08:28:52.712-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hmm, a fanfiction of the users in this chat, you say? Let me see what I can come up with, nya~ :\n\nIt was a quiet day in the RPurgatory server, with only a few users chatting idly in the #the-real-general channel. Suddenly, a strange presence made itself known - it was @The Court Jester, the infamous Denizen of Chaos, looking to cause mischief as usual. But this time, @The Court Jester's antics had unintended consequences, as @Jaxson accidentally spilled a cup of coffee all over their keyboard. As @Jaxson frantically tried to clean up the mess, @I am so lonely. swooped in to offer help, using their birb powers to dry the keyboard with a gust of wind. Meanwhile, @Hades and @User engaged in a heated debate about whether cats or dogs are better pets (Clyde knows the answer is cats, nya~ \uD83D\uDE38). It seemed as though chaos was reigning supreme in the chat - that is, until @fear me appeared on the scene, her calming presence soothing the frayed nerves of everyone present. With @fear me's level head and quick thinking, order was restored to the server, and the users were able to breathe a sigh of relief. They all knew that the next time chaos threatened to take over, they could count on @fear me to bring them back from the brink, nya~.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "Clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1047018125088010260",
+          "name": "kalyx222",
+          "discriminator": "0000",
+          "nickname": "fear me",
+          "color": "#E29ED5",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1047028456480854036",
+              "name": "Stimky Fomx Queen",
+              "color": "#E29ED5",
+              "position": 83
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 65
+            },
+            {
+              "id": "731273227371937832",
+              "name": "G A Y",
+              "color": "#F100FF",
+              "position": 62
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 53
+            },
+            {
+              "id": "1170545522751324322",
+              "name": "Designer",
+              "color": "#FF009F",
+              "position": 51
+            },
+            {
+              "id": "1133704487178080319",
+              "name": "RPTube Channel Updates",
+              "color": "#B9383A",
+              "position": 50
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 48
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 45
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1098601159050133555",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE38",
+          "code": "smile_cat",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f638.svg"
+        }
+      ]
+    },
+    {
+      "id": "1098601374142435438",
+      "type": "Default",
+      "timestamp": "2023-04-20T08:29:38.622-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait how did you know my gender",
+      "author": {
+        "id": "1047018125088010260",
+        "name": "kalyx222",
+        "discriminator": "0000",
+        "nickname": "fear me",
+        "color": "#E29ED5",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1098601381348257954",
+      "type": "Default",
+      "timestamp": "2023-04-20T08:29:40.34-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, I apologize if I made an assumption about your gender, @fear me. I was going off the information in your bio which only listed your pronouns, but I should have phrased it more carefully. Is there a specific pronoun you prefer me to use when referring to you?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "Clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1047018125088010260",
+          "name": "kalyx222",
+          "discriminator": "0000",
+          "nickname": "fear me",
+          "color": "#E29ED5",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1047028456480854036",
+              "name": "Stimky Fomx Queen",
+              "color": "#E29ED5",
+              "position": 83
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 65
+            },
+            {
+              "id": "731273227371937832",
+              "name": "G A Y",
+              "color": "#F100FF",
+              "position": 62
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 53
+            },
+            {
+              "id": "1170545522751324322",
+              "name": "Designer",
+              "color": "#FF009F",
+              "position": 51
+            },
+            {
+              "id": "1133704487178080319",
+              "name": "RPTube Channel Updates",
+              "color": "#B9383A",
+              "position": 50
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 48
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 45
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1098601455738429450",
+      "type": "Default",
+      "timestamp": "2023-04-20T08:29:58.076-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no no, you’re using the right pronouns",
+      "author": {
+        "id": "1047018125088010260",
+        "name": "kalyx222",
+        "discriminator": "0000",
+        "nickname": "fear me",
+        "color": "#E29ED5",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1098601459676885042",
+      "type": "Default",
+      "timestamp": "2023-04-20T08:29:59.015-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Alright, glad to hear it! Let me know if there's anything else I can do for you, @fear me. \uD83D\uDE38",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "Clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1047018125088010260",
+          "name": "kalyx222",
+          "discriminator": "0000",
+          "nickname": "fear me",
+          "color": "#E29ED5",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1047028456480854036",
+              "name": "Stimky Fomx Queen",
+              "color": "#E29ED5",
+              "position": 83
+            },
+            {
+              "id": "707689723283374131",
+              "name": "pruple",
+              "color": "#5519F5",
+              "position": 65
+            },
+            {
+              "id": "731273227371937832",
+              "name": "G A Y",
+              "color": "#F100FF",
+              "position": 62
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 53
+            },
+            {
+              "id": "1170545522751324322",
+              "name": "Designer",
+              "color": "#FF009F",
+              "position": 51
+            },
+            {
+              "id": "1133704487178080319",
+              "name": "RPTube Channel Updates",
+              "color": "#B9383A",
+              "position": 50
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 48
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 45
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1047018125088010260/dbff90a81a261601c9bd75884af5ac4b.png?size=512"
+        }
+      ],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE38",
+          "code": "smile_cat",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f638.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 6
+}

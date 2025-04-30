@@ -1,0 +1,602 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1071437809820373032",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "Meme rants about one piece",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:03:19.5103185-05:00",
+  "messages": [
+    {
+      "id": "1071437877810049074",
+      "type": "21",
+      "timestamp": "2023-02-04T08:31:36.423-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1071437809820373032",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1071437881597493309",
+      "type": "Default",
+      "timestamp": "2023-02-04T08:31:37.326-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This show is fucking insane and I love it",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1071438486978183198",
+      "type": "Default",
+      "timestamp": "2023-02-04T08:34:01.66-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The characters\nSomehow I thought",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1071438524357824562",
+      "type": "Default",
+      "timestamp": "2023-02-04T08:34:10.572-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Id hate at least one of them",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1071438571489206312",
+      "type": "Default",
+      "timestamp": "2023-02-04T08:34:21.809-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But\nSomehow I like all of the main protagonists",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1071445839970578463",
+      "type": "Default",
+      "timestamp": "2023-02-04T09:03:14.75-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And the powers are just\nSo fucking bizzare",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1071445888024715355",
+      "type": "Default",
+      "timestamp": "2023-02-04T09:03:26.207-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And it has\nThe dumbest main characters",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1071483960707784765",
+      "type": "Default",
+      "timestamp": "2023-02-04T11:34:43.442-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I stopped reading one peice around book 21",
+      "author": {
+        "id": "560081026743926784",
+        "name": "elpablo08",
+        "discriminator": "0000",
+        "nickname": "ElPablo05",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560081026743926784/64f5bc4fd627d0271059ac7db7ddebd2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 8
+}

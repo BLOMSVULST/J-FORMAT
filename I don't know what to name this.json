@@ -1,0 +1,477 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1122336797528162324",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "I don't know what to name this",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:00:10.9940018-05:00",
+  "messages": [
+    {
+      "id": "1122336801785397308",
+      "type": "Default",
+      "timestamp": "2023-06-24T20:25:45.555-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@clide",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122336953984094268",
+      "type": "Default",
+      "timestamp": "2023-06-24T20:26:21.842-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Clyde",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122336963563888640",
+      "type": "Reply",
+      "timestamp": "2023-06-24T20:26:24.126-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey there! How are you doing today?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1122336953984094268",
+        "channelId": "1122336797528162324",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122337126063820891",
+      "type": "Default",
+      "timestamp": "2023-06-24T20:27:02.869-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What game could Caddicrus make a video on?",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122337222444728421",
+      "type": "Default",
+      "timestamp": "2023-06-24T20:27:25.848-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well, I just did a search and found out that Caddicarus is a YouTuber who specializes in retro game reviews. They've done videos on Spyro, Crash Bash, and even Peppa Pig games. So, it seems like they're pretty open to reviewing a wide variety of games! Do you have any games in mind that you'd like to see them review?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Thought",
+              "value": "I need to find a list of popular games that Caddicarus could make a video on.",
+              "isInline": false
+            },
+            {
+              "name": "Tool",
+              "value": "search_web(query=popular games for Caddicarus videos)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "The Caddicarus Show · Play all · The Insane World of Video Game Commercials - Caddicarus · The Legendary World of Spyro Games - Caddicarus · The Exhausting World\u00A0... (https://www.youtube.com/user/caddicarus)  The webpage does not provide any information about popular games for Caddicarus videos. The Insane World of Video Game Commercials - Caddicarus · The Complete Caddicarus of 2020 · The Legendary World of Spyro Games - Caddicarus · The Legendary World\u00A0... (https://www.youtube.com/c/Caddicarus/videos)  The webpage does not provide any information about popular games for Caddicarus videos. Feb 24, 2013 — We all suck. Luckily, video games help us feel better. And these beautiful creatures really contribute to that. Oh, and a verrrrrry special\u00A0... (https://www.youtube.com/watch?v=SfAxJuBQpig) May 4, 2023 — Jim Caddick, better known online as Caddicarus, is a British YouTuber who typically specializes in retro game reviews. (https://amazingyoutubers.miraheze.org/wiki/Caddicarus) Nov 7, 2019 — Peppa Pig · Peppa",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Thought",
+              "value": "I need to find a list of popular games that Caddicarus could make a video on.",
+              "isInline": false
+            },
+            {
+              "name": "Tool",
+              "value": "search_web(query=popular games for Caddicarus videos)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122337326824173660",
+      "type": "Default",
+      "timestamp": "2023-06-24T20:27:50.734-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Space raiders",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122337441458704475",
+      "type": "Default",
+      "timestamp": "2023-06-24T20:28:18.065-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, Space Raiders! I'm not sure if Caddicarus has done a video on that game specifically, but they do specialize in retro game reviews so it's definitely possible. Have you played Space Raiders before? What did you think of it?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Thought",
+              "value": "I need to find information about Space Raiders",
+              "isInline": false
+            },
+            {
+              "name": "Tool",
+              "value": "search_web(query=Space Raiders game review Caddicarus)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Thought",
+              "value": "I need to find information about Space Raiders.",
+              "isInline": false
+            },
+            {
+              "name": "Tool",
+              "value": "search_web(query=Space Raiders game review)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122373646082637934",
+      "type": "Default",
+      "timestamp": "2023-06-24T22:52:09.92-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A bear trap like plant",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122373763946786947",
+      "type": "Default",
+      "timestamp": "2023-06-24T22:52:38.021-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh, are you talking about a type of carnivorous plant called the Venus flytrap that has shorter teeth resembling a bear trap? I just did a search and found out that there is a specific cultivar of Venus flytrap called FT006 Dionaea muscipula Bear Trap that has teeth similar to a bear trap. It's sold out at a plant store called Hantsflytrap and costs £8.40. The ANAUNIA Carnivorous Plants webpage also mentions a Dionaea \"Bear Trap\" with a unique shape of teeth and curvature of the trap. Does that help answer your question?",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Thought",
+              "value": "The user is asking about a bear trap like plant. I need to find more information about it.",
+              "isInline": false
+            },
+            {
+              "name": "Tool",
+              "value": "search_web(query=bear trap like plant)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "The Venus flytrap (Dionaea muscipula) is a carnivorous plant native to subtropical wetlands on the East Coast of the United States in North Carolina and\u00A0... (https://www.giardinocarnivoro.it/en/dionaea-muscipula/117-dionaea-muscipula-bear-trap.html) This unusual form of Venus flytrap has shorter teeth similar to a Bear trap, mature plants sent out ready potted Flytraps do well on a sunny. (https://www.hantsflytrap.com/ft006-dionaea-muscipula-bear-trap-581-p.asp)  The webpage is for a plant shop called Hantsflytrap and features a product called FT006 Dionaea muscipula Bear Trap, which is a type of Venus flytrap with shorter teeth that resemble a bear trap. The plant is sold out and costs £8.40. The webpage provides care instructions for the plant, including watering it from a saucer of rainwater and not artificially making the traps shut or force-feeding the plant. The plant goes into dormancy during the winter months and can be repotted in February to March. Bello l'effetto, soprattutto a trappola chiusa. (ht",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Thought",
+              "value": "The Venus flytrap is a type of bear trap like plant that the user might be interested in learning about.",
+              "isInline": false
+            },
+            {
+              "name": "Tool",
+              "value": "search_web(query=Venus flytrap bear trap)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "Tool call failed",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 9
+}

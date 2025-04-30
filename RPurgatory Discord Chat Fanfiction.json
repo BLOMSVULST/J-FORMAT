@@ -1,0 +1,216 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1098601502844653708",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "RPurgatory Discord Chat Fanfiction",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:02:13.7594058-05:00",
+  "messages": [
+    {
+      "id": "1098601536881438821",
+      "type": "21",
+      "timestamp": "2023-04-20T08:30:17.422-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "523867273371451397",
+        "name": "diamondeater099",
+        "discriminator": "0000",
+        "nickname": "The Court Jester",
+        "color": "#67CECE",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/523867273371451397/d231844caeda474839291aef70c968f3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1098601502844653708",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1098601536881438822",
+      "type": "Reply",
+      "timestamp": "2023-04-20T08:30:17.422-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure thing, @The Court Jester! Here's a quick fanfiction for you, nya~:\n\nIt was a beautiful day in RPurgatory, with the sun shining and the birds chirping. The Discord chat was filled with friendly chatter as the users went about their daily routines. Suddenly, a portal appeared in the middle of the chat, and out stepped a mysterious newcomer - it was @The Court Jester, dressed in their iconic cape and top hat. Everyone in the chat was surprised to see @The Court Jester, but they welcomed them with open arms, eager to hear about their adventures in the magical land beyond the portal.\n\nAs @The Court Jester regaled them with tales of epic battles and daring rescues, the other users sat in rapt attention, hanging on their every word. @Jaxson was particularly impressed, as they had always had a fascination with magic and adventure. @User, on the other hand, was a bit more skeptical, wondering if @The Court Jester was simply making up stories to impress them. But as @The Court Jester continued their tale, the chat was suddenly filled with a blinding light.\n\nWhen the light faded, everyone in the chat was in shock - they had been transported to the same magical land @The Court Jester had just described! The sky was a deep shade of purple, and the trees were twisted into strange, otherworldly shapes. The users looked around in wonder and awe, marveling at the strange new sights around them. But as amazing as it all was, they knew they had to find a way back home before they were trapped in this strange land forever.\n\nWith @The Court Jester leading the way, the users set out on a perilous journey through the twisted forests and dark caves of the magical land. They encountered all manner of strange creatures and obstacles, but with their combined skills and determination, they persevered. Finally, after what felt like an eternity, they found the portal home.\n\nWith a rush of relief, they all stepped through the portal, landing back in the familiar surroundings of the RPurgatory Discord chat. As they caught their breath, they all turned to @The Court Jester, grateful for the adventure that had brought them all together. They knew that, no matter where their paths might lead them, they had formed an unbreakable bond through the magic of the chat, nya~.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "Clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "523867273371451397",
+          "name": "diamondeater099",
+          "discriminator": "0000",
+          "nickname": "The Court Jester",
+          "color": "#67CECE",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1096162406998233179",
+              "name": "God of Chaos",
+              "color": "#67CECE",
+              "position": 80
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 46
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 45
+            },
+            {
+              "id": "1241938250336309249",
+              "name": "Challenge of the Sun",
+              "color": "#FFB200",
+              "position": 41
+            },
+            {
+              "id": "1228145996807016468",
+              "name": "Pico Parker",
+              "color": "#FFD0D0",
+              "position": 39
+            },
+            {
+              "id": "1333634233284956222",
+              "name": "Olive Gardener",
+              "color": "#79A422",
+              "position": 28
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/523867273371451397/d231844caeda474839291aef70c968f3.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1098601502844653708",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 2
+}

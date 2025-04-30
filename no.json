@@ -1,0 +1,623 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1125589689664028802",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "no",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T15:58:12.8850192-05:00",
+  "messages": [
+    {
+      "id": "1125589837060247683",
+      "type": "21",
+      "timestamp": "2023-07-03T19:52:09.603-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "707261485931298818",
+          "name": "omeguya",
+          "discriminator": "0000",
+          "nickname": "970000",
+          "color": "#750000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "957813432705499226",
+              "name": "FLESH TESSERACT",
+              "color": "#750000",
+              "position": 98
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 91
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 48
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 45
+            },
+            {
+              "id": "1180322524354064506",
+              "name": "Puzzler",
+              "color": "#D99659",
+              "position": 44
+            },
+            {
+              "id": "1241938250336309249",
+              "name": "Challenge of the Sun",
+              "color": "#FFB200",
+              "position": 41
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/707261485931298818/974b6e1a6cfdac4709335df8ee9e052c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1125589689664028802",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1125589839828484116",
+      "type": "Default",
+      "timestamp": "2023-07-03T19:52:10.263-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no not really… but i sometimes feel like a silly feminine catboy alotttt :3",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1125589881553428562",
+      "type": "Reply",
+      "timestamp": "2023-07-03T19:52:20.211-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AWSOME",
+      "author": {
+        "id": "560081026743926784",
+        "name": "elpablo08",
+        "discriminator": "0000",
+        "nickname": "ElPablo05",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560081026743926784/64f5bc4fd627d0271059ac7db7ddebd2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1125589839828484116",
+        "channelId": "1125589689664028802",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1125589912410935326",
+      "type": "Default",
+      "timestamp": "2023-07-03T19:52:27.568-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Second Natural Urge.",
+      "author": {
+        "id": "707261485931298818",
+        "name": "omeguya",
+        "discriminator": "0000",
+        "nickname": "970000",
+        "color": "#750000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707261485931298818/974b6e1a6cfdac4709335df8ee9e052c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1125589980509642782",
+      "type": "Default",
+      "timestamp": "2023-07-03T19:52:43.804-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://media.discordapp.net/attachments/947890161277083678/995394713202995260/IMG_2694.gif",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://media.discordapp.net/attachments/947890161277083678/995394713202995260/IMG_2694.gif",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.discordapp.net/attachments/947890161277083678/995394713202995260/IMG_2694.gif?ex=6813bc11&is=68126a91&hm=468d14df8e011fb1a73e278ad43e7ea86c4bc4fd22c5c0099548fd1faead84e1&",
+            "width": 240,
+            "height": 232
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE14",
+            "code": "pensive",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f614.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "560081026743926784",
+              "name": "elpablo08",
+              "discriminator": "0000",
+              "nickname": "ElPablo05",
+              "color": "#2EFF36",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/560081026743926784/64f5bc4fd627d0271059ac7db7ddebd2.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1125590018023493722",
+      "type": "Default",
+      "timestamp": "2023-07-03T19:52:52.748-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@970000 are you proud",
+      "author": {
+        "id": "560081026743926784",
+        "name": "elpablo08",
+        "discriminator": "0000",
+        "nickname": "ElPablo05",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560081026743926784/64f5bc4fd627d0271059ac7db7ddebd2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "707261485931298818",
+          "name": "omeguya",
+          "discriminator": "0000",
+          "nickname": "970000",
+          "color": "#750000",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "957813432705499226",
+              "name": "FLESH TESSERACT",
+              "color": "#750000",
+              "position": 98
+            },
+            {
+              "id": "707521903061106728",
+              "name": "Trusted Admins",
+              "color": "#277ECD",
+              "position": 91
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "708768620809027615",
+              "name": "Google Gamer",
+              "color": "#2E8A5D",
+              "position": 48
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1125601396109095002",
+              "name": "RPurgatory Against Humanity",
+              "color": "#1A1515",
+              "position": 45
+            },
+            {
+              "id": "1180322524354064506",
+              "name": "Puzzler",
+              "color": "#D99659",
+              "position": 44
+            },
+            {
+              "id": "1241938250336309249",
+              "name": "Challenge of the Sun",
+              "color": "#FFB200",
+              "position": 41
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/707261485931298818/974b6e1a6cfdac4709335df8ee9e052c.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1125590274425495642",
+      "type": "Default",
+      "timestamp": "2023-07-03T19:53:53.879-05:00",
+      "timestampEdited": "2023-07-03T19:53:56.708-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It doesn't matter",
+      "author": {
+        "id": "707261485931298818",
+        "name": "omeguya",
+        "discriminator": "0000",
+        "nickname": "970000",
+        "color": "#750000",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707261485931298818/974b6e1a6cfdac4709335df8ee9e052c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1125595071153188914",
+      "type": "Default",
+      "timestamp": "2023-07-03T20:12:57.508-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "560081026743926784",
+        "name": "elpablo08",
+        "discriminator": "0000",
+        "nickname": "ElPablo05",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/560081026743926784/64f5bc4fd627d0271059ac7db7ddebd2.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1125595070909911041",
+          "url": "https://cdn.discordapp.com/attachments/1125589689664028802/1125595070909911041/IMG_4770.png?ex=68137359&is=681221d9&hm=13e8034d960a8b6e8101db442d33496b8a2388276d0e6e4d45c7af8eaffa73f4&",
+          "fileName": "IMG_4770.png",
+          "fileSizeBytes": 499590
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 8
+}

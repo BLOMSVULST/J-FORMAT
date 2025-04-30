@@ -1,0 +1,102 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1098603798626316338",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "The Simlish language in The Sims video game series",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:01:18.7436372-05:00",
+  "messages": [
+    {
+      "id": "1098603811595104407",
+      "type": "21",
+      "timestamp": "2023-04-20T08:39:19.756-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "574444232081932299",
+        "name": "internet_traveler",
+        "discriminator": "0000",
+        "nickname": "Netty",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/d29bc6c693645cffcd2738c4efda352f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1098603798626316338",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1098603813407051886",
+      "type": "Reply",
+      "timestamp": "2023-04-20T08:39:20.188-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Netty, Simlish is indeed an actual constructed language, created specifically for the video game series \"The Sims\". The language is made up of a combination of gibberish sounds, English loanwords, and foreign words, and was designed to add to the game's immersive world. Over the years, the language has gained a following among fans of the game, and many have even attempted to create dictionaries and translations for Simlish expressions. It's a fascinating example of how language can add to the richness and detail of fictional worlds, nya~ \uD83D\uDE3A.",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "Clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "574444232081932299",
+          "name": "internet_traveler",
+          "discriminator": "0000",
+          "nickname": "Netty",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/574444232081932299/d29bc6c693645cffcd2738c4efda352f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1098603798626316338",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE3A",
+          "code": "smiley_cat",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f63a.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 2
+}

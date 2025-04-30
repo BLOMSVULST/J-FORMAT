@@ -1,0 +1,234 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "931410258017026048",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "This is a thread",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:04:20.068123-05:00",
+  "messages": [
+    {
+      "id": "931410317374795807",
+      "type": "21",
+      "timestamp": "2022-01-13T22:52:04.429-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "556660414717493248",
+        "name": "cloudtheampharos",
+        "discriminator": "0000",
+        "nickname": "CloudTheAmpharos",
+        "color": "#F100FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/556660414717493248/5a8bc1e74d645adc38e02e6f6cae250d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "931410258017026048",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "931410380880756796",
+      "type": "Default",
+      "timestamp": "2022-01-13T22:52:19.57-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What is this supposed to do?",
+      "author": {
+        "id": "556660414717493248",
+        "name": "cloudtheampharos",
+        "discriminator": "0000",
+        "nickname": "CloudTheAmpharos",
+        "color": "#F100FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/556660414717493248/5a8bc1e74d645adc38e02e6f6cae250d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "931410480084434954",
+      "type": "Default",
+      "timestamp": "2022-01-13T22:52:43.222-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This feels pointless",
+      "author": {
+        "id": "556660414717493248",
+        "name": "cloudtheampharos",
+        "discriminator": "0000",
+        "nickname": "CloudTheAmpharos",
+        "color": "#F100FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/556660414717493248/5a8bc1e74d645adc38e02e6f6cae250d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "931419153477275728",
+      "type": "Default",
+      "timestamp": "2022-01-13T23:27:11.12-06:00",
+      "timestampEdited": "2022-01-13T23:27:18.924-06:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "d",
+      "author": {
+        "id": "479429939867680768",
+        "name": "cheesesticks",
+        "discriminator": "0000",
+        "nickname": "\uD835\uDCEF\uD835\uDCFB\uD835\uDCEE\uD835\uDCEA\uD835\uDCF4\uD835\uDD02 \uD835\uDCEC\uD835\uDCF1\uD835\uDCEE\uD835\uDCEE\uD835\uDCFC\uD835\uDCEE",
+        "color": "#186E33",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 7
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/479429939867680768/avatars/d4132d83b056ad0ab4b2081ea1e72602.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

@@ -1,0 +1,4531 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1329173886314741811",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "Iceberg",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T15:57:07.523171-05:00",
+  "messages": [
+    {
+      "id": "1329176459171860510",
+      "type": "21",
+      "timestamp": "2025-01-15T13:52:42.771-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1329173886314741811",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329176463320158310",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:52:43.76-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okay",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329176572053164042",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:53:09.684-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "-BoG\n-Chiropdactor",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329176872793407592",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:54:21.386-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "-Precombra",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329176943580545155",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:54:38.263-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pecombra?",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329176976468213824",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:54:46.104-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DAAAAAMn",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329177016548855839",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:54:55.66-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I CAN'T SPELL FOR SHIT OR FUCK",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329177037755387934",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:55:00.716-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's fine",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329177065592848384",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:55:07.353-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I said \"chiropdactor\"",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329177202432147568",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:55:39.978-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "uh this guy",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1329177202129895495",
+          "url": "https://cdn.discordapp.com/attachments/1329173886314741811/1329177202129895495/c1c728a76878ca2a52fa43643293f3ea.jpg?ex=6813d1bb&is=6812803b&hm=c0238fa72fea869550a8cc0f1667ff6f0f4a2d36afafd89e26f25dc4fc1f7440&",
+          "fileName": "c1c728a76878ca2a52fa43643293f3ea.jpg",
+          "fileSizeBytes": 92498
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329177226121318534",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:55:45.626-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can we put this guy on the iceberg too?",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329177229694861343",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:55:46.478-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mhm",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329177425392697429",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:56:33.136-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yea",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329177643932717097",
+      "type": "Default",
+      "timestamp": "2025-01-15T13:57:25.24-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Single Father with three kids",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329178740604797000",
+      "type": "Default",
+      "timestamp": "2025-01-15T14:01:46.707-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What if we edit this image to make it a fractal?",
+      "author": {
+        "id": "628021930074832906",
+        "name": "badunguskablungus",
+        "discriminator": "0000",
+        "nickname": "MeowBungus",
+        "color": "#4A929E",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628021930074832906/94c776a3101769d00aa4e81e7c1a4a15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1329180047545860169",
+      "type": "Default",
+      "timestamp": "2025-01-15T14:06:58.306-06:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what if",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 16
+}

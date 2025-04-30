@@ -1,0 +1,483 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "1122248990327591023",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "Sword Names",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:00:11.2003407-05:00",
+  "messages": [
+    {
+      "id": "1122249139175051374",
+      "type": "21",
+      "timestamp": "2023-06-24T14:37:25.16-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "191195686782500864",
+        "name": "lats1e",
+        "discriminator": "0000",
+        "nickname": "...are scared of me.",
+        "color": "#57107A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/191195686782500864/19f3031580bf30f44bf7a3b6e604bb01.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1122248990327591023",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122249139175051375",
+      "type": "Reply",
+      "timestamp": "2023-06-24T14:37:25.16-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure! How about \"Zephyrblade,\" \"Kusanagi,\" \"Tsunami Edge,\" or \"Dragonfire\"? Another option could be \"Soulrend,\" \"Shadowstrike,\" or \"Thundercaller.\" These names should give your sword a more exotic and unique feel, while still sounding cool and interesting. Let me know if any of those catch your interest!",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Thought",
+              "value": "I need to find some exotic sword names for Clyde to suggest.",
+              "isInline": false
+            },
+            {
+              "name": "Tool",
+              "value": "search_web(query=exotic sword names)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "30 mar 2023 — Almace: The sword of Turpin, Archbishop of Reims in The Song of Roland. Ama-no-Habakiri: (天羽々斬) The immense “ten-fist” sword used by Shinto\u00A0... (https://hobbylark.com/fandoms/The-Epic-List-of-250-Legendary-Swords) NamePowerImpactRangeMagazineBlack Talon. ExoticSword Void0604050Heartshadow. ExoticSword Void060400The Lament. ExoticSword Solar0744060Visualizza altre 51 righeVisualizza altre 51 righe (https://destinytracker.com/destiny-2/db/items/weapon?c=54&at=4)  The webpage provides a list of sword names from the video game Destiny 2, including both exotic and legendary swords. The swords are categorized by power, damage type, and season of introduction. Some of the exotic sword names include Black Talon, Heartshadow, The Lament, and Worldline Zero. 2 nov 2015 — Exotic Sword Comparison: What Exotic Sword is the best? ... Void option for Exotic Swords, is every bit as thirsty as its name suggests. (https://planetdestiny.pcinvasion.com/exotic-sword-comparison/)  The article provides a comparison of",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        },
+        {
+          "title": "Clyde Thoughts",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#009800",
+          "images": [],
+          "fields": [
+            {
+              "name": "Thought",
+              "value": "I need to refine my search to find more exotic sword names.",
+              "isInline": false
+            },
+            {
+              "name": "Tool",
+              "value": "search_web(query=exotic sword names fantasy)",
+              "isInline": false
+            },
+            {
+              "name": "Result",
+              "value": "This name generator will give you 10 names fit for all kinds of swords, ranging from short- and longswords, to claymores, broadswords, scimitars and more. (https://www.fantasynamegenerators.com/sword-names.php)  The webpage provides a comprehensive list of fantasy sword names. The list is categorized into various sections such as Alien Names, Amazon Names, Anansi Names, Angel Names, Animal Species Names, and many more. The webpage also provides other categories such as Real Names, Places, Pop Culture, and Other Names. 30 mars 2023 — 250 fantasy, mythological and legendary swords for all your creative needs. ... Their names ranged from the simplistic to the exotic. (https://hobbylark.com/fandoms/The-Epic-List-of-250-Legendary-Swords) 29 avr. 2020 — 100 Magic Sword Names · Heaven's Light · Misery's Middleman · Hellbender · the Needle · Truth · Consequences (cannot be separated from Truth for long,\u00A0... (https://www.reddit.com/r/d100/comments/g91zxk/100_magic_sword_names/)  A Reddit post on r/d100 provides a list",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "191195686782500864",
+          "name": "lats1e",
+          "discriminator": "0000",
+          "nickname": "...are scared of me.",
+          "color": "#57107A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "710657892013047838",
+              "name": "true dark purple",
+              "color": "#57107A",
+              "position": 63
+            },
+            {
+              "id": "921558231451574323",
+              "name": "ssuper specil Mod role ow o",
+              "color": "#17AC86",
+              "position": 59
+            },
+            {
+              "id": "779522295281614949",
+              "name": "Trusted",
+              "color": "#2EFF36",
+              "position": 57
+            },
+            {
+              "id": "708092203372773386",
+              "name": "Spectator",
+              "color": "#818689",
+              "position": 56
+            },
+            {
+              "id": "707656213478768651",
+              "name": "Server Pings",
+              "color": "#E2D834",
+              "position": 53
+            },
+            {
+              "id": "1038698225546305556",
+              "name": "Question Of The Day !!",
+              "color": "#9870AD",
+              "position": 52
+            },
+            {
+              "id": "914962622493892659",
+              "name": "Minecraft Enjoyer",
+              "color": "#11806A",
+              "position": 47
+            },
+            {
+              "id": "1145156551687016629",
+              "name": "Watch Party-Goer",
+              "color": "#234050",
+              "position": 46
+            },
+            {
+              "id": "1283796889426198561",
+              "name": "Spray's Stat-rats",
+              "color": "#AC5C5C",
+              "position": 37
+            },
+            {
+              "id": "1306627622691672115",
+              "name": "Supreme Machine",
+              "color": "#B70000",
+              "position": 35
+            },
+            {
+              "id": "1306627974971260988",
+              "name": "RPobloxian",
+              "color": "#8EB6D1",
+              "position": 33
+            },
+            {
+              "id": "1320930897805049987",
+              "name": "Fallen Human",
+              "color": "#FFFFFF",
+              "position": 30
+            },
+            {
+              "id": "1320931410093019229",
+              "name": "Roguepurgatorian",
+              "color": "#743D7B",
+              "position": 29
+            },
+            {
+              "id": "1080003643803193434",
+              "name": "He/Him",
+              "color": null,
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/191195686782500864/19f3031580bf30f44bf7a3b6e604bb01.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1122248990327591023",
+        "channelId": "707518202560774206",
+        "guildId": "707518201990348832"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122264607042572401",
+      "type": "Default",
+      "timestamp": "2023-06-24T15:38:52.987-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What exotic names can be used for a spear?",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122264806985043988",
+      "type": "Default",
+      "timestamp": "2023-06-24T15:39:40.657-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey there! Some exotic names that could work for a spear are \"Javelin of the Crescent Moon,\" \"Spear of the Jade Emperor,\" or \"Thunderbolt Lance.\" Other options to consider might be \"Blade of the Sandstorm,\" \"Froststeel Pike,\" or \"Mistweaver Spear.\" These names should give your spear an exotic and unique feel, while still sounding cool and interesting. Let me know if any of those catch your interest!\nhttps://tenor.com/view/protogen-dance-furry-stickbug-furries-gif-18256940",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/protogen-dance-furry-stickbug-furries-gif-18256940",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Vm8ULEum_L8lxlSqRUDNf34esBy46T5-mlmibGwhgDk/https/media.tenor.com/qqiJZqHZ4-wAAAAD/protogen-dance.png",
+            "width": 558,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/CJzDAHYRadE0R3-d6f9fi8X52cd8wv2G1z2T5_hmmME/https/media.tenor.com/qqiJZqHZ4-wAAAPo/protogen-dance.mp4",
+            "width": 558,
+            "height": 640
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122336347110244535",
+      "type": "Default",
+      "timestamp": "2023-06-24T20:23:57.152-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Robotic sword names",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1122336443461812295",
+      "type": "Default",
+      "timestamp": "2023-06-24T20:24:20.124-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey there! If you're looking for robotic sword names, some options could be \"Neural Edge,\" \"Technoblade,\" or \"Cyber Saber.\" Other ideas might be \"Plasma Blade,\" \"Quantum Katana,\" or \"Nanoblade.\" These names should have a futuristic and robotic feel, while still sounding cool and interesting. Let me know if any of those catch your interest!\nhttps://tenor.com/view/protogen-dance-furry-stickbug-furries-gif-18256940",
+      "author": {
+        "id": "1081004946872352958",
+        "name": "clyde",
+        "discriminator": "0000",
+        "nickname": "Clyde",
+        "color": null,
+        "isBot": true,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1081004946872352958/a_6170487d32fdfe9f988720ad80e6ab8c.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/protogen-dance-furry-stickbug-furries-gif-18256940",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Vm8ULEum_L8lxlSqRUDNf34esBy46T5-mlmibGwhgDk/https/media.tenor.com/qqiJZqHZ4-wAAAAD/protogen-dance.png",
+            "width": 558,
+            "height": 640
+          },
+          "video": {
+            "url": "https://images-ext-1.discordapp.net/external/CJzDAHYRadE0R3-d6f9fi8X52cd8wv2G1z2T5_hmmME/https/media.tenor.com/qqiJZqHZ4-wAAAPo/protogen-dance.mp4",
+            "width": 558,
+            "height": 640
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

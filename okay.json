@@ -1,0 +1,1108 @@
+{
+  "guild": {
+    "id": "707518201990348832",
+    "name": "RPurgatory",
+    "iconUrl": "https://cdn.discordapp.com/icons/707518201990348832/a_6171c9fd1d7dedfa192b5fd67489b001.gif?size=512"
+  },
+  "channel": {
+    "id": "881938271150678116",
+    "type": "GuildPublicThread",
+    "categoryId": "707518202560774206",
+    "category": "the-real-general",
+    "name": "okay",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-04-30T16:05:17.4624431-05:00",
+  "messages": [
+    {
+      "id": "881938274048946177",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:27:50.154-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure",
+      "author": {
+        "id": "568208370218172417",
+        "name": "userowo",
+        "discriminator": "0000",
+        "nickname": "Marilyn, Local Corpse",
+        "color": "#6127F2",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 61
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/5ebab8587b94e4e42636f714669df163.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881938296157130773",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:27:55.425-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmm",
+      "author": {
+        "id": "762204333898989599",
+        "name": "gregory_swan",
+        "discriminator": "0000",
+        "nickname": "Gregory Swan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762204333898989599/10a651a3b40af56da6e484c740830fbc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881938298145226842",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:27:55.899-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881938309788606494",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:27:58.675-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oooh",
+      "author": {
+        "id": "762204333898989599",
+        "name": "gregory_swan",
+        "discriminator": "0000",
+        "nickname": "Gregory Swan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762204333898989599/10a651a3b40af56da6e484c740830fbc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881938369322582036",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:28:12.869-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's like a temporary group chat inside of a server???",
+      "author": {
+        "id": "762204333898989599",
+        "name": "gregory_swan",
+        "discriminator": "0000",
+        "nickname": "Gregory Swan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762204333898989599/10a651a3b40af56da6e484c740830fbc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881938374733234197",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:28:14.159-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "568208370218172417",
+        "name": "userowo",
+        "discriminator": "0000",
+        "nickname": "Marilyn, Local Corpse",
+        "color": "#6127F2",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "793253990253985834",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 61
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1283610431675695147",
+            "name": "BEST FOOT FORWARD 2025 PARTICIPANT",
+            "color": "#E67E22",
+            "position": 27
+          },
+          {
+            "id": "1080003643295662151",
+            "name": "She/Her",
+            "color": null,
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/568208370218172417/5ebab8587b94e4e42636f714669df163.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "881938374783557652",
+          "url": "https://cdn.discordapp.com/attachments/881938271150678116/881938374783557652/cum.png?ex=6813a11e&is=68124f9e&hm=51cf7de3c16e78f7d9678f4ec2aa1eb90f098561e773b105057993904db52b5c&",
+          "fileName": "cum.png",
+          "fileSizeBytes": 531825
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881938402163957810",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:28:20.699-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://c.tenor.com/j8cHT_ZBLfIAAAAM/tohru-tohru-talk.gif",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://c.tenor.com/j8cHT_ZBLfIAAAAM/tohru-tohru-talk.gif",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-4ZqZNxudKQto2vRys9SIeuTnTKkzyyrKY6tUOoOyVI/https/c.tenor.com/j8cHT_ZBLfIAAAAM/tohru-tohru-talk.gif",
+            "width": 220,
+            "height": 188
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881938434644639746",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:28:28.443-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool",
+      "author": {
+        "id": "762204333898989599",
+        "name": "gregory_swan",
+        "discriminator": "0000",
+        "nickname": "Gregory Swan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762204333898989599/10a651a3b40af56da6e484c740830fbc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881938464164167680",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:28:35.481-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":thonk:",
+      "author": {
+        "id": "762204333898989599",
+        "name": "gregory_swan",
+        "discriminator": "0000",
+        "nickname": "Gregory Swan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762204333898989599/10a651a3b40af56da6e484c740830fbc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "814113086469832715",
+          "name": "thonk",
+          "code": "thonk",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.discordapp.com/emojis/814113086469832715.png"
+        }
+      ]
+    },
+    {
+      "id": "881939200629424139",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:31:31.068-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "more like a temporary channel *in* a channel",
+      "author": {
+        "id": "762204333898989599",
+        "name": "gregory_swan",
+        "discriminator": "0000",
+        "nickname": "Gregory Swan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762204333898989599/10a651a3b40af56da6e484c740830fbc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881939210020487218",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:31:33.307-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "awesomeeeee",
+      "author": {
+        "id": "762204333898989599",
+        "name": "gregory_swan",
+        "discriminator": "0000",
+        "nickname": "Gregory Swan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762204333898989599/10a651a3b40af56da6e484c740830fbc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881939290026819605",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:31:52.382-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://c.tenor.com/shoUM2k9h5UAAAAM/tohru-lick.gif",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://c.tenor.com/shoUM2k9h5UAAAAM/tohru-lick.gif",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zdc0BXpNUWrRBZCfKklwALZlzd9Z3mQSV2aNGEKCzck/https/c.tenor.com/shoUM2k9h5UAAAAM/tohru-lick.gif",
+            "width": 220,
+            "height": 188
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881939533640396861",
+      "type": "Default",
+      "timestamp": "2021-08-30T11:32:50.464-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/hot-line-miami-dance-dance-craze-crazy-wiggle-gif-8299617",
+      "author": {
+        "id": "762204333898989599",
+        "name": "gregory_swan",
+        "discriminator": "0000",
+        "nickname": "Gregory Swan",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/762204333898989599/10a651a3b40af56da6e484c740830fbc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/hot-line-miami-dance-dance-craze-crazy-wiggle-gif-8299617",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ytCmvst8pfocrYI-aqfo-jc6K-EbVBit7cPv8-Pk9uQ/https/media.tenor.co/images/1427577e46237548abe4759129837cad/tenor.png",
+            "width": 380,
+            "height": 294
+          },
+          "video": {
+            "url": "https://media.tenor.co/videos/bfec2d3b275ff5545ddf87d1cf412319/mp4",
+            "width": 380,
+            "height": 294
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881966952963264572",
+      "type": "Default",
+      "timestamp": "2021-08-30T13:21:47.74-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "609242340296622094",
+        "name": "professor_seth",
+        "discriminator": "0000",
+        "nickname": "3.1415926535897932384626433",
+        "color": "#F5CC12",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1114767839929315448",
+            "name": "Department of Foreign Affairs",
+            "color": "#F5CC12",
+            "position": 102
+          },
+          {
+            "id": "707663117215334520",
+            "name": "Piece of God",
+            "color": "#FFFF00",
+            "position": 101
+          },
+          {
+            "id": "1127405999742005298",
+            "name": "Other Piece of God",
+            "color": "#BEA11E",
+            "position": 100
+          },
+          {
+            "id": "713909207040000121",
+            "name": "The Warrior",
+            "color": "#D7342A",
+            "position": 99
+          },
+          {
+            "id": "957813432705499226",
+            "name": "FLESH TESSERACT",
+            "color": "#750000",
+            "position": 98
+          },
+          {
+            "id": "805653885292642335",
+            "name": "Voice of Reason",
+            "color": "#71368A",
+            "position": 97
+          },
+          {
+            "id": "707626640137519105",
+            "name": "Edge-Lord Seth",
+            "color": "#3834A5",
+            "position": 96
+          },
+          {
+            "id": "707653762709192864",
+            "name": "Ascended Piranha Plant",
+            "color": "#1159C2",
+            "position": 95
+          },
+          {
+            "id": "707637426251759778",
+            "name": "The Pure",
+            "color": "#00FFFF",
+            "position": 94
+          },
+          {
+            "id": "1256011545985683587",
+            "name": "The Royal Guard",
+            "color": "#42CF73",
+            "position": 93
+          },
+          {
+            "id": "707725794327396352",
+            "name": "THE GLITCHMASTER",
+            "color": "#E91E63",
+            "position": 92
+          },
+          {
+            "id": "707521903061106728",
+            "name": "Trusted Admins",
+            "color": "#277ECD",
+            "position": 91
+          },
+          {
+            "id": "707616768167903312",
+            "name": "Temp Admin",
+            "color": "#909BE0",
+            "position": 90
+          },
+          {
+            "id": "1127396822843932773",
+            "name": "Bot Ability Role",
+            "color": null,
+            "position": 89
+          },
+          {
+            "id": "1217669847882793070",
+            "name": "Kindly don't ping me please; Thanks,,",
+            "color": "#746B7B",
+            "position": 88
+          },
+          {
+            "id": "1127392453620678677",
+            "name": "-=-=- DENIZEN ROLES -=-=-",
+            "color": "#FFFFFE",
+            "position": 87
+          },
+          {
+            "id": "1148464426949812325",
+            "name": "Distortion Fucker",
+            "color": "#5F092A",
+            "position": 86
+          },
+          {
+            "id": "732598091106222080",
+            "name": "Totally Stan",
+            "color": "#C03930",
+            "position": 85
+          },
+          {
+            "id": "1008490957055991980",
+            "name": "Happy 243rd Eon",
+            "color": "#D0318E",
+            "position": 84
+          },
+          {
+            "id": "1047028456480854036",
+            "name": "Stimky Fomx Queen",
+            "color": "#E29ED5",
+            "position": 83
+          },
+          {
+            "id": "957813006534852708",
+            "name": "De Sweet Angel UwU",
+            "color": "#E2D5F1",
+            "position": 81
+          },
+          {
+            "id": "1096162406998233179",
+            "name": "God of Chaos",
+            "color": "#67CECE",
+            "position": 80
+          },
+          {
+            "id": "1096167327713738883",
+            "name": "Resident Dumbass Cat",
+            "color": "#4A929E",
+            "position": 79
+          },
+          {
+            "id": "1261134048118439968",
+            "name": "Crown of Stars",
+            "color": "#46B090",
+            "position": 78
+          },
+          {
+            "id": "1114762123344621709",
+            "name": "The Leafeon",
+            "color": "#186E33",
+            "position": 77
+          },
+          {
+            "id": "783520372262830081",
+            "name": "Merp's Funny as Fuck Demimod Role",
+            "color": "#6A5DCA",
+            "position": 76
+          },
+          {
+            "id": "1291204736019595274",
+            "name": "Literally Jangels",
+            "color": "#333335",
+            "position": 75
+          },
+          {
+            "id": "1127392880110080172",
+            "name": "-=-=- GENERAL COLORS -=-=-",
+            "color": "#FFFFFE",
+            "position": 72
+          },
+          {
+            "id": "1207539243711332363",
+            "name": "Partygoer Purple",
+            "color": "#6127F2",
+            "position": 71
+          },
+          {
+            "id": "1205789144962568243",
+            "name": "De Wooli Wuvvies UwU",
+            "color": "#F9C5FF",
+            "position": 70
+          },
+          {
+            "id": "1127411380547498085",
+            "name": "International Department of Fucking Kunkernoodles.",
+            "color": "#DB7A51",
+            "position": 68
+          },
+          {
+            "id": "779525244431368212",
+            "name": "Ultra Uber Trusted",
+            "color": "#F4ACAC",
+            "position": 67
+          },
+          {
+            "id": "943635239006240788",
+            "name": "spray review: 11/10",
+            "color": "#3297E6",
+            "position": 66
+          },
+          {
+            "id": "707689723283374131",
+            "name": "pruple",
+            "color": "#5519F5",
+            "position": 65
+          },
+          {
+            "id": "713346566307708998",
+            "name": "pruple but dark",
+            "color": "#360179",
+            "position": 64
+          },
+          {
+            "id": "710657892013047838",
+            "name": "true dark purple",
+            "color": "#57107A",
+            "position": 63
+          },
+          {
+            "id": "731273227371937832",
+            "name": "G A Y",
+            "color": "#F100FF",
+            "position": 62
+          },
+          {
+            "id": "1127278154139041914",
+            "name": "Catboy.",
+            "color": "#BCC07F",
+            "position": 60
+          },
+          {
+            "id": "921558231451574323",
+            "name": "ssuper specil Mod role ow o",
+            "color": "#17AC86",
+            "position": 59
+          },
+          {
+            "id": "1291232419055140915",
+            "name": "invsible spectator",
+            "color": "#32323A",
+            "position": 58
+          },
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          },
+          {
+            "id": "1164699056426192967",
+            "name": "rp role that does nothing",
+            "color": null,
+            "position": 55
+          },
+          {
+            "id": "1127393050709200947",
+            "name": "-=-=- ACTIVITIES -=-=-",
+            "color": "#FFFFFE",
+            "position": 54
+          },
+          {
+            "id": "707656213478768651",
+            "name": "Server Pings",
+            "color": "#E2D834",
+            "position": 53
+          },
+          {
+            "id": "1038698225546305556",
+            "name": "Question Of The Day !!",
+            "color": "#9870AD",
+            "position": 52
+          },
+          {
+            "id": "1170545522751324322",
+            "name": "Designer",
+            "color": "#FF009F",
+            "position": 51
+          },
+          {
+            "id": "1133704487178080319",
+            "name": "RPTube Channel Updates",
+            "color": "#B9383A",
+            "position": 50
+          },
+          {
+            "id": "1030696611829006357",
+            "name": "Book Club",
+            "color": "#2ECC71",
+            "position": 49
+          },
+          {
+            "id": "708768620809027615",
+            "name": "Google Gamer",
+            "color": "#2E8A5D",
+            "position": 48
+          },
+          {
+            "id": "914962622493892659",
+            "name": "Minecraft Enjoyer",
+            "color": "#11806A",
+            "position": 47
+          },
+          {
+            "id": "1145156551687016629",
+            "name": "Watch Party-Goer",
+            "color": "#234050",
+            "position": 46
+          },
+          {
+            "id": "1125601396109095002",
+            "name": "RPurgatory Against Humanity",
+            "color": "#1A1515",
+            "position": 45
+          },
+          {
+            "id": "1180322524354064506",
+            "name": "Puzzler",
+            "color": "#D99659",
+            "position": 44
+          },
+          {
+            "id": "1192258994983677992",
+            "name": "Lethal Employee",
+            "color": "#8E1200",
+            "position": 43
+          },
+          {
+            "id": "1197589696893681735",
+            "name": "Proto-Positive",
+            "color": "#69AFDD",
+            "position": 42
+          },
+          {
+            "id": "1241938250336309249",
+            "name": "Challenge of the Sun",
+            "color": "#FFB200",
+            "position": 41
+          },
+          {
+            "id": "1216906559955669084",
+            "name": "Chicken Horser",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "1228145996807016468",
+            "name": "Pico Parker",
+            "color": "#FFD0D0",
+            "position": 39
+          },
+          {
+            "id": "1263176882635935794",
+            "name": "RPolitician (Access Role)",
+            "color": "#AD1457",
+            "position": 38
+          },
+          {
+            "id": "1283796889426198561",
+            "name": "Spray's Stat-rats",
+            "color": "#AC5C5C",
+            "position": 37
+          },
+          {
+            "id": "1306627484992933998",
+            "name": "RPurgémon Trainer",
+            "color": "#F19494",
+            "position": 36
+          },
+          {
+            "id": "1306627622691672115",
+            "name": "Supreme Machine",
+            "color": "#B70000",
+            "position": 35
+          },
+          {
+            "id": "1306627789046415453",
+            "name": "L Corp. Nugget",
+            "color": "#FFD04E",
+            "position": 34
+          },
+          {
+            "id": "1306627974971260988",
+            "name": "RPobloxian",
+            "color": "#8EB6D1",
+            "position": 33
+          },
+          {
+            "id": "1306628143901179904",
+            "name": "12-Gauge Owner",
+            "color": "#675B5B",
+            "position": 32
+          },
+          {
+            "id": "1306628305570758666",
+            "name": "The Fighter.",
+            "color": "#EAEAEA",
+            "position": 31
+          },
+          {
+            "id": "1320930897805049987",
+            "name": "Fallen Human",
+            "color": "#FFFFFF",
+            "position": 30
+          },
+          {
+            "id": "1320931410093019229",
+            "name": "Roguepurgatorian",
+            "color": "#743D7B",
+            "position": 29
+          },
+          {
+            "id": "1333634233284956222",
+            "name": "Olive Gardener",
+            "color": "#79A422",
+            "position": 28
+          },
+          {
+            "id": "1127394431121772676",
+            "name": "-=-=- BOTS -=-=-",
+            "color": "#FFFFFE",
+            "position": 26
+          },
+          {
+            "id": "707621823541411920",
+            "name": "Rebooted Bots",
+            "color": "#643C9E",
+            "position": 25
+          },
+          {
+            "id": "707656731144093879",
+            "name": "Rebooted PokeBots",
+            "color": "#AB3ABE",
+            "position": 24
+          },
+          {
+            "id": "1127393802290745466",
+            "name": "-=-=- PRONOUNS -=-=-",
+            "color": "#FFFFFE",
+            "position": 11
+          },
+          {
+            "id": "1080003640313524305",
+            "name": "Any Pronouns",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "1080003643803193434",
+            "name": "He/Him",
+            "color": null,
+            "position": 6
+          },
+          {
+            "id": "1257242735602045000",
+            "name": "Oed thuh ghach",
+            "color": null,
+            "position": 2
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/707518201990348832/users/609242340296622094/avatars/a1a60c546498c867ed307d7b08f86aa6.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "881966952728371280",
+          "url": "https://cdn.discordapp.com/attachments/881938271150678116/881966952728371280/Screen_Shot_2020-11-20_at_5.33.36_PM.png?ex=6813bbbb&is=68126a3b&hm=ed76ab20a2dc1103d125a9ab5861ef9aa26770b3203e4b64c2b1a5e67716f4a7&",
+          "fileName": "Screen_Shot_2020-11-20_at_5.33.36_PM.png",
+          "fileSizeBytes": 90759
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "881991980807229510",
+      "type": "Default",
+      "timestamp": "2021-08-30T15:01:14.843-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What?",
+      "author": {
+        "id": "272787339451826178",
+        "name": "akasweet",
+        "discriminator": "0000",
+        "nickname": "꞉ \uD83D\uDCA4  akasweetꜝꜝ",
+        "color": "#2EFF36",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "779522295281614949",
+            "name": "Trusted",
+            "color": "#2EFF36",
+            "position": 57
+          },
+          {
+            "id": "708092203372773386",
+            "name": "Spectator",
+            "color": "#818689",
+            "position": 56
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/272787339451826178/afe25e51e897a80fdf6b696f272b1dc2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "882057386326642760",
+      "type": "Default",
+      "timestamp": "2021-08-30T19:21:08.734-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ahn~\n*dies*",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 16
+}
